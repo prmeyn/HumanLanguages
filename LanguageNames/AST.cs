@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class AST
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -15,7 +15,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.arn, "" },
 				{ LanguageIsoCode.@as, "" },
 				{ LanguageIsoCode.asa, "" },
-				{ LanguageIsoCode.ast, "" },
+				{ LanguageIsoCode.ast, "asturianu" },
 				{ LanguageIsoCode.az, "" },
 				{ LanguageIsoCode.ba, "" },
 				{ LanguageIsoCode.bas, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Asturian" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.ES, "asturianu (España)" },
 			});
 	}
 }

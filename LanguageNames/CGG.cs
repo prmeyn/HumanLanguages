@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class CGG
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -35,14 +35,14 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ccp, "" },
 				{ LanguageIsoCode.ce, "" },
 				{ LanguageIsoCode.ceb, "" },
-				{ LanguageIsoCode.cgg, "" },
+				{ LanguageIsoCode.cgg, "Rukiga" },
 				{ LanguageIsoCode.chr, "" },
 				{ LanguageIsoCode.ckb, "" },
 				{ LanguageIsoCode.co, "" },
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Chiga" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.UG, "Rukiga (Uganda)" },
 			});
 	}
 }

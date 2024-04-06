@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class UZ
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Uzbek" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -229,7 +229,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ug, "" },
 				{ LanguageIsoCode.uk, "" },
 				{ LanguageIsoCode.ur, "" },
-				{ LanguageIsoCode.uz, "" },
+				{ LanguageIsoCode.uz, "o‘zbek" },
 				{ LanguageIsoCode.vai, "" },
 				{ LanguageIsoCode.ve, "" },
 				{ LanguageIsoCode.vi, "" },
@@ -250,8 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.ARAB, "اوزبیک (عربی)" },
+				{ LanguageVariationIsoCode.CYRL, "ўзбекча (Кирил)" },
+				{ LanguageVariationIsoCode.LATN, "o‘zbek (lotin)" }
 			});
 	}
 }

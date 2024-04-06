@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class MAS
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Masai" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -131,7 +131,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.luy, "" },
 				{ LanguageIsoCode.lv, "" },
 				{ LanguageIsoCode.mai, "" },
-				{ LanguageIsoCode.mas, "" },
+				{ LanguageIsoCode.mas, "Maa" },
 				{ LanguageIsoCode.mer, "" },
 				{ LanguageIsoCode.mfe, "" },
 				{ LanguageIsoCode.mg, "" },
@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.KE, "Maa (Kenya)" },
+				{ LanguageVariationIsoCode.TZ, "Maa (Tansania)" },
 			});
 	}
 }

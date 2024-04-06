@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class AR
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -11,7 +11,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.agq, "" },
 				{ LanguageIsoCode.ak, "" },
 				{ LanguageIsoCode.am, "" },
-				{ LanguageIsoCode.ar, "" },
+				{ LanguageIsoCode.ar, "العربية" },
 				{ LanguageIsoCode.arn, "" },
 				{ LanguageIsoCode.@as, "" },
 				{ LanguageIsoCode.asa, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Arabic" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,32 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AE, "العربية (الإمارات العربية المتحدة)" },
+				{ LanguageVariationIsoCode.BH, "العربية (البحرين)" },
+				{ LanguageVariationIsoCode.DJ, "العربية (جيبوتي)" },
+				{ LanguageVariationIsoCode.DZ, "العربية (الجزائر)" },
+				{ LanguageVariationIsoCode.EG, "العربية (مصر)" },
+				{ LanguageVariationIsoCode.ER, "العربية (إريتريا)" },
+				{ LanguageVariationIsoCode.IL, "العربية (إسرائيل)" },
+				{ LanguageVariationIsoCode.IQ, "العربية (العراق)" },
+				{ LanguageVariationIsoCode.JO, "العربية (الأردن)" },
+				{ LanguageVariationIsoCode.KM, "العربية (جزر القمر)" },
+				{ LanguageVariationIsoCode.KW, "العربية (الكويت)" },
+				{ LanguageVariationIsoCode.LB, "العربية (لبنان)" },
+				{ LanguageVariationIsoCode.LY, "العربية (ليبيا)" },
+				{ LanguageVariationIsoCode.MA, "العربية (المغرب)" },
+				{ LanguageVariationIsoCode.MR, "العربية (موريتانيا)" },
+				{ LanguageVariationIsoCode.OM, "العربية (عُمان)" },
+				{ LanguageVariationIsoCode.PS, "العربية (السلطة الفلسطينية)" },
+				{ LanguageVariationIsoCode.QA, "العربية (قطر)" },
+				{ LanguageVariationIsoCode.SA, "العربية (المملكة العربية السعودية)" },
+				{ LanguageVariationIsoCode.SD, "العربية (السودان)" },
+				{ LanguageVariationIsoCode.SO, "العربية (الصومال)" },
+				{ LanguageVariationIsoCode.SS, "العربية (جنوب السودان)" },
+				{ LanguageVariationIsoCode.SY, "العربية (سوريا)" },
+				{ LanguageVariationIsoCode.TD, "العربية (تشاد)" },
+				{ LanguageVariationIsoCode.TN, "العربية (تونس)" },
+				{ LanguageVariationIsoCode.YE, "العربية (اليمن)" },
 			});
 	}
 }

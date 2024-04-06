@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class KI
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Kikuyu" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -102,7 +102,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kde, "" },
 				{ LanguageIsoCode.kea, "" },
 				{ LanguageIsoCode.khq, "" },
-				{ LanguageIsoCode.ki, "" },
+				{ LanguageIsoCode.ki, "Gikuyu" },
 				{ LanguageIsoCode.kk, "" },
 				{ LanguageIsoCode.kkj, "" },
 				{ LanguageIsoCode.kl, "" },
@@ -250,8 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.KE, "Gikuyu (Kenya)" },
 			});
 	}
 }

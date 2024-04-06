@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class KS
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Kashmiri" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -112,7 +112,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ko, "" },
 				{ LanguageIsoCode.kok, "" },
 				{ LanguageIsoCode.kr, "" },
-				{ LanguageIsoCode.ks, "" },
+				{ LanguageIsoCode.ks, "کٲشُر" },
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.ARAB, "کٲشُر (اَربی)" },
+				{ LanguageVariationIsoCode.ARAB, "کٲشُر (اَربی, ہِندوستان)" },
+				{ LanguageVariationIsoCode.DEVA, "Kashmiri (Devanagari)" },
+				{ LanguageVariationIsoCode.DEVA, "Kashmiri (Devanagari, India)" },
 			});
 	}
 }

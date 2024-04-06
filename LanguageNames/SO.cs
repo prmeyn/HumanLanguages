@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class SO
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Somali" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -201,7 +201,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.smn, "" },
 				{ LanguageIsoCode.sms, "" },
 				{ LanguageIsoCode.sn, "" },
-				{ LanguageIsoCode.so, "" },
+				{ LanguageIsoCode.so, "Soomaali" },
 				{ LanguageIsoCode.sq, "" },
 				{ LanguageIsoCode.sr, "" },
 				{ LanguageIsoCode.ss, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.DJ, "Soomaali (Jabuuti)" },
+				{ LanguageVariationIsoCode.ET, "Soomaali (Itoobiya)" },
+				{ LanguageVariationIsoCode.KE, "Soomaali (Kenya)" },
+				{ LanguageVariationIsoCode.SO, "Soomaali (Soomaaliya)" },
 			});
 	}
 }

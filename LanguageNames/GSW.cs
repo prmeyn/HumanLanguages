@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class GSW
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Swiss German" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -72,7 +72,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.gd, "" },
 				{ LanguageIsoCode.gl, "" },
 				{ LanguageIsoCode.gn, "" },
-				{ LanguageIsoCode.gsw, "" },
+				{ LanguageIsoCode.gsw, "Schwiizertüütsch" },
 				{ LanguageIsoCode.gu, "" },
 				{ LanguageIsoCode.guz, "" },
 				{ LanguageIsoCode.gv, "" },
@@ -250,8 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.CH, "Schwiizertüütsch (Schwiiz)" },
+				{ LanguageVariationIsoCode.FR, "Elsässisch (Frànkrisch)" },
+				{ LanguageVariationIsoCode.LI, "Schwiizertüütsch (Liächteschtäi)" },
 			});
 	}
 }

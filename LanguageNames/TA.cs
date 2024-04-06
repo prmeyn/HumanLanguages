@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class TA
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Tamil" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -211,7 +211,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sv, "" },
 				{ LanguageIsoCode.sw, "" },
 				{ LanguageIsoCode.syr, "" },
-				{ LanguageIsoCode.ta, "" },
+				{ LanguageIsoCode.ta, "தமிழ்" },
 				{ LanguageIsoCode.te, "" },
 				{ LanguageIsoCode.teo, "" },
 				{ LanguageIsoCode.tg, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.IN, "தமிழ் (இந்தியா)" },
+				{ LanguageVariationIsoCode.LK, "தமிழ் (இலங்கை)" },
+				{ LanguageVariationIsoCode.MY, "தமிழ் (மலேசியா)" },
+				{ LanguageVariationIsoCode.SG, "தமிழ் (சிங்கப்பூர்)" },
 			});
 	}
 }

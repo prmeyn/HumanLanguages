@@ -255,6 +255,19 @@
         Vaii, // Vai
         VN, // Vietnam
         Hans, // Simplified Chinese
-        Hant // Traditional Chinese 
+        Hant, // Traditional Chinese 
+        DEVA,
+        ARAB,
+        CYRL,
+        LATN,
+        TFNG,
+        OLCK,
+        JAVA,
+        MONG,
+        BENG,
+        GURU,
+        VAII,
+        HANT,
+        HANS
     }
 }

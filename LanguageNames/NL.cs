@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class NL
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Dutch" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -153,7 +153,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nd, "" },
 				{ LanguageIsoCode.nds, "" },
 				{ LanguageIsoCode.ne, "" },
-				{ LanguageIsoCode.nl, "" },
+				{ LanguageIsoCode.nl, "Nederlands" },
 				{ LanguageIsoCode.nmg, "" },
 				{ LanguageIsoCode.nn, "" },
 				{ LanguageIsoCode.nnh, "" },
@@ -250,8 +250,13 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AW, "Nederlands (Aruba)" },
+				{ LanguageVariationIsoCode.BE, "Nederlands (België)" },
+				{ LanguageVariationIsoCode.BQ, "Nederlands (Bonaire, Sint Eustatius en Saba)" },
+				{ LanguageVariationIsoCode.CW, "Nederlands (Curaçao)" },
+				{ LanguageVariationIsoCode.NL, "Nederlands (Nederland)" },
+				{ LanguageVariationIsoCode.SR, "Nederlands (Suriname)" },
+				{ LanguageVariationIsoCode.SX, "Nederlands (Sint-Maarten)" },
 			});
 	}
 }

@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class BM
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -24,7 +24,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bez, "" },
 				{ LanguageIsoCode.bg, "" },
 				{ LanguageIsoCode.bin, "" },
-				{ LanguageIsoCode.bm, "" },
+				{ LanguageIsoCode.bm, "bamanakan" },
 				{ LanguageIsoCode.bn, "" },
 				{ LanguageIsoCode.bo, "" },
 				{ LanguageIsoCode.br, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Bamanankan" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.ML, "bamanakan (Mali)" },
 			});
 	}
 }

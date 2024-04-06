@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class CA
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -31,7 +31,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.brx, "" },
 				{ LanguageIsoCode.bs, "" },
 				{ LanguageIsoCode.byn, "" },
-				{ LanguageIsoCode.ca, "" },
+				{ LanguageIsoCode.ca, "català" },
 				{ LanguageIsoCode.ccp, "" },
 				{ LanguageIsoCode.ce, "" },
 				{ LanguageIsoCode.ceb, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Catalan" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AD, "català (Andorra)" },
+				{ LanguageVariationIsoCode.ES, "català (Espanya)" },
+				{ LanguageVariationIsoCode.FR, "català (França)" },
+				{ LanguageVariationIsoCode.IT, "català (Itàlia)" },
 			});
 	}
 }

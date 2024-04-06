@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class BO
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -26,7 +26,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bin, "" },
 				{ LanguageIsoCode.bm, "" },
 				{ LanguageIsoCode.bn, "" },
-				{ LanguageIsoCode.bo, "" },
+				{ LanguageIsoCode.bo, "བོད་སྐད་" },
 				{ LanguageIsoCode.br, "" },
 				{ LanguageIsoCode.brx, "" },
 				{ LanguageIsoCode.bs, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Tibetan" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.CN, "བོད་སྐད་ (རྒྱ་ནག)" },
+				{ LanguageVariationIsoCode.IN, "བོད་སྐད་ (རྒྱ་གར་)" },
 			});
 	}
 }

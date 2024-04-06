@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class TZM
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Central Atlas Tamazight" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -225,7 +225,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ts, "" },
 				{ LanguageIsoCode.tt, "" },
 				{ LanguageIsoCode.twq, "" },
-				{ LanguageIsoCode.tzm, "" },
+				{ LanguageIsoCode.tzm, "Tamaziɣt n laṭlaṣ" },
 				{ LanguageIsoCode.ug, "" },
 				{ LanguageIsoCode.uk, "" },
 				{ LanguageIsoCode.ur, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.ARAB, "Central Atlas Tamazight (Arabic)" },
+				{ LanguageVariationIsoCode.DZ, "Tamaziɣt n laṭlaṣ (Dzayer)" },
+				{ LanguageVariationIsoCode.MA, "Tamaziɣt n laṭlaṣ (Meṛṛuk)" },
+				{ LanguageVariationIsoCode.TFNG, "Central Atlas Tamazight (Tifinagh)" }
 			});
 	}
 }

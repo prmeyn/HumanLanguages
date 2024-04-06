@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class LN
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Lingala" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -123,7 +123,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lb, "" },
 				{ LanguageIsoCode.lg, "" },
 				{ LanguageIsoCode.lkt, "" },
-				{ LanguageIsoCode.ln, "" },
+				{ LanguageIsoCode.ln, "lingála" },
 				{ LanguageIsoCode.lo, "" },
 				{ LanguageIsoCode.lrc, "" },
 				{ LanguageIsoCode.lt, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AO, "lingála (Angóla)" },
+				{ LanguageVariationIsoCode.CD, "lingála (Republíki ya Kongó Demokratíki)" },
+				{ LanguageVariationIsoCode.CF, "lingála (Repibiki ya Afríka ya Káti)" },
+				{ LanguageVariationIsoCode.CG, "lingála (Kongo)" },
 			});
 	}
 }

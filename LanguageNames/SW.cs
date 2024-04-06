@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class SW
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Kiswahili" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -209,7 +209,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.st, "" },
 				{ LanguageIsoCode.su, "" },
 				{ LanguageIsoCode.sv, "" },
-				{ LanguageIsoCode.sw, "" },
+				{ LanguageIsoCode.sw, "Kiswahili" },
 				{ LanguageIsoCode.syr, "" },
 				{ LanguageIsoCode.ta, "" },
 				{ LanguageIsoCode.te, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.CD, "Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)" },
+				{ LanguageVariationIsoCode.KE, "Kiswahili (Kenya)" },
+				{ LanguageVariationIsoCode.TZ, "Kiswahili (Tanzania)" },
+				{ LanguageVariationIsoCode.UG, "Kiswahili (Uganda)" },
 			});
 	}
 }

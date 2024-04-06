@@ -1,13 +1,13 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class AF
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
 			new Dictionary<LanguageIsoCode, string>()
 			{
 				{ LanguageIsoCode.aa, "" },
-				{ LanguageIsoCode.af, "" },
+				{ LanguageIsoCode.af, "Afrikaans" },
 				{ LanguageIsoCode.agq, "" },
 				{ LanguageIsoCode.ak, "" },
 				{ LanguageIsoCode.am, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Afrikaans" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.NA, "Afrikaans (Namibië)" },
+				{ LanguageVariationIsoCode.ZA, "Afrikaans (Suid-Afrika)" },
 			});
 	}
 }

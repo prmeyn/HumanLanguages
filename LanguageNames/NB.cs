@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class NB
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Norwegian Bokmål" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -149,7 +149,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.my, "" },
 				{ LanguageIsoCode.mzn, "" },
 				{ LanguageIsoCode.naq, "" },
-				{ LanguageIsoCode.nb, "" },
+				{ LanguageIsoCode.nb, "norsk bokmål" },
 				{ LanguageIsoCode.nd, "" },
 				{ LanguageIsoCode.nds, "" },
 				{ LanguageIsoCode.ne, "" },
@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.NO, "norsk bokmål (Norge)" },
+				{ LanguageVariationIsoCode.SJ, "norsk bokmål (Svalbard og Jan Mayen)" },
 			});
 	}
 }

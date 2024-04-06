@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class SV
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Swedish" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -208,7 +208,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ssy, "" },
 				{ LanguageIsoCode.st, "" },
 				{ LanguageIsoCode.su, "" },
-				{ LanguageIsoCode.sv, "" },
+				{ LanguageIsoCode.sv, "svenska" },
 				{ LanguageIsoCode.sw, "" },
 				{ LanguageIsoCode.syr, "" },
 				{ LanguageIsoCode.ta, "" },
@@ -250,8 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AX, "svenska (Åland)" },
+				{ LanguageVariationIsoCode.FI, "svenska (Finland)" },
+				{ LanguageVariationIsoCode.SE, "svenska (Sverige)" },
 			});
 	}
 }

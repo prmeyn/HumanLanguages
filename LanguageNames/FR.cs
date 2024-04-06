@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class FR
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "French" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -65,7 +65,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.fi, "" },
 				{ LanguageIsoCode.fil, "" },
 				{ LanguageIsoCode.fo, "" },
-				{ LanguageIsoCode.fr, "" },
+				{ LanguageIsoCode.fr, "français" },
 				{ LanguageIsoCode.fur, "" },
 				{ LanguageIsoCode.fy, "" },
 				{ LanguageIsoCode.ga, "" },
@@ -250,8 +250,52 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.BE, "français (Belgique)" },
+				{ LanguageVariationIsoCode.BF, "français (Burkina Faso)" },
+				{ LanguageVariationIsoCode.BI, "français (Burundi)" },
+				{ LanguageVariationIsoCode.BJ, "français (Bénin)" },
+				{ LanguageVariationIsoCode.BL, "français (Saint-Barthélemy)" },
+				{ LanguageVariationIsoCode.CA, "français (Canada)" },
+				{ LanguageVariationIsoCode.CD, "français (Congo [République démocratique du])" },
+				{ LanguageVariationIsoCode.CF, "français (République centrafricaine)" },
+				{ LanguageVariationIsoCode.CG, "français (Congo)" },
+				{ LanguageVariationIsoCode.CH, "français (Suisse)" },
+				{ LanguageVariationIsoCode.CI, "français (Côte d’Ivoire)" },
+				{ LanguageVariationIsoCode.CM, "français (Cameroun)" },
+				{ LanguageVariationIsoCode.DJ, "français (Djibouti)" },
+				{ LanguageVariationIsoCode.DZ, "français (Algérie)" },
+				{ LanguageVariationIsoCode.FR, "français (France)" },
+				{ LanguageVariationIsoCode.GA, "français (Gabon)" },
+				{ LanguageVariationIsoCode.GF, "français (Guyane française)" },
+				{ LanguageVariationIsoCode.GN, "français (Guinée)" },
+				{ LanguageVariationIsoCode.GP, "français (Guadeloupe)" },
+				{ LanguageVariationIsoCode.GQ, "français (Guinée équatoriale)" },
+				{ LanguageVariationIsoCode.HT, "français (Haïti)" },
+				{ LanguageVariationIsoCode.KM, "français (Comores)" },
+				{ LanguageVariationIsoCode.LU, "français (Luxembourg)" },
+				{ LanguageVariationIsoCode.MA, "français (Maroc)" },
+				{ LanguageVariationIsoCode.MC, "français (Monaco)" },
+				{ LanguageVariationIsoCode.MF, "français (Saint-Martin)" },
+				{ LanguageVariationIsoCode.MG, "français (Madagascar)" },
+				{ LanguageVariationIsoCode.ML, "français (Mali)" },
+				{ LanguageVariationIsoCode.MQ, "français (Martinique)" },
+				{ LanguageVariationIsoCode.MR, "français (Mauritanie)" },
+				{ LanguageVariationIsoCode.MU, "français (Maurice)" },
+				{ LanguageVariationIsoCode.NC, "français (Nouvelle-Calédonie)" },
+				{ LanguageVariationIsoCode.NE, "français (Niger)" },
+				{ LanguageVariationIsoCode.PF, "français (Polynésie française)" },
+				{ LanguageVariationIsoCode.PM, "français (Saint-Pierre-et-Miquelon)" },
+				{ LanguageVariationIsoCode.RE, "français (La Réunion)" },
+				{ LanguageVariationIsoCode.RW, "français (Rwanda)" },
+				{ LanguageVariationIsoCode.SC, "français (Seychelles)" },
+				{ LanguageVariationIsoCode.SN, "français (Sénégal)" },
+				{ LanguageVariationIsoCode.SY, "français (Syrie)" },
+				{ LanguageVariationIsoCode.TD, "français (Tchad)" },
+				{ LanguageVariationIsoCode.TG, "français (Togo)" },
+				{ LanguageVariationIsoCode.TN, "français (Tunisie)" },
+				{ LanguageVariationIsoCode.VU, "français (Vanuatu)" },
+				{ LanguageVariationIsoCode.WF, "français (Wallis-et-Futuna)" },
+				{ LanguageVariationIsoCode.YT, "français (Mayotte)" },
 			});
 	}
 }

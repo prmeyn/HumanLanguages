@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class HA
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Hausa" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -76,7 +76,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.gu, "" },
 				{ LanguageIsoCode.guz, "" },
 				{ LanguageIsoCode.gv, "" },
-				{ LanguageIsoCode.ha, "" },
+				{ LanguageIsoCode.ha, "Hausa" },
 				{ LanguageIsoCode.haw, "" },
 				{ LanguageIsoCode.he, "" },
 				{ LanguageIsoCode.hi, "" },
@@ -250,8 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.GH, "Hausa (Gana)" },
+				{ LanguageVariationIsoCode.NE, "Hausa (Nijar)" },
+				{ LanguageVariationIsoCode.NG, "Hausa (Najeriya)" },
 			});
 	}
 }

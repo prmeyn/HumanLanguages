@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class BRX
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -28,7 +28,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bn, "" },
 				{ LanguageIsoCode.bo, "" },
 				{ LanguageIsoCode.br, "" },
-				{ LanguageIsoCode.brx, "" },
+				{ LanguageIsoCode.brx, "बड़ो" },
 				{ LanguageIsoCode.bs, "" },
 				{ LanguageIsoCode.byn, "" },
 				{ LanguageIsoCode.ca, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Bodo" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.IN, "बड़ो (भारत)" },
 			});
 	}
 }

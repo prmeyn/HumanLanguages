@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class PT
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Portuguese" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -172,7 +172,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.pl, "" },
 				{ LanguageIsoCode.prg, "" },
 				{ LanguageIsoCode.ps, "" },
-				{ LanguageIsoCode.pt, "" },
+				{ LanguageIsoCode.pt, "português" },
 				{ LanguageIsoCode.qu, "" },
 				{ LanguageIsoCode.quc, "" },
 				{ LanguageIsoCode.rm, "" },
@@ -250,8 +250,18 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AO, "português (Angola)" },
+				{ LanguageVariationIsoCode.BR, "português (Brasil)" },
+				{ LanguageVariationIsoCode.CH, "português (Suíça)" },
+				{ LanguageVariationIsoCode.CV, "português (Cabo Verde)" },
+				{ LanguageVariationIsoCode.GQ, "português (Guiné Equatorial)" },
+				{ LanguageVariationIsoCode.GW, "português (Guiné-Bissau)" },
+				{ LanguageVariationIsoCode.LU, "português (Luxemburgo)" },
+				{ LanguageVariationIsoCode.MO, "português (Macau, RAE da China)" },
+				{ LanguageVariationIsoCode.MZ, "português (Moçambique)" },
+				{ LanguageVariationIsoCode.PT, "português (Portugal)" },
+				{ LanguageVariationIsoCode.ST, "português (São Tomé e Príncipe)" },
+				{ LanguageVariationIsoCode.TL, "português (Timor-Leste)" },
 			});
 	}
 }

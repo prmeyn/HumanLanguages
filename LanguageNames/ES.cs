@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class ES
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,9 +54,9 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Spanish" },
 				{ LanguageIsoCode.eo, "" },
-				{ LanguageIsoCode.es, "" },
+				{ LanguageIsoCode.es, "español" },
 				{ LanguageIsoCode.et, "" },
 				{ LanguageIsoCode.eu, "" },
 				{ LanguageIsoCode.ewo, "" },
@@ -250,8 +250,31 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AR, "español (Argentina)" },
+				{ LanguageVariationIsoCode.BO, "español (Bolivia)" },
+				{ LanguageVariationIsoCode.BR, "español (Brasil)" },
+				{ LanguageVariationIsoCode.BZ, "español (Belice)" },
+				{ LanguageVariationIsoCode.CL, "español (Chile)" },
+				{ LanguageVariationIsoCode.CO, "español (Colombia)" },
+				{ LanguageVariationIsoCode.CR, "español (Costa Rica)" },
+				{ LanguageVariationIsoCode.CU, "español (Cuba)" },
+				{ LanguageVariationIsoCode.DO, "español (República Dominicana)" },
+				{ LanguageVariationIsoCode.EC, "español (Ecuador)" },
+				{ LanguageVariationIsoCode.ES, "español (España)" },
+				{ LanguageVariationIsoCode.GQ, "español (Guinea Ecuatorial)" },
+				{ LanguageVariationIsoCode.GT, "español (Guatemala)" },
+				{ LanguageVariationIsoCode.HN, "español (Honduras)" },
+				{ LanguageVariationIsoCode.MX, "español (México)" },
+				{ LanguageVariationIsoCode.NI, "español (Nicaragua)" },
+				{ LanguageVariationIsoCode.PA, "español (Panamá)" },
+				{ LanguageVariationIsoCode.PE, "español (Perú)" },
+				{ LanguageVariationIsoCode.PH, "español (Filipinas)" },
+				{ LanguageVariationIsoCode.PR, "español (Puerto Rico)" },
+				{ LanguageVariationIsoCode.PY, "español (Paraguay)" },
+				{ LanguageVariationIsoCode.SV, "español (El Salvador)" },
+				{ LanguageVariationIsoCode.US, "español (Estados Unidos)" },
+				{ LanguageVariationIsoCode.UY, "español (Uruguay)" },
+				{ LanguageVariationIsoCode.VE, "español (Venezuela)" },
 			});
 	}
 }

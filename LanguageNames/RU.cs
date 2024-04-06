@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class RU
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Russian" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -179,7 +179,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.rn, "" },
 				{ LanguageIsoCode.ro, "" },
 				{ LanguageIsoCode.rof, "" },
-				{ LanguageIsoCode.ru, "" },
+				{ LanguageIsoCode.ru, "русский" },
 				{ LanguageIsoCode.rw, "" },
 				{ LanguageIsoCode.rwk, "" },
 				{ LanguageIsoCode.sa, "" },
@@ -250,8 +250,12 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.BY, "русский (Беларусь)" },
+				{ LanguageVariationIsoCode.KG, "русский (Киргизия)" },
+				{ LanguageVariationIsoCode.KZ, "русский (Казахстан)" },
+				{ LanguageVariationIsoCode.MD, "русский (Молдова)" },
+				{ LanguageVariationIsoCode.RU, "русский (Россия)" },
+				{ LanguageVariationIsoCode.UA, "русский (Украина)" },
 			});
 	}
 }

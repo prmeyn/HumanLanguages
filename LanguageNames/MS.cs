@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class MS
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Malay" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -143,7 +143,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mni, "" },
 				{ LanguageIsoCode.moh, "" },
 				{ LanguageIsoCode.mr, "" },
-				{ LanguageIsoCode.ms, "" },
+				{ LanguageIsoCode.ms, "Melayu" },
 				{ LanguageIsoCode.mt, "" },
 				{ LanguageIsoCode.mua, "" },
 				{ LanguageIsoCode.my, "" },
@@ -250,8 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.BN, "Melayu (Brunei)" },
+				{ LanguageVariationIsoCode.ID, "Melayu (Indonesia)" },
+				{ LanguageVariationIsoCode.MY, "Melayu (Malaysia)" },
+				{ LanguageVariationIsoCode.SG, "Melayu (Singapura)" },
 			});
 	}
 }

@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class SE
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Northern Sami" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -188,7 +188,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sat, "" },
 				{ LanguageIsoCode.sbp, "" },
 				{ LanguageIsoCode.sd, "" },
-				{ LanguageIsoCode.se, "" },
+				{ LanguageIsoCode.se, "davvisámegiella" },
 				{ LanguageIsoCode.seh, "" },
 				{ LanguageIsoCode.ses, "" },
 				{ LanguageIsoCode.sg, "" },
@@ -250,8 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.FI, "davvisámegiella (Suopma)" },
+				{ LanguageVariationIsoCode.NO, "davvisámegiella (Norga)" },
+				{ LanguageVariationIsoCode.SE, "davvisámegiella (Ruoŧŧa)" },
 			});
 	}
 }

@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class BIN
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -23,7 +23,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bem, "" },
 				{ LanguageIsoCode.bez, "" },
 				{ LanguageIsoCode.bg, "" },
-				{ LanguageIsoCode.bin, "" },
+				{ LanguageIsoCode.bin, "Ẹ̀dó" },
 				{ LanguageIsoCode.bm, "" },
 				{ LanguageIsoCode.bn, "" },
 				{ LanguageIsoCode.bo, "" },
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Edo" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -250,8 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.NG, "Ẹ̀dó (Nigeria)" },
 			});
 	}
 }

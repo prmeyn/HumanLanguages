@@ -1,6 +1,6 @@
 namespace HumanLanguages.LanguageNames
 {
-	public sealed class DA
+	public sealed class SQ
 	{
 		public static LanguageProperties LanguageProperties => new(
 			LanguageNames:
@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "" },
-				{ LanguageIsoCode.da, "dansk" },
+				{ LanguageIsoCode.da, "" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "" },
 				{ LanguageIsoCode.dje, "" },
@@ -54,7 +54,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "" },
-				{ LanguageIsoCode.en, "Danish" },
+				{ LanguageIsoCode.en, "Albanian" },
 				{ LanguageIsoCode.eo, "" },
 				{ LanguageIsoCode.es, "" },
 				{ LanguageIsoCode.et, "" },
@@ -202,7 +202,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sms, "" },
 				{ LanguageIsoCode.sn, "" },
 				{ LanguageIsoCode.so, "" },
-				{ LanguageIsoCode.sq, "" },
+				{ LanguageIsoCode.sq, "shqip" },
 				{ LanguageIsoCode.sr, "" },
 				{ LanguageIsoCode.ss, "" },
 				{ LanguageIsoCode.ssy, "" },
@@ -250,8 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
-				{ LanguageVariationIsoCode.DK, "dansk (Danmark)" },
-				{ LanguageVariationIsoCode.GL, "dansk (Grønland)" },
+				{ LanguageVariationIsoCode.AL, "shqip (Shqipëri)" },
+				{ LanguageVariationIsoCode.MK, "shqip (Maqedonia e Veriut)" },
+				{ LanguageVariationIsoCode.XK, "shqip (Kosovë)" },
 			});
 	}
 }
