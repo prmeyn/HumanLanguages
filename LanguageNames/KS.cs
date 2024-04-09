@@ -251,9 +251,7 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageVariationIsoCode, string>()
 			{
 				{ LanguageVariationIsoCode.ARAB, "کٲشُر (اَربی)" },
-				{ LanguageVariationIsoCode.ARAB, "کٲشُر (اَربی, ہِندوستان)" },
-				{ LanguageVariationIsoCode.DEVA, "Kashmiri (Devanagari)" },
-				{ LanguageVariationIsoCode.DEVA, "Kashmiri (Devanagari, India)" },
+				{ LanguageVariationIsoCode.DEVA, "Kashmiri (Devanagari)" }
 			});
 	}
 }

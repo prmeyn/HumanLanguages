@@ -345,7 +345,6 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageVariationIsoCode.UG, "English (Uganda)" },
 				{ LanguageVariationIsoCode.UM, "English (U.S. Outlying Islands)" },
 				{ LanguageVariationIsoCode.US, "English (United States)" },
-				{ LanguageVariationIsoCode.US, "English (United States, Computer)" },
 				{ LanguageVariationIsoCode.VC, "English (St. Vincent & Grenadines)" },
 				{ LanguageVariationIsoCode.VG, "English (British Virgin Islands)" },
 				{ LanguageVariationIsoCode.VI, "English (U.S. Virgin Islands)" },
