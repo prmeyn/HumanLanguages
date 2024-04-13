@@ -1,4 +1,4 @@
-# HumanLanguages
+# [HumanLanguages](https://www.nuget.org/packages/HumanLanguages)
 
 **HumanLanguages** is an open-source C# class library that provides a comprehensive database of human language names. By including this library in your project, you gain access to language names in various languages. Whether you're building language-related applications, educational tools, or simply curious about linguistic diversity, **HumanLanguages** has you covered!
 
@@ -12,9 +12,9 @@ We welcome contributions! If you find a bug, have an idea for improvement, or wa
 
 ## Getting Started
 
-### NuGet Package
+### [NuGet Package](https://www.nuget.org/packages/HumanLanguages)
 
-To include **HumanLanguages** in your project, install the NuGet package:
+To include **HumanLanguages** in your project, [install the NuGet package](https://www.nuget.org/packages/HumanLanguages):
 
 ```bash
 dotnet add package HumanLanguages
