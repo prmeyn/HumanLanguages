@@ -112,6 +112,7 @@
         ksb, // Shambala
         ksf, // Bafia
         ksh, // Colognian
+        ku, // Kurdish
         kw, // Cornish
         ky, // Kyrgyz
         la, // Latin
