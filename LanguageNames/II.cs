@@ -88,7 +88,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ibb, "" },
 				{ LanguageIsoCode.id, "Yi" },
 				{ LanguageIsoCode.ig, "Yi" },
-				{ LanguageIsoCode.ii, "" },
+				{ LanguageIsoCode.ii, "ꆈꌠꉙ" },
 				{ LanguageIsoCode.@is, "Yi" },
 				{ LanguageIsoCode.it, "Sì" },
 				{ LanguageIsoCode.iu, "" },

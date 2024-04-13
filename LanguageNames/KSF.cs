@@ -114,7 +114,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kr, "" },
 				{ LanguageIsoCode.ks, "" },
 				{ LanguageIsoCode.ksb, "" },
-				{ LanguageIsoCode.ksf, "" },
+				{ LanguageIsoCode.ksf, "rikpa" },
 				{ LanguageIsoCode.ksh, "" },
 				{ LanguageIsoCode.kw, "" },
 				{ LanguageIsoCode.ky, "Бафия" },

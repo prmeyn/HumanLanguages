@@ -243,7 +243,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.yav, "" },
 				{ LanguageIsoCode.yi, "נאָרמאַל מאָראָקקאַן טאַמאַזיגהט" },
 				{ LanguageIsoCode.yo, "Standard Moroccan Tamazight" },
-				{ LanguageIsoCode.zgh, "" },
+				{ LanguageIsoCode.zgh, "ⵜⴰⵎⴰⵣⵉⵖⵜ" },
 				{ LanguageIsoCode.zh, "标准摩洛哥塔马齐特" },
 				{ LanguageIsoCode.zu, "I-Standard Moroccan Tamazight" },
 			},

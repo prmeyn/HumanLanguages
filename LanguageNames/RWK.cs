@@ -181,7 +181,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.rof, "" },
 				{ LanguageIsoCode.ru, "Рва" },
 				{ LanguageIsoCode.rw, "Rwa" },
-				{ LanguageIsoCode.rwk, "" },
+				{ LanguageIsoCode.rwk, "Kiruwa" },
 				{ LanguageIsoCode.sa, "" },
 				{ LanguageIsoCode.sah, "" },
 				{ LanguageIsoCode.saq, "" },

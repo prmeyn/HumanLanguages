@@ -198,7 +198,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sl, "Inari Sami" },
 				{ LanguageIsoCode.sma, "" },
 				{ LanguageIsoCode.smj, "" },
-				{ LanguageIsoCode.smn, "" },
+				{ LanguageIsoCode.smn, "anarâškielâ" },
 				{ LanguageIsoCode.sms, "" },
 				{ LanguageIsoCode.sn, "Inari Sami" },
 				{ LanguageIsoCode.so, "Inari Sami" },

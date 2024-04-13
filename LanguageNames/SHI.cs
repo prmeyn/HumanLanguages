@@ -192,7 +192,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.seh, "" },
 				{ LanguageIsoCode.ses, "" },
 				{ LanguageIsoCode.sg, "" },
-				{ LanguageIsoCode.shi, "" },
+				{ LanguageIsoCode.shi, "ⵜⴰⵛⵍⵃⵉⵜ" },
 				{ LanguageIsoCode.si, "ටචෙල්හිට්" },
 				{ LanguageIsoCode.sk, "Tachelhit" },
 				{ LanguageIsoCode.sl, "Tachelhit" },

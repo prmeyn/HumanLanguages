@@ -118,7 +118,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ksh, "" },
 				{ LanguageIsoCode.kw, "" },
 				{ LanguageIsoCode.ky, "Латынча" },
-				{ LanguageIsoCode.la, "Latinus" },
+				{ LanguageIsoCode.la, "Latin" },
 				{ LanguageIsoCode.lag, "" },
 				{ LanguageIsoCode.lb, "laténgesch" },
 				{ LanguageIsoCode.lg, "" },

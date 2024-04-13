@@ -157,7 +157,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nmg, "" },
 				{ LanguageIsoCode.nn, "" },
 				{ LanguageIsoCode.nnh, "" },
-				{ LanguageIsoCode.nqo, "" },
+				{ LanguageIsoCode.nqo, "ߒߞߏ" },
 				{ LanguageIsoCode.nr, "" },
 				{ LanguageIsoCode.nso, "" },
 				{ LanguageIsoCode.nus, "" },

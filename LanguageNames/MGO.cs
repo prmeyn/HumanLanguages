@@ -135,7 +135,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mer, "" },
 				{ LanguageIsoCode.mfe, "" },
 				{ LanguageIsoCode.mg, "MetaÊ¼" },
-				{ LanguageIsoCode.mgo, "" },
+				{ LanguageIsoCode.mgo, "metaʼ" },
 				{ LanguageIsoCode.mi, "MetaÊ¼" },
 				{ LanguageIsoCode.mk, "Мета¼" },
 				{ LanguageIsoCode.ml, "മെറ്റാ¼" },

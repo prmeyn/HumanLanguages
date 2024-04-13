@@ -91,7 +91,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ii, "" },
 				{ LanguageIsoCode.@is, "Inuktitut" },
 				{ LanguageIsoCode.it, "Inuktitut" },
-				{ LanguageIsoCode.iu, "" },
+				{ LanguageIsoCode.iu, "Inuktitut" },
 				{ LanguageIsoCode.ja, "イヌクティトゥット島" },
 				{ LanguageIsoCode.jgo, "" },
 				{ LanguageIsoCode.jmc, "" },

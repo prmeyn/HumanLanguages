@@ -165,7 +165,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.oc, "" },
 				{ LanguageIsoCode.om, "" },
 				{ LanguageIsoCode.or, "ଓସେଟିକ୍ |" },
-				{ LanguageIsoCode.os, "" },
+				{ LanguageIsoCode.os, "ирон" },
 				{ LanguageIsoCode.pa, "ਓਸੇਟਿਕ" },
 				{ LanguageIsoCode.pap, "" },
 				{ LanguageIsoCode.pcm, "" },

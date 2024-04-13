@@ -130,7 +130,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.luo, "" },
 				{ LanguageIsoCode.luy, "" },
 				{ LanguageIsoCode.lv, "Maithili" },
-				{ LanguageIsoCode.mai, "" },
+				{ LanguageIsoCode.mai, "मैथिली" },
 				{ LanguageIsoCode.mas, "" },
 				{ LanguageIsoCode.mer, "" },
 				{ LanguageIsoCode.mfe, "" },

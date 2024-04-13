@@ -207,7 +207,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ss, "" },
 				{ LanguageIsoCode.ssy, "" },
 				{ LanguageIsoCode.st, "Sesundanese" },
-				{ LanguageIsoCode.su, "basa Sunda" },
+				{ LanguageIsoCode.su, "Basa Sunda" },
 				{ LanguageIsoCode.sv, "Sundanesiska" },
 				{ LanguageIsoCode.sw, "Kisunda" },
 				{ LanguageIsoCode.syr, "" },

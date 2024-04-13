@@ -120,7 +120,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ky, "Люксембургча" },
 				{ LanguageIsoCode.la, "Luxemburgish" },
 				{ LanguageIsoCode.lag, "" },
-				{ LanguageIsoCode.lb, "lëtzebuergesch" },
+				{ LanguageIsoCode.lb, "Lëtzebuergesch" },
 				{ LanguageIsoCode.lg, "" },
 				{ LanguageIsoCode.lkt, "" },
 				{ LanguageIsoCode.ln, "" },

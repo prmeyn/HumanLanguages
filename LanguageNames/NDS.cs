@@ -151,7 +151,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.naq, "" },
 				{ LanguageIsoCode.nb, "Nedertysk" },
 				{ LanguageIsoCode.nd, "" },
-				{ LanguageIsoCode.nds, "" },
+				{ LanguageIsoCode.nds, "Low German" },
 				{ LanguageIsoCode.ne, "कम जर्मन" },
 				{ LanguageIsoCode.nl, "Laag Duits" },
 				{ LanguageIsoCode.nmg, "" },

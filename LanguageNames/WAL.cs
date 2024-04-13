@@ -236,7 +236,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.vo, "" },
 				{ LanguageIsoCode.vun, "" },
 				{ LanguageIsoCode.wae, "" },
-				{ LanguageIsoCode.wal, "" },
+				{ LanguageIsoCode.wal, "Wolaytta" },
 				{ LanguageIsoCode.wo, "" },
 				{ LanguageIsoCode.xh, "Wolaytta" },
 				{ LanguageIsoCode.xog, "" },

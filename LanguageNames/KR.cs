@@ -111,7 +111,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kn, "ಕಾನೂರಿ" },
 				{ LanguageIsoCode.ko, "카누리" },
 				{ LanguageIsoCode.kok, "" },
-				{ LanguageIsoCode.kr, "" },
+				{ LanguageIsoCode.kr, "Kanuri" },
 				{ LanguageIsoCode.ks, "" },
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },

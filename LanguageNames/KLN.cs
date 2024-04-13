@@ -106,7 +106,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kk, "Каленжин" },
 				{ LanguageIsoCode.kkj, "" },
 				{ LanguageIsoCode.kl, "" },
-				{ LanguageIsoCode.kln, "" },
+				{ LanguageIsoCode.kln, "Kalenjin" },
 				{ LanguageIsoCode.km, "កាឡិនជីន" },
 				{ LanguageIsoCode.kn, "ಕಲೆಂಜಿನ್" },
 				{ LanguageIsoCode.ko, "칼렌진" },

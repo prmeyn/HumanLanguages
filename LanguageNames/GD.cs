@@ -69,7 +69,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.fur, "" },
 				{ LanguageIsoCode.fy, "Skotsk Gaelic" },
 				{ LanguageIsoCode.ga, "Gaeilge na hAlban" },
-				{ LanguageIsoCode.gd, "Gàidhlig na h-Alba" },
+				{ LanguageIsoCode.gd, "Gàidhlig" },
 				{ LanguageIsoCode.gl, "Gaélico escocés" },
 				{ LanguageIsoCode.gn, "" },
 				{ LanguageIsoCode.gsw, "" },

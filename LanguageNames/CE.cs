@@ -35,7 +35,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.byn, "" },
 				{ LanguageIsoCode.ca, "Txetxè" },
 				{ LanguageIsoCode.ccp, "" },
-				{ LanguageIsoCode.ce, "" },
+				{ LanguageIsoCode.ce, "нохчийн" },
 				{ LanguageIsoCode.ceb, "Chechen" },
 				{ LanguageIsoCode.cgg, "" },
 				{ LanguageIsoCode.chr, "" },

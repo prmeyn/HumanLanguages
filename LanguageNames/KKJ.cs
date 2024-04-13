@@ -104,7 +104,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.khq, "" },
 				{ LanguageIsoCode.ki, "" },
 				{ LanguageIsoCode.kk, "Како" },
-				{ LanguageIsoCode.kkj, "" },
+				{ LanguageIsoCode.kkj, "kakɔ" },
 				{ LanguageIsoCode.kl, "" },
 				{ LanguageIsoCode.kln, "" },
 				{ LanguageIsoCode.km, "កាកូ" },

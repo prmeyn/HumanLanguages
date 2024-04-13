@@ -205,7 +205,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sq, "Saho" },
 				{ LanguageIsoCode.sr, "Сахо" },
 				{ LanguageIsoCode.ss, "" },
-				{ LanguageIsoCode.ssy, "" },
+				{ LanguageIsoCode.ssy, "Saho" },
 				{ LanguageIsoCode.st, "Saho" },
 				{ LanguageIsoCode.su, "Saho" },
 				{ LanguageIsoCode.sv, "Saho" },

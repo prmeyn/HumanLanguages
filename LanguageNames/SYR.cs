@@ -210,7 +210,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.su, "Siria" },
 				{ LanguageIsoCode.sv, "syrisk" },
 				{ LanguageIsoCode.sw, "Kisiria" },
-				{ LanguageIsoCode.syr, "" },
+				{ LanguageIsoCode.syr, "Syriac" },
 				{ LanguageIsoCode.ta, "சிரியாக்" },
 				{ LanguageIsoCode.te, "సిరియాక్" },
 				{ LanguageIsoCode.teo, "" },

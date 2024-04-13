@@ -184,7 +184,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.rwk, "" },
 				{ LanguageIsoCode.sa, "" },
 				{ LanguageIsoCode.sah, "" },
-				{ LanguageIsoCode.saq, "" },
+				{ LanguageIsoCode.saq, "Kisampur" },
 				{ LanguageIsoCode.sat, "" },
 				{ LanguageIsoCode.sbp, "" },
 				{ LanguageIsoCode.sd, "سمبورو" },

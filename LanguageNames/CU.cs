@@ -42,7 +42,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ckb, "" },
 				{ LanguageIsoCode.co, "Chjesa slava" },
 				{ LanguageIsoCode.cs, "církevní slovanština" },
-				{ LanguageIsoCode.cu, "" },
+				{ LanguageIsoCode.cu, "Church Slavic" },
 				{ LanguageIsoCode.cy, "Slafeg Eglwysig" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "Kirchenslawisch" },

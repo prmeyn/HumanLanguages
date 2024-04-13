@@ -23,7 +23,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bas, "" },
 				{ LanguageIsoCode.be, "Бэна" },
 				{ LanguageIsoCode.bem, "" },
-				{ LanguageIsoCode.bez, "" },
+				{ LanguageIsoCode.bez, "Hibena" },
 				{ LanguageIsoCode.bg, "Бена" },
 				{ LanguageIsoCode.bin, "" },
 				{ LanguageIsoCode.bm, "" },

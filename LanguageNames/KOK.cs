@@ -110,7 +110,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.km, "ខុនកានី" },
 				{ LanguageIsoCode.kn, "ಕೊಂಕಣಿ" },
 				{ LanguageIsoCode.ko, "콘카니" },
-				{ LanguageIsoCode.kok, "" },
+				{ LanguageIsoCode.kok, "कोंकणी" },
 				{ LanguageIsoCode.kr, "" },
 				{ LanguageIsoCode.ks, "" },
 				{ LanguageIsoCode.ksb, "" },

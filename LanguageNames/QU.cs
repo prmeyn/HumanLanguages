@@ -173,7 +173,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.prg, "" },
 				{ LanguageIsoCode.ps, "کویچوا" },
 				{ LanguageIsoCode.pt, "Quechua" },
-				{ LanguageIsoCode.qu, "" },
+				{ LanguageIsoCode.qu, "Runasimi" },
 				{ LanguageIsoCode.quc, "" },
 				{ LanguageIsoCode.rm, "" },
 				{ LanguageIsoCode.rn, "" },

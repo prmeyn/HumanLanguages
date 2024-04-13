@@ -93,7 +93,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.it, "Ngomba" },
 				{ LanguageIsoCode.iu, "" },
 				{ LanguageIsoCode.ja, "ンゴンバ" },
-				{ LanguageIsoCode.jgo, "" },
+				{ LanguageIsoCode.jgo, "Ndaꞌa" },
 				{ LanguageIsoCode.jmc, "" },
 				{ LanguageIsoCode.jv, "Ngomba" },
 				{ LanguageIsoCode.ka, "ნგომბა" },

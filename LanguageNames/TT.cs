@@ -223,7 +223,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.to, "" },
 				{ LanguageIsoCode.tr, "Tatar" },
 				{ LanguageIsoCode.ts, "" },
-				{ LanguageIsoCode.tt, "Татар" },
+				{ LanguageIsoCode.tt, "татар" },
 				{ LanguageIsoCode.twq, "" },
 				{ LanguageIsoCode.tzm, "" },
 				{ LanguageIsoCode.ug, "تاتار" },

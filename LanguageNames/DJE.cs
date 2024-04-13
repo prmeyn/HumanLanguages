@@ -46,7 +46,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cy, "Zarma" },
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "Zarma" },
-				{ LanguageIsoCode.dje, "" },
+				{ LanguageIsoCode.dje, "Zarmaciine" },
 				{ LanguageIsoCode.doi, "" },
 				{ LanguageIsoCode.dsb, "" },
 				{ LanguageIsoCode.dua, "" },

@@ -161,7 +161,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nr, "" },
 				{ LanguageIsoCode.nso, "" },
 				{ LanguageIsoCode.nus, "" },
-				{ LanguageIsoCode.nyn, "" },
+				{ LanguageIsoCode.nyn, "Runyankore" },
 				{ LanguageIsoCode.oc, "" },
 				{ LanguageIsoCode.om, "" },
 				{ LanguageIsoCode.or, "Nyankole" },

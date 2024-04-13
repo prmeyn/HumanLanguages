@@ -53,7 +53,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.dv, "" },
 				{ LanguageIsoCode.dz, "" },
 				{ LanguageIsoCode.ebu, "" },
-				{ LanguageIsoCode.ee, "" },
+				{ LanguageIsoCode.ee, "Eʋegbe" },
 				{ LanguageIsoCode.el, "Προβατίνα" },
 				{ LanguageIsoCode.eo, "Ŝafino" },
 				{ LanguageIsoCode.es, "Ewe" },

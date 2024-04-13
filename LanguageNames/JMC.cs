@@ -94,7 +94,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.iu, "" },
 				{ LanguageIsoCode.ja, "マチャメ" },
 				{ LanguageIsoCode.jgo, "" },
-				{ LanguageIsoCode.jmc, "" },
+				{ LanguageIsoCode.jmc, "Kimachame" },
 				{ LanguageIsoCode.jv, "Machame" },
 				{ LanguageIsoCode.ka, "მაჩამე" },
 				{ LanguageIsoCode.kab, "" },

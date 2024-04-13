@@ -222,7 +222,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.tn, "" },
 				{ LanguageIsoCode.to, "" },
 				{ LanguageIsoCode.tr, "Xitsonga" },
-				{ LanguageIsoCode.ts, "" },
+				{ LanguageIsoCode.ts, "Xitsonga" },
 				{ LanguageIsoCode.tt, "Кицонга" },
 				{ LanguageIsoCode.twq, "" },
 				{ LanguageIsoCode.tzm, "" },

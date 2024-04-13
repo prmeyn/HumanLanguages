@@ -97,7 +97,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.jmc, "" },
 				{ LanguageIsoCode.jv, "Kabyle" },
 				{ LanguageIsoCode.ka, "კაბილი" },
-				{ LanguageIsoCode.kab, "" },
+				{ LanguageIsoCode.kab, "Taqbaylit" },
 				{ LanguageIsoCode.kam, "" },
 				{ LanguageIsoCode.kde, "" },
 				{ LanguageIsoCode.kea, "" },

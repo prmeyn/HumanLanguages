@@ -226,7 +226,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.tt, "Уйгур" },
 				{ LanguageIsoCode.twq, "" },
 				{ LanguageIsoCode.tzm, "" },
-				{ LanguageIsoCode.ug, "ئۇيغۇر" },
+				{ LanguageIsoCode.ug, "ئۇيغۇرچە" },
 				{ LanguageIsoCode.uk, "уйгурський" },
 				{ LanguageIsoCode.ur, "ایغور" },
 				{ LanguageIsoCode.uz, "uyg'ur" },

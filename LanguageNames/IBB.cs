@@ -85,7 +85,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.hu, "Ibibio" },
 				{ LanguageIsoCode.hy, "Իբիբիո" },
 				{ LanguageIsoCode.ia, "" },
-				{ LanguageIsoCode.ibb, "" },
+				{ LanguageIsoCode.ibb, "Ibibio-Efik" },
 				{ LanguageIsoCode.id, "Ibibio" },
 				{ LanguageIsoCode.ig, "Ibibio" },
 				{ LanguageIsoCode.ii, "" },

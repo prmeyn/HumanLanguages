@@ -105,7 +105,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ki, "" },
 				{ LanguageIsoCode.kk, "Калалисут" },
 				{ LanguageIsoCode.kkj, "" },
-				{ LanguageIsoCode.kl, "" },
+				{ LanguageIsoCode.kl, "kalaallisut" },
 				{ LanguageIsoCode.kln, "" },
 				{ LanguageIsoCode.km, "កាឡាឡាលីសត" },
 				{ LanguageIsoCode.kn, "ಕಲಾಲ್ಲಿಸುತ್" },

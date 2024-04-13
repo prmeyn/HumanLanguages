@@ -80,7 +80,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.haw, "Koalia" },
 				{ LanguageIsoCode.he, "קרואטית" },
 				{ LanguageIsoCode.hi, "क्रोएशियाई" },
-				{ LanguageIsoCode.hr, "Hrvatski" },
+				{ LanguageIsoCode.hr, "hrvatski" },
 				{ LanguageIsoCode.hsb, "" },
 				{ LanguageIsoCode.hu, "horvát" },
 				{ LanguageIsoCode.hy, "խորվաթերեն" },

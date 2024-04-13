@@ -136,7 +136,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mfe, "" },
 				{ LanguageIsoCode.mg, "Maori" },
 				{ LanguageIsoCode.mgo, "" },
-				{ LanguageIsoCode.mi, "Maori" },
+				{ LanguageIsoCode.mi, "te reo Māori" },
 				{ LanguageIsoCode.mk, "маори" },
 				{ LanguageIsoCode.ml, "മാവോറി" },
 				{ LanguageIsoCode.mn, "Маори" },

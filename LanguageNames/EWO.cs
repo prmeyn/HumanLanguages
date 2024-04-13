@@ -59,7 +59,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.es, "Ewondo" },
 				{ LanguageIsoCode.et, "Ewondo" },
 				{ LanguageIsoCode.eu, "Ewondo" },
-				{ LanguageIsoCode.ewo, "" },
+				{ LanguageIsoCode.ewo, "ewondo" },
 				{ LanguageIsoCode.fa, "اووندو" },
 				{ LanguageIsoCode.ff, "" },
 				{ LanguageIsoCode.fi, "Ewondo" },

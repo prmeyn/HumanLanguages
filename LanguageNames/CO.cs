@@ -40,7 +40,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cgg, "" },
 				{ LanguageIsoCode.chr, "" },
 				{ LanguageIsoCode.ckb, "" },
-				{ LanguageIsoCode.co, "Corsu" },
+				{ LanguageIsoCode.co, "corsu" },
 				{ LanguageIsoCode.cs, "Korsičan" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "Corseg" },

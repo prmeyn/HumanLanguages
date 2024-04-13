@@ -100,7 +100,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kab, "" },
 				{ LanguageIsoCode.kam, "" },
 				{ LanguageIsoCode.kde, "" },
-				{ LanguageIsoCode.kea, "" },
+				{ LanguageIsoCode.kea, "kabuverdianu" },
 				{ LanguageIsoCode.khq, "" },
 				{ LanguageIsoCode.ki, "" },
 				{ LanguageIsoCode.kk, "Кабувердиану" },

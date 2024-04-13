@@ -202,7 +202,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sms, "" },
 				{ LanguageIsoCode.sn, "ChiAlbanian" },
 				{ LanguageIsoCode.so, "Albaaniyaan" },
-				{ LanguageIsoCode.sq, "shqiptare" },
+				{ LanguageIsoCode.sq, "shqip" },
 				{ LanguageIsoCode.sr, "Албанац" },
 				{ LanguageIsoCode.ss, "" },
 				{ LanguageIsoCode.ssy, "" },

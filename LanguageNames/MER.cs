@@ -132,7 +132,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lv, "Meru" },
 				{ LanguageIsoCode.mai, "" },
 				{ LanguageIsoCode.mas, "" },
-				{ LanguageIsoCode.mer, "" },
+				{ LanguageIsoCode.mer, "Kĩmĩrũ" },
 				{ LanguageIsoCode.mfe, "" },
 				{ LanguageIsoCode.mg, "Meru" },
 				{ LanguageIsoCode.mgo, "" },

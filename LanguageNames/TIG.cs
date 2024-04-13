@@ -217,7 +217,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.tg, "Тигр" },
 				{ LanguageIsoCode.th, "ไทเกร" },
 				{ LanguageIsoCode.ti, "" },
-				{ LanguageIsoCode.tig, "" },
+				{ LanguageIsoCode.tig, "Tigre" },
 				{ LanguageIsoCode.tk, "Tigr" },
 				{ LanguageIsoCode.tn, "" },
 				{ LanguageIsoCode.to, "" },

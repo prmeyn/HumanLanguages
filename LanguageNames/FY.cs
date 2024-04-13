@@ -67,7 +67,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.fo, "" },
 				{ LanguageIsoCode.fr, "Frison occidental" },
 				{ LanguageIsoCode.fur, "" },
-				{ LanguageIsoCode.fy, "Westerfrysk" },
+				{ LanguageIsoCode.fy, "Frysk" },
 				{ LanguageIsoCode.ga, "Freaslainnis Iartharach" },
 				{ LanguageIsoCode.gd, "Frisian an Iar" },
 				{ LanguageIsoCode.gl, "frisona occidental" },

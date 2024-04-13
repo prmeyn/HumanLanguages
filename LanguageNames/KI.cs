@@ -102,7 +102,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kde, "" },
 				{ LanguageIsoCode.kea, "" },
 				{ LanguageIsoCode.khq, "" },
-				{ LanguageIsoCode.ki, "" },
+				{ LanguageIsoCode.ki, "Gikuyu" },
 				{ LanguageIsoCode.kk, "Кикую" },
 				{ LanguageIsoCode.kkj, "" },
 				{ LanguageIsoCode.kl, "" },

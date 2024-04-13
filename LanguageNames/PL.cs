@@ -169,7 +169,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.pa, "ਪੋਲਿਸ਼" },
 				{ LanguageIsoCode.pap, "" },
 				{ LanguageIsoCode.pcm, "" },
-				{ LanguageIsoCode.pl, "Polski" },
+				{ LanguageIsoCode.pl, "polski" },
 				{ LanguageIsoCode.prg, "" },
 				{ LanguageIsoCode.ps, "پولیش" },
 				{ LanguageIsoCode.pt, "polonês" },

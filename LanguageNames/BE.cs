@@ -21,7 +21,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.az, "belarus" },
 				{ LanguageIsoCode.ba, "" },
 				{ LanguageIsoCode.bas, "" },
-				{ LanguageIsoCode.be, "беларускі" },
+				{ LanguageIsoCode.be, "беларуская" },
 				{ LanguageIsoCode.bem, "" },
 				{ LanguageIsoCode.bez, "" },
 				{ LanguageIsoCode.bg, "белоруски" },

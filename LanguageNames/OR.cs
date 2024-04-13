@@ -164,7 +164,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nyn, "" },
 				{ LanguageIsoCode.oc, "" },
 				{ LanguageIsoCode.om, "" },
-				{ LanguageIsoCode.or, "ଓଡିଆ" },
+				{ LanguageIsoCode.or, "ଓଡ଼ିଆ" },
 				{ LanguageIsoCode.os, "" },
 				{ LanguageIsoCode.pa, "ਓਡੀਆ" },
 				{ LanguageIsoCode.pap, "" },

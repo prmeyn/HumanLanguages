@@ -25,7 +25,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bem, "" },
 				{ LanguageIsoCode.bez, "" },
 				{ LanguageIsoCode.bg, "Едо" },
-				{ LanguageIsoCode.bin, "" },
+				{ LanguageIsoCode.bin, "Ẹ̀dó" },
 				{ LanguageIsoCode.bm, "" },
 				{ LanguageIsoCode.bn, "এডো" },
 				{ LanguageIsoCode.bo, "" },

@@ -117,7 +117,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },
 				{ LanguageIsoCode.kw, "" },
-				{ LanguageIsoCode.ky, "Кыргызча" },
+				{ LanguageIsoCode.ky, "кыргызча" },
 				{ LanguageIsoCode.la, "Kyrgyz" },
 				{ LanguageIsoCode.lag, "" },
 				{ LanguageIsoCode.lb, "kirgisesch" },

@@ -61,7 +61,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.eu, "Fula" },
 				{ LanguageIsoCode.ewo, "" },
 				{ LanguageIsoCode.fa, "فولا" },
-				{ LanguageIsoCode.ff, "" },
+				{ LanguageIsoCode.ff, "Pulaar" },
 				{ LanguageIsoCode.fi, "Fulah" },
 				{ LanguageIsoCode.fil, "Fulah" },
 				{ LanguageIsoCode.fo, "" },

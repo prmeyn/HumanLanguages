@@ -14,7 +14,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ak, "" },
 				{ LanguageIsoCode.am, "ማፑቼ" },
 				{ LanguageIsoCode.ar, "مابوتشي" },
-				{ LanguageIsoCode.arn, "" },
+				{ LanguageIsoCode.arn, "Mapudungun" },
 				{ LanguageIsoCode.@as, "" },
 				{ LanguageIsoCode.asa, "" },
 				{ LanguageIsoCode.ast, "" },

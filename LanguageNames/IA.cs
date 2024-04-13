@@ -84,7 +84,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.hsb, "" },
 				{ LanguageIsoCode.hu, "interlingua" },
 				{ LanguageIsoCode.hy, "Ինտերլինգվա" },
-				{ LanguageIsoCode.ia, "" },
+				{ LanguageIsoCode.ia, "interlingua" },
 				{ LanguageIsoCode.ibb, "" },
 				{ LanguageIsoCode.id, "antarbahasa" },
 				{ LanguageIsoCode.ig, "Interlinga" },

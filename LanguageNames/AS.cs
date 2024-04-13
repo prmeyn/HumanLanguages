@@ -15,7 +15,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.am, "አሳሜሴ" },
 				{ LanguageIsoCode.ar, "الأسامية" },
 				{ LanguageIsoCode.arn, "" },
-				{ LanguageIsoCode.@as, "" },
+				{ LanguageIsoCode.@as, "অসমীয়া" },
 				{ LanguageIsoCode.asa, "" },
 				{ LanguageIsoCode.ast, "" },
 				{ LanguageIsoCode.az, "assam" },

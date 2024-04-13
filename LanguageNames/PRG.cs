@@ -170,7 +170,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.pap, "" },
 				{ LanguageIsoCode.pcm, "" },
 				{ LanguageIsoCode.pl, "pruski" },
-				{ LanguageIsoCode.prg, "" },
+				{ LanguageIsoCode.prg, "prūsiskan" },
 				{ LanguageIsoCode.ps, "پروشیا" },
 				{ LanguageIsoCode.pt, "prussiano" },
 				{ LanguageIsoCode.qu, "" },

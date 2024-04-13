@@ -11,7 +11,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.da, "akan" },
 				{ LanguageIsoCode.af, "Akan" },
 				{ LanguageIsoCode.agq, "" },
-				{ LanguageIsoCode.ak, "" },
+				{ LanguageIsoCode.ak, "Akan" },
 				{ LanguageIsoCode.am, "አካን" },
 				{ LanguageIsoCode.ar, "اكان" },
 				{ LanguageIsoCode.arn, "" },

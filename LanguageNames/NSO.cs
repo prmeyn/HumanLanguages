@@ -159,7 +159,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nnh, "" },
 				{ LanguageIsoCode.nqo, "" },
 				{ LanguageIsoCode.nr, "" },
-				{ LanguageIsoCode.nso, "" },
+				{ LanguageIsoCode.nso, "Sesotho sa Leboa" },
 				{ LanguageIsoCode.nus, "" },
 				{ LanguageIsoCode.nyn, "" },
 				{ LanguageIsoCode.oc, "" },

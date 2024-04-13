@@ -141,7 +141,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ml, "മൊഹാക്ക്" },
 				{ LanguageIsoCode.mn, "Мохавк" },
 				{ LanguageIsoCode.mni, "" },
-				{ LanguageIsoCode.moh, "" },
+				{ LanguageIsoCode.moh, "Kanienʼkéha" },
 				{ LanguageIsoCode.mr, "मोहॉक" },
 				{ LanguageIsoCode.ms, "Mohawk" },
 				{ LanguageIsoCode.mt, "Mohawk" },

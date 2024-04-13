@@ -13,7 +13,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.agq, "" },
 				{ LanguageIsoCode.ak, "" },
 				{ LanguageIsoCode.am, "አረብኛ" },
-				{ LanguageIsoCode.ar, "عربي" },
+				{ LanguageIsoCode.ar, "العربية" },
 				{ LanguageIsoCode.arn, "" },
 				{ LanguageIsoCode.@as, "" },
 				{ LanguageIsoCode.asa, "" },

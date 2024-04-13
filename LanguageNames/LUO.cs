@@ -127,7 +127,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lo, "ລູ" },
 				{ LanguageIsoCode.lrc, "" },
 				{ LanguageIsoCode.lt, "Luo" },
-				{ LanguageIsoCode.luo, "" },
+				{ LanguageIsoCode.luo, "Dholuo" },
 				{ LanguageIsoCode.luy, "" },
 				{ LanguageIsoCode.lv, "Luo" },
 				{ LanguageIsoCode.mai, "" },

@@ -52,7 +52,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.dua, "" },
 				{ LanguageIsoCode.dv, "" },
 				{ LanguageIsoCode.dz, "" },
-				{ LanguageIsoCode.ebu, "" },
+				{ LanguageIsoCode.ebu, "Kĩembu" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "Embu" },
 				{ LanguageIsoCode.eo, "Embu" },

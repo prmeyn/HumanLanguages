@@ -213,7 +213,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.syr, "" },
 				{ LanguageIsoCode.ta, "டெசோ" },
 				{ LanguageIsoCode.te, "టెసో" },
-				{ LanguageIsoCode.teo, "" },
+				{ LanguageIsoCode.teo, "Kiteso" },
 				{ LanguageIsoCode.tg, "Тесо" },
 				{ LanguageIsoCode.th, "เทโซ" },
 				{ LanguageIsoCode.ti, "" },

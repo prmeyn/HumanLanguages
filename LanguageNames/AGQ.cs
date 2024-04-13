@@ -10,7 +10,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.aa, "" },
 				{ LanguageIsoCode.da, "aghem" },
 				{ LanguageIsoCode.af, "Aghem" },
-				{ LanguageIsoCode.agq, "" },
+				{ LanguageIsoCode.agq, "Aghem" },
 				{ LanguageIsoCode.ak, "" },
 				{ LanguageIsoCode.am, "አግሄም" },
 				{ LanguageIsoCode.ar, "أغيم" },

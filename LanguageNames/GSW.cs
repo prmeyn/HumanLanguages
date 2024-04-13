@@ -72,7 +72,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.gd, "Gearmailtis Eilbheis" },
 				{ LanguageIsoCode.gl, "Alemán suízo" },
 				{ LanguageIsoCode.gn, "" },
-				{ LanguageIsoCode.gsw, "" },
+				{ LanguageIsoCode.gsw, "Schwiizertüütsch" },
 				{ LanguageIsoCode.gu, "સ્વિસ જર્મન" },
 				{ LanguageIsoCode.guz, "" },
 				{ LanguageIsoCode.gv, "" },

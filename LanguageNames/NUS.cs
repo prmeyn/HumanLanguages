@@ -160,7 +160,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nqo, "" },
 				{ LanguageIsoCode.nr, "" },
 				{ LanguageIsoCode.nso, "" },
-				{ LanguageIsoCode.nus, "" },
+				{ LanguageIsoCode.nus, "Thok Nath" },
 				{ LanguageIsoCode.nyn, "" },
 				{ LanguageIsoCode.oc, "" },
 				{ LanguageIsoCode.om, "" },

@@ -158,7 +158,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nn, "" },
 				{ LanguageIsoCode.nnh, "" },
 				{ LanguageIsoCode.nqo, "" },
-				{ LanguageIsoCode.nr, "" },
+				{ LanguageIsoCode.nr, "South Ndebele" },
 				{ LanguageIsoCode.nso, "" },
 				{ LanguageIsoCode.nus, "" },
 				{ LanguageIsoCode.nyn, "" },

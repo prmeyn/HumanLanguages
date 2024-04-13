@@ -28,7 +28,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bin, "" },
 				{ LanguageIsoCode.bm, "" },
 				{ LanguageIsoCode.bn, "তিব্বতি" },
-				{ LanguageIsoCode.bo, "" },
+				{ LanguageIsoCode.bo, "བོད་སྐད་" },
 				{ LanguageIsoCode.br, "" },
 				{ LanguageIsoCode.brx, "" },
 				{ LanguageIsoCode.bs, "Tibetan" },

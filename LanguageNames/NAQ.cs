@@ -148,7 +148,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mua, "" },
 				{ LanguageIsoCode.my, "နာမ" },
 				{ LanguageIsoCode.mzn, "" },
-				{ LanguageIsoCode.naq, "" },
+				{ LanguageIsoCode.naq, "Khoekhoegowab" },
 				{ LanguageIsoCode.nb, "Nama" },
 				{ LanguageIsoCode.nd, "" },
 				{ LanguageIsoCode.nds, "" },

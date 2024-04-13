@@ -155,7 +155,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ne, "नर्वेजियन Nynorsk" },
 				{ LanguageIsoCode.nl, "Noorse Nynorsk" },
 				{ LanguageIsoCode.nmg, "" },
-				{ LanguageIsoCode.nn, "" },
+				{ LanguageIsoCode.nn, "norsk nynorsk" },
 				{ LanguageIsoCode.nnh, "" },
 				{ LanguageIsoCode.nqo, "" },
 				{ LanguageIsoCode.nr, "" },

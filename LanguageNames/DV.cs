@@ -50,7 +50,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.doi, "" },
 				{ LanguageIsoCode.dsb, "" },
 				{ LanguageIsoCode.dua, "" },
-				{ LanguageIsoCode.dv, "" },
+				{ LanguageIsoCode.dv, "Divehi" },
 				{ LanguageIsoCode.dz, "" },
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },

@@ -109,7 +109,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kln, "" },
 				{ LanguageIsoCode.km, "កូរ៉េ" },
 				{ LanguageIsoCode.kn, "ಕೊರಿಯನ್" },
-				{ LanguageIsoCode.ko, "한국인" },
+				{ LanguageIsoCode.ko, "한국어" },
 				{ LanguageIsoCode.kok, "" },
 				{ LanguageIsoCode.kr, "" },
 				{ LanguageIsoCode.ks, "" },

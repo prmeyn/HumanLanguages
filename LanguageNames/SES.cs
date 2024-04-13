@@ -190,7 +190,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sd, "ڪويرابورو سيني" },
 				{ LanguageIsoCode.se, "" },
 				{ LanguageIsoCode.seh, "" },
-				{ LanguageIsoCode.ses, "" },
+				{ LanguageIsoCode.ses, "Koyraboro senni" },
 				{ LanguageIsoCode.sg, "" },
 				{ LanguageIsoCode.shi, "" },
 				{ LanguageIsoCode.si, "Koyraboro Senni" },

@@ -48,7 +48,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.de, "Niedersorbisch" },
 				{ LanguageIsoCode.dje, "" },
 				{ LanguageIsoCode.doi, "" },
-				{ LanguageIsoCode.dsb, "" },
+				{ LanguageIsoCode.dsb, "dolnoserbšćina" },
 				{ LanguageIsoCode.dua, "" },
 				{ LanguageIsoCode.dv, "" },
 				{ LanguageIsoCode.dz, "" },

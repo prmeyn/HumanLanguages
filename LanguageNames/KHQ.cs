@@ -101,7 +101,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kam, "" },
 				{ LanguageIsoCode.kde, "" },
 				{ LanguageIsoCode.kea, "" },
-				{ LanguageIsoCode.khq, "" },
+				{ LanguageIsoCode.khq, "Koyra ciini" },
 				{ LanguageIsoCode.ki, "" },
 				{ LanguageIsoCode.kk, "Койра Чиини" },
 				{ LanguageIsoCode.kkj, "" },

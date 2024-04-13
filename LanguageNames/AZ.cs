@@ -18,7 +18,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.@as, "" },
 				{ LanguageIsoCode.asa, "" },
 				{ LanguageIsoCode.ast, "" },
-				{ LanguageIsoCode.az, "Azərbaycan" },
+				{ LanguageIsoCode.az, "azərbaycan" },
 				{ LanguageIsoCode.ba, "" },
 				{ LanguageIsoCode.bas, "" },
 				{ LanguageIsoCode.be, "Азербайджанская" },

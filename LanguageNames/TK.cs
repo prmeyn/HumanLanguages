@@ -218,7 +218,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.th, "เติร์กเมนิสถาน" },
 				{ LanguageIsoCode.ti, "" },
 				{ LanguageIsoCode.tig, "" },
-				{ LanguageIsoCode.tk, "Türkmenler" },
+				{ LanguageIsoCode.tk, "türkmen dili" },
 				{ LanguageIsoCode.tn, "" },
 				{ LanguageIsoCode.to, "" },
 				{ LanguageIsoCode.tr, "Türkmence" },

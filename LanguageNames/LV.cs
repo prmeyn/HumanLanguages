@@ -129,7 +129,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lt, "latvių" },
 				{ LanguageIsoCode.luo, "" },
 				{ LanguageIsoCode.luy, "" },
-				{ LanguageIsoCode.lv, "latviski" },
+				{ LanguageIsoCode.lv, "latviešu" },
 				{ LanguageIsoCode.mai, "" },
 				{ LanguageIsoCode.mas, "" },
 				{ LanguageIsoCode.mer, "" },

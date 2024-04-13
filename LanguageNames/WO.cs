@@ -237,7 +237,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.vun, "" },
 				{ LanguageIsoCode.wae, "" },
 				{ LanguageIsoCode.wal, "" },
-				{ LanguageIsoCode.wo, "" },
+				{ LanguageIsoCode.wo, "Wolof" },
 				{ LanguageIsoCode.xh, "isiWolof" },
 				{ LanguageIsoCode.xog, "" },
 				{ LanguageIsoCode.yav, "" },

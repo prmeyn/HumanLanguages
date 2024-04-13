@@ -229,7 +229,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ug, "ئۆزبېك" },
 				{ LanguageIsoCode.uk, "узбецький" },
 				{ LanguageIsoCode.ur, "ازبک" },
-				{ LanguageIsoCode.uz, "o'zbek" },
+				{ LanguageIsoCode.uz, "o‘zbek" },
 				{ LanguageIsoCode.vai, "" },
 				{ LanguageIsoCode.ve, "" },
 				{ LanguageIsoCode.vi, "tiếng Uzbek" },

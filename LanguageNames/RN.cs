@@ -176,7 +176,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.qu, "" },
 				{ LanguageIsoCode.quc, "" },
 				{ LanguageIsoCode.rm, "" },
-				{ LanguageIsoCode.rn, "" },
+				{ LanguageIsoCode.rn, "Ikirundi" },
 				{ LanguageIsoCode.ro, "Rundi" },
 				{ LanguageIsoCode.rof, "" },
 				{ LanguageIsoCode.ru, "Рунди" },

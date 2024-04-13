@@ -44,7 +44,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.cs, "Taita" },
 				{ LanguageIsoCode.cu, "" },
 				{ LanguageIsoCode.cy, "Taita" },
-				{ LanguageIsoCode.dav, "" },
+				{ LanguageIsoCode.dav, "Kitaita" },
 				{ LanguageIsoCode.de, "Taita" },
 				{ LanguageIsoCode.dje, "" },
 				{ LanguageIsoCode.doi, "" },

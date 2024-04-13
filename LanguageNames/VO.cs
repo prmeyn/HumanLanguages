@@ -233,7 +233,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.vai, "" },
 				{ LanguageIsoCode.ve, "" },
 				{ LanguageIsoCode.vi, "VolapÃ¼k" },
-				{ LanguageIsoCode.vo, "" },
+				{ LanguageIsoCode.vo, "Volapük" },
 				{ LanguageIsoCode.vun, "" },
 				{ LanguageIsoCode.wae, "" },
 				{ LanguageIsoCode.wal, "" },

@@ -240,7 +240,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.wo, "" },
 				{ LanguageIsoCode.xh, "Yangben" },
 				{ LanguageIsoCode.xog, "" },
-				{ LanguageIsoCode.yav, "" },
+				{ LanguageIsoCode.yav, "nuasue" },
 				{ LanguageIsoCode.yi, "יאַנגבען" },
 				{ LanguageIsoCode.yo, "Yangben" },
 				{ LanguageIsoCode.zgh, "" },

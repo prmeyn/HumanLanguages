@@ -128,7 +128,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lrc, "" },
 				{ LanguageIsoCode.lt, "Luyia" },
 				{ LanguageIsoCode.luo, "" },
-				{ LanguageIsoCode.luy, "" },
+				{ LanguageIsoCode.luy, "Luluhia" },
 				{ LanguageIsoCode.lv, "Luija" },
 				{ LanguageIsoCode.mai, "" },
 				{ LanguageIsoCode.mas, "" },

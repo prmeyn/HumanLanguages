@@ -66,7 +66,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.fil, "Friulian" },
 				{ LanguageIsoCode.fo, "" },
 				{ LanguageIsoCode.fr, "Frioulan" },
-				{ LanguageIsoCode.fur, "" },
+				{ LanguageIsoCode.fur, "furlan" },
 				{ LanguageIsoCode.fy, "Friulian" },
 				{ LanguageIsoCode.ga, "Friúileach" },
 				{ LanguageIsoCode.gd, "Friulian" },

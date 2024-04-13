@@ -215,7 +215,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.te, "థాయ్" },
 				{ LanguageIsoCode.teo, "" },
 				{ LanguageIsoCode.tg, "тай" },
-				{ LanguageIsoCode.th, "แบบไทย" },
+				{ LanguageIsoCode.th, "ไทย" },
 				{ LanguageIsoCode.ti, "" },
 				{ LanguageIsoCode.tig, "" },
 				{ LanguageIsoCode.tk, "Taý" },

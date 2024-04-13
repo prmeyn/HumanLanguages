@@ -199,7 +199,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sma, "" },
 				{ LanguageIsoCode.smj, "" },
 				{ LanguageIsoCode.smn, "" },
-				{ LanguageIsoCode.sms, "" },
+				{ LanguageIsoCode.sms, "Skolt Sami" },
 				{ LanguageIsoCode.sn, "Skolt Sami" },
 				{ LanguageIsoCode.so, "Skolt Sami" },
 				{ LanguageIsoCode.sq, "Skolt Sami" },

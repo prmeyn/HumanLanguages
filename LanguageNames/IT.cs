@@ -90,7 +90,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ig, "Ịtali" },
 				{ LanguageIsoCode.ii, "" },
 				{ LanguageIsoCode.@is, "ítalska" },
-				{ LanguageIsoCode.it, "Italiano" },
+				{ LanguageIsoCode.it, "italiano" },
 				{ LanguageIsoCode.iu, "" },
 				{ LanguageIsoCode.ja, "イタリアの" },
 				{ LanguageIsoCode.jgo, "" },

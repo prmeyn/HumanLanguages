@@ -178,7 +178,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.rm, "" },
 				{ LanguageIsoCode.rn, "" },
 				{ LanguageIsoCode.ro, "Rombo" },
-				{ LanguageIsoCode.rof, "" },
+				{ LanguageIsoCode.rof, "Kihorombo" },
 				{ LanguageIsoCode.ru, "Ромбо" },
 				{ LanguageIsoCode.rw, "Rombo" },
 				{ LanguageIsoCode.rwk, "" },

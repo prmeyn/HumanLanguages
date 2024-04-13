@@ -156,7 +156,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nl, "Ngiemboon" },
 				{ LanguageIsoCode.nmg, "" },
 				{ LanguageIsoCode.nn, "" },
-				{ LanguageIsoCode.nnh, "" },
+				{ LanguageIsoCode.nnh, "Shwóŋò ngiembɔɔn" },
 				{ LanguageIsoCode.nqo, "" },
 				{ LanguageIsoCode.nr, "" },
 				{ LanguageIsoCode.nso, "" },

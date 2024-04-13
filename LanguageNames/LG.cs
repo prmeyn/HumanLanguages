@@ -121,7 +121,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.la, "Ganda" },
 				{ LanguageIsoCode.lag, "" },
 				{ LanguageIsoCode.lb, "Ganda" },
-				{ LanguageIsoCode.lg, "" },
+				{ LanguageIsoCode.lg, "Luganda" },
 				{ LanguageIsoCode.lkt, "" },
 				{ LanguageIsoCode.ln, "" },
 				{ LanguageIsoCode.lo, "Ganda" },

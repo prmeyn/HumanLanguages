@@ -133,7 +133,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mai, "" },
 				{ LanguageIsoCode.mas, "" },
 				{ LanguageIsoCode.mer, "" },
-				{ LanguageIsoCode.mfe, "" },
+				{ LanguageIsoCode.mfe, "kreol morisien" },
 				{ LanguageIsoCode.mg, "Morisyen" },
 				{ LanguageIsoCode.mgo, "" },
 				{ LanguageIsoCode.mi, "Morisyen" },

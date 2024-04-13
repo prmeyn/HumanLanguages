@@ -167,7 +167,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.or, "ପାପିଆମେଣ୍ଟୋ |" },
 				{ LanguageIsoCode.os, "" },
 				{ LanguageIsoCode.pa, "Papiamento" },
-				{ LanguageIsoCode.pap, "" },
+				{ LanguageIsoCode.pap, "Papiamentu" },
 				{ LanguageIsoCode.pcm, "" },
 				{ LanguageIsoCode.pl, "Papiamento" },
 				{ LanguageIsoCode.prg, "" },

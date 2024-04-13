@@ -32,7 +32,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.br, "" },
 				{ LanguageIsoCode.brx, "" },
 				{ LanguageIsoCode.bs, "Blin" },
-				{ LanguageIsoCode.byn, "" },
+				{ LanguageIsoCode.byn, "Blin" },
 				{ LanguageIsoCode.ca, "Blin" },
 				{ LanguageIsoCode.ccp, "" },
 				{ LanguageIsoCode.ce, "" },

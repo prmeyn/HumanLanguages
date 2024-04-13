@@ -75,7 +75,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.gsw, "" },
 				{ LanguageIsoCode.gu, "માંક્સ" },
 				{ LanguageIsoCode.guz, "" },
-				{ LanguageIsoCode.gv, "" },
+				{ LanguageIsoCode.gv, "Gaelg" },
 				{ LanguageIsoCode.ha, "Manx" },
 				{ LanguageIsoCode.haw, "Manx" },
 				{ LanguageIsoCode.he, "מנקס" },

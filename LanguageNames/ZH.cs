@@ -244,7 +244,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.yi, "כינעזיש" },
 				{ LanguageIsoCode.yo, "Kannada" },
 				{ LanguageIsoCode.zgh, "" },
-				{ LanguageIsoCode.zh, "中国人" },
+				{ LanguageIsoCode.zh, "中文" },
 				{ LanguageIsoCode.zu, "IsiShayina" },
 			},
 			VariationNativeNames:

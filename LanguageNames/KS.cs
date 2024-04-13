@@ -112,7 +112,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ko, "카시미르 말" },
 				{ LanguageIsoCode.kok, "" },
 				{ LanguageIsoCode.kr, "" },
-				{ LanguageIsoCode.ks, "" },
+				{ LanguageIsoCode.ks, "کٲشُر" },
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },

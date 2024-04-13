@@ -115,7 +115,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ks, "" },
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },
-				{ LanguageIsoCode.ksh, "" },
+				{ LanguageIsoCode.ksh, "Kölsch" },
 				{ LanguageIsoCode.kw, "" },
 				{ LanguageIsoCode.ky, "Colognian" },
 				{ LanguageIsoCode.la, "Coloniensis" },

@@ -36,7 +36,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ca, "Cebuà" },
 				{ LanguageIsoCode.ccp, "" },
 				{ LanguageIsoCode.ce, "" },
-				{ LanguageIsoCode.ceb, "Cebuano" },
+				{ LanguageIsoCode.ceb, "Binisaya" },
 				{ LanguageIsoCode.cgg, "" },
 				{ LanguageIsoCode.chr, "" },
 				{ LanguageIsoCode.ckb, "" },

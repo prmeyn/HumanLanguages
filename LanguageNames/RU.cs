@@ -179,7 +179,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.rn, "" },
 				{ LanguageIsoCode.ro, "Rusă" },
 				{ LanguageIsoCode.rof, "" },
-				{ LanguageIsoCode.ru, "Русский" },
+				{ LanguageIsoCode.ru, "русский" },
 				{ LanguageIsoCode.rw, "Ikirusiya" },
 				{ LanguageIsoCode.rwk, "" },
 				{ LanguageIsoCode.sa, "" },

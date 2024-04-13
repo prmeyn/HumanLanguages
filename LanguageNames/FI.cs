@@ -62,7 +62,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ewo, "" },
 				{ LanguageIsoCode.fa, "فنلاندی" },
 				{ LanguageIsoCode.ff, "" },
-				{ LanguageIsoCode.fi, "Suomalainen" },
+				{ LanguageIsoCode.fi, "suomi" },
 				{ LanguageIsoCode.fil, "Finnish" },
 				{ LanguageIsoCode.fo, "" },
 				{ LanguageIsoCode.fr, "finlandais" },

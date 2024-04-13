@@ -131,7 +131,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.luy, "" },
 				{ LanguageIsoCode.lv, "Masai" },
 				{ LanguageIsoCode.mai, "" },
-				{ LanguageIsoCode.mas, "" },
+				{ LanguageIsoCode.mas, "Maa" },
 				{ LanguageIsoCode.mer, "" },
 				{ LanguageIsoCode.mfe, "" },
 				{ LanguageIsoCode.mg, "Masai" },

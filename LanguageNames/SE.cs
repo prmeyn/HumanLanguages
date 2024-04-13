@@ -188,7 +188,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sat, "" },
 				{ LanguageIsoCode.sbp, "" },
 				{ LanguageIsoCode.sd, "اتر سامي" },
-				{ LanguageIsoCode.se, "" },
+				{ LanguageIsoCode.se, "davvisámegiella" },
 				{ LanguageIsoCode.seh, "" },
 				{ LanguageIsoCode.ses, "" },
 				{ LanguageIsoCode.sg, "" },

@@ -51,7 +51,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.dsb, "" },
 				{ LanguageIsoCode.dua, "" },
 				{ LanguageIsoCode.dv, "" },
-				{ LanguageIsoCode.dz, "" },
+				{ LanguageIsoCode.dz, "རྫོང་ཁ" },
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "Dzongkha" },

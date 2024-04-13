@@ -19,7 +19,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.asa, "" },
 				{ LanguageIsoCode.ast, "" },
 				{ LanguageIsoCode.az, "başqırd" },
-				{ LanguageIsoCode.ba, "" },
+				{ LanguageIsoCode.ba, "башҡорт теле" },
 				{ LanguageIsoCode.bas, "" },
 				{ LanguageIsoCode.be, "башкірскі" },
 				{ LanguageIsoCode.bem, "" },

@@ -65,7 +65,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.fi, "Ranskan kieli" },
 				{ LanguageIsoCode.fil, "Pranses" },
 				{ LanguageIsoCode.fo, "" },
-				{ LanguageIsoCode.fr, "Français" },
+				{ LanguageIsoCode.fr, "français" },
 				{ LanguageIsoCode.fur, "" },
 				{ LanguageIsoCode.fy, "Frânsk" },
 				{ LanguageIsoCode.ga, "Fraincis" },

@@ -191,7 +191,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.se, "" },
 				{ LanguageIsoCode.seh, "" },
 				{ LanguageIsoCode.ses, "" },
-				{ LanguageIsoCode.sg, "" },
+				{ LanguageIsoCode.sg, "Sängö" },
 				{ LanguageIsoCode.shi, "" },
 				{ LanguageIsoCode.si, "සංගෝ" },
 				{ LanguageIsoCode.sk, "Sango" },

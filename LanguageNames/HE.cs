@@ -78,7 +78,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.gv, "" },
 				{ LanguageIsoCode.ha, "Ibrananci" },
 				{ LanguageIsoCode.haw, "Hepela" },
-				{ LanguageIsoCode.he, "עִברִית" },
+				{ LanguageIsoCode.he, "עברית" },
 				{ LanguageIsoCode.hi, "यहूदी" },
 				{ LanguageIsoCode.hr, "hebrejski" },
 				{ LanguageIsoCode.hsb, "" },

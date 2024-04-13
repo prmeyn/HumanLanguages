@@ -98,7 +98,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.jv, "Kamba" },
 				{ LanguageIsoCode.ka, "კამბა" },
 				{ LanguageIsoCode.kab, "" },
-				{ LanguageIsoCode.kam, "" },
+				{ LanguageIsoCode.kam, "Kikamba" },
 				{ LanguageIsoCode.kde, "" },
 				{ LanguageIsoCode.kea, "" },
 				{ LanguageIsoCode.khq, "" },

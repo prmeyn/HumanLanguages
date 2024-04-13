@@ -123,7 +123,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lb, "Lingala" },
 				{ LanguageIsoCode.lg, "" },
 				{ LanguageIsoCode.lkt, "" },
-				{ LanguageIsoCode.ln, "" },
+				{ LanguageIsoCode.ln, "lingála" },
 				{ LanguageIsoCode.lo, "ລີງກາລາ" },
 				{ LanguageIsoCode.lrc, "" },
 				{ LanguageIsoCode.lt, "Lingala" },

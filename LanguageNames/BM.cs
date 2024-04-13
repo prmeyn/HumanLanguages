@@ -26,7 +26,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bez, "" },
 				{ LanguageIsoCode.bg, "Бамананкан" },
 				{ LanguageIsoCode.bin, "" },
-				{ LanguageIsoCode.bm, "" },
+				{ LanguageIsoCode.bm, "bamanakan" },
 				{ LanguageIsoCode.bn, "বামনকান" },
 				{ LanguageIsoCode.bo, "" },
 				{ LanguageIsoCode.br, "" },

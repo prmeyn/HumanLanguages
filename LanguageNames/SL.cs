@@ -195,7 +195,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.shi, "" },
 				{ LanguageIsoCode.si, "ස්ලෝවේනියානු" },
 				{ LanguageIsoCode.sk, "slovensky" },
-				{ LanguageIsoCode.sl, "Slovenščina" },
+				{ LanguageIsoCode.sl, "slovenščina" },
 				{ LanguageIsoCode.sma, "" },
 				{ LanguageIsoCode.smj, "" },
 				{ LanguageIsoCode.smn, "" },

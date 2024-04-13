@@ -235,7 +235,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.vi, "Walser" },
 				{ LanguageIsoCode.vo, "" },
 				{ LanguageIsoCode.vun, "" },
-				{ LanguageIsoCode.wae, "" },
+				{ LanguageIsoCode.wae, "Walser" },
 				{ LanguageIsoCode.wal, "" },
 				{ LanguageIsoCode.wo, "" },
 				{ LanguageIsoCode.xh, "Walser" },

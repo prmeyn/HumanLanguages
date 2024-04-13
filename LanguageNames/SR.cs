@@ -203,7 +203,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sn, "ChiSebhiya" },
 				{ LanguageIsoCode.so, "Seerbiyaan" },
 				{ LanguageIsoCode.sq, "serb" },
-				{ LanguageIsoCode.sr, "Српски" },
+				{ LanguageIsoCode.sr, "српски" },
 				{ LanguageIsoCode.ss, "" },
 				{ LanguageIsoCode.ssy, "" },
 				{ LanguageIsoCode.st, "Seserbia" },

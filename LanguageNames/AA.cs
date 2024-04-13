@@ -7,7 +7,7 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageIsoCode, string>()
 			{
 				{ LanguageIsoCode.en, "Afar" },
-				{ LanguageIsoCode.aa, "" },
+				{ LanguageIsoCode.aa, "Afar" },
 				{ LanguageIsoCode.da, "afar" },
 				{ LanguageIsoCode.af, "Ver" },
 				{ LanguageIsoCode.agq, "" },

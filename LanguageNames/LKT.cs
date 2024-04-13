@@ -122,7 +122,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lag, "" },
 				{ LanguageIsoCode.lb, "Lakota" },
 				{ LanguageIsoCode.lg, "" },
-				{ LanguageIsoCode.lkt, "" },
+				{ LanguageIsoCode.lkt, "Lakȟólʼiyapi" },
 				{ LanguageIsoCode.ln, "" },
 				{ LanguageIsoCode.lo, "ລາໂກຕາ" },
 				{ LanguageIsoCode.lrc, "" },

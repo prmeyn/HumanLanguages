@@ -74,7 +74,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.gn, "" },
 				{ LanguageIsoCode.gsw, "" },
 				{ LanguageIsoCode.gu, "ગુસી" },
-				{ LanguageIsoCode.guz, "" },
+				{ LanguageIsoCode.guz, "Ekegusii" },
 				{ LanguageIsoCode.gv, "" },
 				{ LanguageIsoCode.ha, "Gushi" },
 				{ LanguageIsoCode.haw, "Gusii" },

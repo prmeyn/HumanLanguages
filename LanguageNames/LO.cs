@@ -124,7 +124,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lg, "" },
 				{ LanguageIsoCode.lkt, "" },
 				{ LanguageIsoCode.ln, "" },
-				{ LanguageIsoCode.lo, "ພາສາລາວ" },
+				{ LanguageIsoCode.lo, "ລາວ" },
 				{ LanguageIsoCode.lrc, "" },
 				{ LanguageIsoCode.lt, "Laosas" },
 				{ LanguageIsoCode.luo, "" },

@@ -57,7 +57,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.el, "Εσθονική" },
 				{ LanguageIsoCode.eo, "estona" },
 				{ LanguageIsoCode.es, "estonio" },
-				{ LanguageIsoCode.et, "eesti keel" },
+				{ LanguageIsoCode.et, "eesti" },
 				{ LanguageIsoCode.eu, "Estoniarra" },
 				{ LanguageIsoCode.ewo, "" },
 				{ LanguageIsoCode.fa, "استونیایی" },

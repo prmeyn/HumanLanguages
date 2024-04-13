@@ -82,7 +82,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.hi, "हंगेरी" },
 				{ LanguageIsoCode.hr, "mađarski" },
 				{ LanguageIsoCode.hsb, "" },
-				{ LanguageIsoCode.hu, "Magyar" },
+				{ LanguageIsoCode.hu, "magyar" },
 				{ LanguageIsoCode.hy, "հունգարերեն" },
 				{ LanguageIsoCode.ia, "" },
 				{ LanguageIsoCode.ibb, "" },

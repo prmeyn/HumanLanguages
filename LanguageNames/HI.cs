@@ -79,7 +79,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ha, "Hindi" },
 				{ LanguageIsoCode.haw, "Hiniki" },
 				{ LanguageIsoCode.he, "הינדי" },
-				{ LanguageIsoCode.hi, "हिंदी" },
+				{ LanguageIsoCode.hi, "हिन्दी" },
 				{ LanguageIsoCode.hr, "hindski" },
 				{ LanguageIsoCode.hsb, "" },
 				{ LanguageIsoCode.hu, "hindi" },

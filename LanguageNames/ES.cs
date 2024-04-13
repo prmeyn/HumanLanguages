@@ -56,7 +56,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "Ισπανικά" },
 				{ LanguageIsoCode.eo, "hispana" },
-				{ LanguageIsoCode.es, "Español" },
+				{ LanguageIsoCode.es, "español" },
 				{ LanguageIsoCode.et, "hispaania keel" },
 				{ LanguageIsoCode.eu, "gaztelania" },
 				{ LanguageIsoCode.ewo, "" },

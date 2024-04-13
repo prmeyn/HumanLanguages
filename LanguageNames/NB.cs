@@ -149,7 +149,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.my, "Norwegian BokmÃ¥l" },
 				{ LanguageIsoCode.mzn, "" },
 				{ LanguageIsoCode.naq, "" },
-				{ LanguageIsoCode.nb, "Norsk Bokmål" },
+				{ LanguageIsoCode.nb, "norsk bokmål" },
 				{ LanguageIsoCode.nd, "" },
 				{ LanguageIsoCode.nds, "" },
 				{ LanguageIsoCode.ne, "नर्वेजियन बोक्माएल" },

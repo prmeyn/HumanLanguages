@@ -125,7 +125,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.lkt, "" },
 				{ LanguageIsoCode.ln, "" },
 				{ LanguageIsoCode.lo, "ລູຣີເໜືອ" },
-				{ LanguageIsoCode.lrc, "" },
+				{ LanguageIsoCode.lrc, "لۊری شومالی" },
 				{ LanguageIsoCode.lt, "Šiaurės Luris" },
 				{ LanguageIsoCode.luo, "" },
 				{ LanguageIsoCode.luy, "" },

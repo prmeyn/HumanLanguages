@@ -183,7 +183,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.rw, "Sakha" },
 				{ LanguageIsoCode.rwk, "" },
 				{ LanguageIsoCode.sa, "" },
-				{ LanguageIsoCode.sah, "" },
+				{ LanguageIsoCode.sah, "саха тыла" },
 				{ LanguageIsoCode.saq, "" },
 				{ LanguageIsoCode.sat, "" },
 				{ LanguageIsoCode.sbp, "" },

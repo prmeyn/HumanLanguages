@@ -38,7 +38,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ce, "" },
 				{ LanguageIsoCode.ceb, "Cherokee" },
 				{ LanguageIsoCode.cgg, "" },
-				{ LanguageIsoCode.chr, "" },
+				{ LanguageIsoCode.chr, "ᏣᎳᎩ" },
 				{ LanguageIsoCode.ckb, "" },
 				{ LanguageIsoCode.co, "Cherokee" },
 				{ LanguageIsoCode.cs, "Cherokee" },

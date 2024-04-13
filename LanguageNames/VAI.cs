@@ -230,7 +230,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.uk, "Вай" },
 				{ LanguageIsoCode.ur, "وائی" },
 				{ LanguageIsoCode.uz, "Vai" },
-				{ LanguageIsoCode.vai, "" },
+				{ LanguageIsoCode.vai, "ꕙꔤ" },
 				{ LanguageIsoCode.ve, "" },
 				{ LanguageIsoCode.vi, "Vai" },
 				{ LanguageIsoCode.vo, "" },

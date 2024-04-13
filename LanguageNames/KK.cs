@@ -103,7 +103,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kea, "" },
 				{ LanguageIsoCode.khq, "" },
 				{ LanguageIsoCode.ki, "" },
-				{ LanguageIsoCode.kk, "қазақ" },
+				{ LanguageIsoCode.kk, "қазақ тілі" },
 				{ LanguageIsoCode.kkj, "" },
 				{ LanguageIsoCode.kl, "" },
 				{ LanguageIsoCode.kln, "" },

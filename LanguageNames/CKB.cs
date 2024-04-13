@@ -39,7 +39,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ceb, "Sentral nga Kurdish" },
 				{ LanguageIsoCode.cgg, "" },
 				{ LanguageIsoCode.chr, "" },
-				{ LanguageIsoCode.ckb, "" },
+				{ LanguageIsoCode.ckb, "کوردیی ناوەندی" },
 				{ LanguageIsoCode.co, "Curdu cintrali" },
 				{ LanguageIsoCode.cs, "střední kurdština" },
 				{ LanguageIsoCode.cu, "" },

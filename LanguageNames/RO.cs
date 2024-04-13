@@ -177,7 +177,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.quc, "" },
 				{ LanguageIsoCode.rm, "" },
 				{ LanguageIsoCode.rn, "" },
-				{ LanguageIsoCode.ro, "Română" },
+				{ LanguageIsoCode.ro, "română" },
 				{ LanguageIsoCode.rof, "" },
 				{ LanguageIsoCode.ru, "румынский" },
 				{ LanguageIsoCode.rw, "Ikinyarumaniya" },

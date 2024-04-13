@@ -99,7 +99,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ka, "მაკონდე" },
 				{ LanguageIsoCode.kab, "" },
 				{ LanguageIsoCode.kam, "" },
-				{ LanguageIsoCode.kde, "" },
+				{ LanguageIsoCode.kde, "Chimakonde" },
 				{ LanguageIsoCode.kea, "" },
 				{ LanguageIsoCode.khq, "" },
 				{ LanguageIsoCode.ki, "" },

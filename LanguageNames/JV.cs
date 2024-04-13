@@ -95,7 +95,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ja, "ジャワ語" },
 				{ LanguageIsoCode.jgo, "" },
 				{ LanguageIsoCode.jmc, "" },
-				{ LanguageIsoCode.jv, "basa jawa" },
+				{ LanguageIsoCode.jv, "Jawa" },
 				{ LanguageIsoCode.ka, "იავური" },
 				{ LanguageIsoCode.kab, "" },
 				{ LanguageIsoCode.kam, "" },

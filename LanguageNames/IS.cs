@@ -89,7 +89,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.id, "Islandia" },
 				{ LanguageIsoCode.ig, "Aislandi" },
 				{ LanguageIsoCode.ii, "" },
-				{ LanguageIsoCode.@is, "íslenskur" },
+				{ LanguageIsoCode.@is, "íslenska" },
 				{ LanguageIsoCode.it, "islandese" },
 				{ LanguageIsoCode.iu, "" },
 				{ LanguageIsoCode.ja, "アイスランド語" },

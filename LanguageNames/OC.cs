@@ -162,7 +162,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nso, "" },
 				{ LanguageIsoCode.nus, "" },
 				{ LanguageIsoCode.nyn, "" },
-				{ LanguageIsoCode.oc, "" },
+				{ LanguageIsoCode.oc, "Occitan" },
 				{ LanguageIsoCode.om, "" },
 				{ LanguageIsoCode.or, "ଅସିଟାନ୍ |" },
 				{ LanguageIsoCode.os, "" },

@@ -113,7 +113,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kok, "" },
 				{ LanguageIsoCode.kr, "" },
 				{ LanguageIsoCode.ks, "" },
-				{ LanguageIsoCode.ksb, "" },
+				{ LanguageIsoCode.ksb, "Kishambaa" },
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },
 				{ LanguageIsoCode.kw, "" },

@@ -172,7 +172,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.pl, "portugalski" },
 				{ LanguageIsoCode.prg, "" },
 				{ LanguageIsoCode.ps, "پورتګالي" },
-				{ LanguageIsoCode.pt, "Português" },
+				{ LanguageIsoCode.pt, "português" },
 				{ LanguageIsoCode.qu, "" },
 				{ LanguageIsoCode.quc, "" },
 				{ LanguageIsoCode.rm, "" },

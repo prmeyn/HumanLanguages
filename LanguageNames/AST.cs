@@ -17,7 +17,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.arn, "" },
 				{ LanguageIsoCode.@as, "" },
 				{ LanguageIsoCode.asa, "" },
-				{ LanguageIsoCode.ast, "" },
+				{ LanguageIsoCode.ast, "asturianu" },
 				{ LanguageIsoCode.az, "asturiya" },
 				{ LanguageIsoCode.ba, "" },
 				{ LanguageIsoCode.bas, "" },

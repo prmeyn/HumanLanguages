@@ -242,7 +242,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.xog, "" },
 				{ LanguageIsoCode.yav, "" },
 				{ LanguageIsoCode.yi, "יאָרובאַ" },
-				{ LanguageIsoCode.yo, "Yoruba" },
+				{ LanguageIsoCode.yo, "Èdè Yorùbá" },
 				{ LanguageIsoCode.zgh, "" },
 				{ LanguageIsoCode.zh, "约鲁巴语" },
 				{ LanguageIsoCode.zu, "IsiYoruba" },

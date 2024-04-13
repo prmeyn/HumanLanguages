@@ -64,7 +64,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ff, "" },
 				{ LanguageIsoCode.fi, "Färsaaret" },
 				{ LanguageIsoCode.fil, "Faroese" },
-				{ LanguageIsoCode.fo, "" },
+				{ LanguageIsoCode.fo, "føroyskt" },
 				{ LanguageIsoCode.fr, "Féroïen" },
 				{ LanguageIsoCode.fur, "" },
 				{ LanguageIsoCode.fy, "Faroese" },

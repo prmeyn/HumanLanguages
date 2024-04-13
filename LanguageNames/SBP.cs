@@ -186,7 +186,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sah, "" },
 				{ LanguageIsoCode.saq, "" },
 				{ LanguageIsoCode.sat, "" },
-				{ LanguageIsoCode.sbp, "" },
+				{ LanguageIsoCode.sbp, "Ishisangu" },
 				{ LanguageIsoCode.sd, "سانگو" },
 				{ LanguageIsoCode.se, "" },
 				{ LanguageIsoCode.seh, "" },

@@ -86,7 +86,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.hy, "Ինդոնեզերեն" },
 				{ LanguageIsoCode.ia, "" },
 				{ LanguageIsoCode.ibb, "" },
-				{ LanguageIsoCode.id, "bahasa Indonesia" },
+				{ LanguageIsoCode.id, "Indonesia" },
 				{ LanguageIsoCode.ig, "Asụsụ Indonesian" },
 				{ LanguageIsoCode.ii, "" },
 				{ LanguageIsoCode.@is, "indónesíska" },

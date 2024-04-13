@@ -71,7 +71,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ga, "Guaráinis" },
 				{ LanguageIsoCode.gd, "Guarani" },
 				{ LanguageIsoCode.gl, "guaraní" },
-				{ LanguageIsoCode.gn, "" },
+				{ LanguageIsoCode.gn, "avañe’ẽ" },
 				{ LanguageIsoCode.gsw, "" },
 				{ LanguageIsoCode.gu, "ગુરાની" },
 				{ LanguageIsoCode.guz, "" },

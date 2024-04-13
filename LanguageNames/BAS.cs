@@ -20,7 +20,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ast, "" },
 				{ LanguageIsoCode.az, "Bəsaa" },
 				{ LanguageIsoCode.ba, "" },
-				{ LanguageIsoCode.bas, "" },
+				{ LanguageIsoCode.bas, "Ɓàsàa" },
 				{ LanguageIsoCode.be, "Басаа" },
 				{ LanguageIsoCode.bem, "" },
 				{ LanguageIsoCode.bez, "" },

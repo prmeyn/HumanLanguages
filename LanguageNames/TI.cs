@@ -216,7 +216,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.teo, "" },
 				{ LanguageIsoCode.tg, "Тигрня" },
 				{ LanguageIsoCode.th, "ทิกริญญา" },
-				{ LanguageIsoCode.ti, "" },
+				{ LanguageIsoCode.ti, "ትግር" },
 				{ LanguageIsoCode.tig, "" },
 				{ LanguageIsoCode.tk, "Tigrinya" },
 				{ LanguageIsoCode.tn, "" },

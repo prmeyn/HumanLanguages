@@ -30,7 +30,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bn, "বোডো" },
 				{ LanguageIsoCode.bo, "" },
 				{ LanguageIsoCode.br, "" },
-				{ LanguageIsoCode.brx, "" },
+				{ LanguageIsoCode.brx, "बड़ो" },
 				{ LanguageIsoCode.bs, "Bodo" },
 				{ LanguageIsoCode.byn, "" },
 				{ LanguageIsoCode.ca, "Bodo" },

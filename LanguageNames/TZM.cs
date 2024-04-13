@@ -225,7 +225,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ts, "" },
 				{ LanguageIsoCode.tt, "Centralзәк Атлас Тамазайт" },
 				{ LanguageIsoCode.twq, "" },
-				{ LanguageIsoCode.tzm, "" },
+				{ LanguageIsoCode.tzm, "Tamaziɣt n laṭlaṣ" },
 				{ LanguageIsoCode.ug, "Central Atlas Tamazight" },
 				{ LanguageIsoCode.uk, "Центральний атлас Тамазігхт" },
 				{ LanguageIsoCode.ur, "سینٹرل اٹلس تمازائٹ" },

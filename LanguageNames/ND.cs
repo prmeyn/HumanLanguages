@@ -150,7 +150,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mzn, "" },
 				{ LanguageIsoCode.naq, "" },
 				{ LanguageIsoCode.nb, "Nord-Ndebele" },
-				{ LanguageIsoCode.nd, "" },
+				{ LanguageIsoCode.nd, "isiNdebele" },
 				{ LanguageIsoCode.nds, "" },
 				{ LanguageIsoCode.ne, "उत्तर Ndebele" },
 				{ LanguageIsoCode.nl, "Noord-Ndebele" },

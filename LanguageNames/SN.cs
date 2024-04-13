@@ -200,7 +200,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.smj, "" },
 				{ LanguageIsoCode.smn, "" },
 				{ LanguageIsoCode.sms, "" },
-				{ LanguageIsoCode.sn, "Shona" },
+				{ LanguageIsoCode.sn, "chiShona" },
 				{ LanguageIsoCode.so, "Shona" },
 				{ LanguageIsoCode.sq, "Shona" },
 				{ LanguageIsoCode.sr, "Шона" },

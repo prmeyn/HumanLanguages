@@ -140,7 +140,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mk, "Манипури" },
 				{ LanguageIsoCode.ml, "മണിപ്പൂരി" },
 				{ LanguageIsoCode.mn, "Манипури" },
-				{ LanguageIsoCode.mni, "" },
+				{ LanguageIsoCode.mni, "মৈতৈলোন্" },
 				{ LanguageIsoCode.moh, "" },
 				{ LanguageIsoCode.mr, "मणिपुरी" },
 				{ LanguageIsoCode.ms, "Manipuri" },

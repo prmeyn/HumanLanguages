@@ -239,7 +239,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.wal, "" },
 				{ LanguageIsoCode.wo, "" },
 				{ LanguageIsoCode.xh, "Soga" },
-				{ LanguageIsoCode.xog, "" },
+				{ LanguageIsoCode.xog, "Olusoga" },
 				{ LanguageIsoCode.yav, "" },
 				{ LanguageIsoCode.yi, "Soga" },
 				{ LanguageIsoCode.yo, "Soga" },

@@ -174,7 +174,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ps, "KÊ¼icheÊ¼" },
 				{ LanguageIsoCode.pt, "KÊ¼icheÊ¼" },
 				{ LanguageIsoCode.qu, "" },
-				{ LanguageIsoCode.quc, "" },
+				{ LanguageIsoCode.quc, "Kʼicheʼ" },
 				{ LanguageIsoCode.rm, "" },
 				{ LanguageIsoCode.rn, "" },
 				{ LanguageIsoCode.ro, "KÊ¼icheÊ¼" },

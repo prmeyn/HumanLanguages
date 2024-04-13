@@ -139,7 +139,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mi, "Mongolian" },
 				{ LanguageIsoCode.mk, "монголски" },
 				{ LanguageIsoCode.ml, "മംഗോളിയൻ" },
-				{ LanguageIsoCode.mn, "Монгол" },
+				{ LanguageIsoCode.mn, "монгол" },
 				{ LanguageIsoCode.mni, "" },
 				{ LanguageIsoCode.moh, "" },
 				{ LanguageIsoCode.mr, "मंगोलियन" },

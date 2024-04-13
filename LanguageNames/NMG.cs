@@ -154,7 +154,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nds, "" },
 				{ LanguageIsoCode.ne, "क्वासियो" },
 				{ LanguageIsoCode.nl, "Kwasi" },
-				{ LanguageIsoCode.nmg, "" },
+				{ LanguageIsoCode.nmg, "Kwasio" },
 				{ LanguageIsoCode.nn, "" },
 				{ LanguageIsoCode.nnh, "" },
 				{ LanguageIsoCode.nqo, "" },

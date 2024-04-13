@@ -49,7 +49,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.dje, "" },
 				{ LanguageIsoCode.doi, "" },
 				{ LanguageIsoCode.dsb, "" },
-				{ LanguageIsoCode.dua, "" },
+				{ LanguageIsoCode.dua, "duálá" },
 				{ LanguageIsoCode.dv, "" },
 				{ LanguageIsoCode.dz, "" },
 				{ LanguageIsoCode.ebu, "" },

@@ -231,7 +231,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ur, "وینڈا" },
 				{ LanguageIsoCode.uz, "Venda" },
 				{ LanguageIsoCode.vai, "" },
-				{ LanguageIsoCode.ve, "" },
+				{ LanguageIsoCode.ve, "Venda" },
 				{ LanguageIsoCode.vi, "bán" },
 				{ LanguageIsoCode.vo, "" },
 				{ LanguageIsoCode.vun, "" },

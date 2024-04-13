@@ -55,7 +55,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ebu, "" },
 				{ LanguageIsoCode.ee, "" },
 				{ LanguageIsoCode.el, "εσπεράντο" },
-				{ LanguageIsoCode.eo, "Esperanto" },
+				{ LanguageIsoCode.eo, "esperanto" },
 				{ LanguageIsoCode.es, "esperanto" },
 				{ LanguageIsoCode.et, "esperanto" },
 				{ LanguageIsoCode.eu, "esperantoa" },

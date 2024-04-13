@@ -189,7 +189,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sbp, "" },
 				{ LanguageIsoCode.sd, "سينا" },
 				{ LanguageIsoCode.se, "" },
-				{ LanguageIsoCode.seh, "" },
+				{ LanguageIsoCode.seh, "sena" },
 				{ LanguageIsoCode.ses, "" },
 				{ LanguageIsoCode.sg, "" },
 				{ LanguageIsoCode.shi, "" },

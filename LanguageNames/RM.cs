@@ -175,7 +175,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.pt, "Romanche" },
 				{ LanguageIsoCode.qu, "" },
 				{ LanguageIsoCode.quc, "" },
-				{ LanguageIsoCode.rm, "" },
+				{ LanguageIsoCode.rm, "rumantsch" },
 				{ LanguageIsoCode.rn, "" },
 				{ LanguageIsoCode.ro, "romanșă" },
 				{ LanguageIsoCode.rof, "" },

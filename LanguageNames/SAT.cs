@@ -185,7 +185,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sa, "" },
 				{ LanguageIsoCode.sah, "" },
 				{ LanguageIsoCode.saq, "" },
-				{ LanguageIsoCode.sat, "" },
+				{ LanguageIsoCode.sat, "ᱥᱟᱱᱛᱟᱲᱤ" },
 				{ LanguageIsoCode.sbp, "" },
 				{ LanguageIsoCode.sd, "سنتالي" },
 				{ LanguageIsoCode.se, "" },

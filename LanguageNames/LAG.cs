@@ -119,7 +119,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.kw, "" },
 				{ LanguageIsoCode.ky, "Langi" },
 				{ LanguageIsoCode.la, "Langi" },
-				{ LanguageIsoCode.lag, "" },
+				{ LanguageIsoCode.lag, "Kɨlaangi" },
 				{ LanguageIsoCode.lb, "Langi" },
 				{ LanguageIsoCode.lg, "" },
 				{ LanguageIsoCode.lkt, "" },

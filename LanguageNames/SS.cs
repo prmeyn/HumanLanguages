@@ -204,7 +204,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.so, "siSwati" },
 				{ LanguageIsoCode.sq, "siSwati" },
 				{ LanguageIsoCode.sr, "сиСвати" },
-				{ LanguageIsoCode.ss, "" },
+				{ LanguageIsoCode.ss, "siSwati" },
 				{ LanguageIsoCode.ssy, "" },
 				{ LanguageIsoCode.st, "seSwati" },
 				{ LanguageIsoCode.su, "siSwati" },

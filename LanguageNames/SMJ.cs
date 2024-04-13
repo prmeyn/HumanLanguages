@@ -197,7 +197,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.sk, "Lule Sami" },
 				{ LanguageIsoCode.sl, "Lule Sami" },
 				{ LanguageIsoCode.sma, "" },
-				{ LanguageIsoCode.smj, "" },
+				{ LanguageIsoCode.smj, "julevsámegiella" },
 				{ LanguageIsoCode.smn, "" },
 				{ LanguageIsoCode.sms, "" },
 				{ LanguageIsoCode.sn, "Lule Sami" },

@@ -234,7 +234,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ve, "" },
 				{ LanguageIsoCode.vi, "Vunjo" },
 				{ LanguageIsoCode.vo, "" },
-				{ LanguageIsoCode.vun, "" },
+				{ LanguageIsoCode.vun, "Kyivunjo" },
 				{ LanguageIsoCode.wae, "" },
 				{ LanguageIsoCode.wal, "" },
 				{ LanguageIsoCode.wo, "" },

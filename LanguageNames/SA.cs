@@ -182,7 +182,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ru, "санскрит" },
 				{ LanguageIsoCode.rw, "Sanskrit" },
 				{ LanguageIsoCode.rwk, "" },
-				{ LanguageIsoCode.sa, "" },
+				{ LanguageIsoCode.sa, "संस्कृत भाषा" },
 				{ LanguageIsoCode.sah, "" },
 				{ LanguageIsoCode.saq, "" },
 				{ LanguageIsoCode.sat, "" },

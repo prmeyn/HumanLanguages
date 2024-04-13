@@ -168,7 +168,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.os, "" },
 				{ LanguageIsoCode.pa, "ਨਾਈਜੀਰੀਅਨ ਪਿਜਿਨ" },
 				{ LanguageIsoCode.pap, "" },
-				{ LanguageIsoCode.pcm, "" },
+				{ LanguageIsoCode.pcm, "Naijíriá Píjin" },
 				{ LanguageIsoCode.pl, "Nigeryjski Pidżyn" },
 				{ LanguageIsoCode.prg, "" },
 				{ LanguageIsoCode.ps, "نایجیریا پیډین" },

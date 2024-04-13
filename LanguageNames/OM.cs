@@ -163,7 +163,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nus, "" },
 				{ LanguageIsoCode.nyn, "" },
 				{ LanguageIsoCode.oc, "" },
-				{ LanguageIsoCode.om, "" },
+				{ LanguageIsoCode.om, "Oromoo" },
 				{ LanguageIsoCode.or, "ଓରୋମୋ |" },
 				{ LanguageIsoCode.os, "" },
 				{ LanguageIsoCode.pa, "ਓਰੋਮੋ" },

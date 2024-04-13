@@ -219,7 +219,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ti, "" },
 				{ LanguageIsoCode.tig, "" },
 				{ LanguageIsoCode.tk, "Setswana" },
-				{ LanguageIsoCode.tn, "" },
+				{ LanguageIsoCode.tn, "Setswana" },
 				{ LanguageIsoCode.to, "" },
 				{ LanguageIsoCode.tr, "Setsvana" },
 				{ LanguageIsoCode.ts, "" },

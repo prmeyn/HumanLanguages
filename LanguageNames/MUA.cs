@@ -145,7 +145,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mr, "मुंडंग" },
 				{ LanguageIsoCode.ms, "Mundang" },
 				{ LanguageIsoCode.mt, "Mundang" },
-				{ LanguageIsoCode.mua, "" },
+				{ LanguageIsoCode.mua, "MUNDAŊ" },
 				{ LanguageIsoCode.my, "Mundang" },
 				{ LanguageIsoCode.mzn, "" },
 				{ LanguageIsoCode.naq, "" },

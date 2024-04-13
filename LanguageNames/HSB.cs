@@ -81,7 +81,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.he, "סורבית עליון" },
 				{ LanguageIsoCode.hi, "ऊपरी सोरबियन" },
 				{ LanguageIsoCode.hr, "gornjolužičkosrpski" },
-				{ LanguageIsoCode.hsb, "" },
+				{ LanguageIsoCode.hsb, "hornjoserbšćina" },
 				{ LanguageIsoCode.hu, "felső szorb" },
 				{ LanguageIsoCode.hy, "Վերին սորբիերեն" },
 				{ LanguageIsoCode.ia, "" },

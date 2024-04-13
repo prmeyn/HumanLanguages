@@ -47,7 +47,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.dav, "" },
 				{ LanguageIsoCode.de, "Dogri" },
 				{ LanguageIsoCode.dje, "" },
-				{ LanguageIsoCode.doi, "" },
+				{ LanguageIsoCode.doi, "डोगरी" },
 				{ LanguageIsoCode.dsb, "" },
 				{ LanguageIsoCode.dua, "" },
 				{ LanguageIsoCode.dv, "" },

@@ -220,7 +220,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.tig, "" },
 				{ LanguageIsoCode.tk, "Tongan" },
 				{ LanguageIsoCode.tn, "" },
-				{ LanguageIsoCode.to, "" },
+				{ LanguageIsoCode.to, "lea fakatonga" },
 				{ LanguageIsoCode.tr, "Tongaca" },
 				{ LanguageIsoCode.ts, "" },
 				{ LanguageIsoCode.tt, "Тонган" },

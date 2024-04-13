@@ -29,7 +29,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bm, "" },
 				{ LanguageIsoCode.bn, "ব্রেটন" },
 				{ LanguageIsoCode.bo, "" },
-				{ LanguageIsoCode.br, "" },
+				{ LanguageIsoCode.br, "brezhoneg" },
 				{ LanguageIsoCode.brx, "" },
 				{ LanguageIsoCode.bs, "Breton" },
 				{ LanguageIsoCode.byn, "" },

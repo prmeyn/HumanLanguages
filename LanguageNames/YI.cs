@@ -241,7 +241,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.xh, "Yiddish" },
 				{ LanguageIsoCode.xog, "" },
 				{ LanguageIsoCode.yav, "" },
-				{ LanguageIsoCode.yi, "יידיש" },
+				{ LanguageIsoCode.yi, "ייִדיש" },
 				{ LanguageIsoCode.yo, "Yiddish" },
 				{ LanguageIsoCode.zgh, "" },
 				{ LanguageIsoCode.zh, "意第绪语" },

@@ -16,7 +16,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ar, "أسو" },
 				{ LanguageIsoCode.arn, "" },
 				{ LanguageIsoCode.@as, "" },
-				{ LanguageIsoCode.asa, "" },
+				{ LanguageIsoCode.asa, "Kipare" },
 				{ LanguageIsoCode.ast, "" },
 				{ LanguageIsoCode.az, "Asu" },
 				{ LanguageIsoCode.ba, "" },

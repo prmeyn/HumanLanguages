@@ -147,7 +147,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.mt, "Mazanderani" },
 				{ LanguageIsoCode.mua, "" },
 				{ LanguageIsoCode.my, "မာဇန္ဒရာနီ" },
-				{ LanguageIsoCode.mzn, "" },
+				{ LanguageIsoCode.mzn, "مازرونی" },
 				{ LanguageIsoCode.naq, "" },
 				{ LanguageIsoCode.nb, "Mazanderani" },
 				{ LanguageIsoCode.nd, "" },

@@ -116,7 +116,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },
-				{ LanguageIsoCode.kw, "" },
+				{ LanguageIsoCode.kw, "kernewek" },
 				{ LanguageIsoCode.ky, "Корниш" },
 				{ LanguageIsoCode.la, "Cornubiae" },
 				{ LanguageIsoCode.lag, "" },

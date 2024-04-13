@@ -37,7 +37,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ccp, "" },
 				{ LanguageIsoCode.ce, "" },
 				{ LanguageIsoCode.ceb, "Chiga" },
-				{ LanguageIsoCode.cgg, "" },
+				{ LanguageIsoCode.cgg, "Rukiga" },
 				{ LanguageIsoCode.chr, "" },
 				{ LanguageIsoCode.ckb, "" },
 				{ LanguageIsoCode.co, "Chiga" },

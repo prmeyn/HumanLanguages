@@ -196,7 +196,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.si, "දක්ෂිණ සාමි" },
 				{ LanguageIsoCode.sk, "Južná Sami" },
 				{ LanguageIsoCode.sl, "južni Sami" },
-				{ LanguageIsoCode.sma, "" },
+				{ LanguageIsoCode.sma, "Åarjelsaemien gïele" },
 				{ LanguageIsoCode.smj, "" },
 				{ LanguageIsoCode.smn, "" },
 				{ LanguageIsoCode.sms, "" },

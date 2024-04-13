@@ -34,7 +34,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.bs, "Chakma" },
 				{ LanguageIsoCode.byn, "" },
 				{ LanguageIsoCode.ca, "Chakma" },
-				{ LanguageIsoCode.ccp, "" },
+				{ LanguageIsoCode.ccp, "𑄌𑄋𑄴𑄟𑄳𑄦" },
 				{ LanguageIsoCode.ce, "" },
 				{ LanguageIsoCode.ceb, "Chakma" },
 				{ LanguageIsoCode.cgg, "" },

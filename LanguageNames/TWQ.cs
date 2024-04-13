@@ -224,7 +224,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.tr, "Tasavak" },
 				{ LanguageIsoCode.ts, "" },
 				{ LanguageIsoCode.tt, "Тасавак" },
-				{ LanguageIsoCode.twq, "" },
+				{ LanguageIsoCode.twq, "Tasawaq senni" },
 				{ LanguageIsoCode.tzm, "" },
 				{ LanguageIsoCode.ug, "Tasawaq" },
 				{ LanguageIsoCode.uk, "Tasawaq" },
