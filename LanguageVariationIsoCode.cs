@@ -268,6 +268,12 @@
         GURU,
         VAII,
         HANT,
-        HANS
+        HANS,
+        ME,
+        RS,
+        UZ,
+        TW,
+        AZ,
+        ADLM
     }
 }
