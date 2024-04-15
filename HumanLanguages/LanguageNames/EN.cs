@@ -116,7 +116,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },
-                { LanguageIsoCode.ku, "Îngilîzî" },
+                //{ LanguageIsoCode.ku, "Îngilîzî" },
                 { LanguageIsoCode.kw, "" },
 				{ LanguageIsoCode.ky, "Англисче" },
 				{ LanguageIsoCode.la, "Anglicus" },

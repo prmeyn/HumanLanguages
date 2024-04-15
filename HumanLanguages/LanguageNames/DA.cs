@@ -116,7 +116,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.ksb, "" },
 				{ LanguageIsoCode.ksf, "" },
 				{ LanguageIsoCode.ksh, "" },
-                { LanguageIsoCode.ku, "Danîmarkî" },
+                //{ LanguageIsoCode.ku, "Danîmarkî" },
                 { LanguageIsoCode.kw, "" },
 				{ LanguageIsoCode.ky, "Датча" },
 				{ LanguageIsoCode.la, "Danica" },

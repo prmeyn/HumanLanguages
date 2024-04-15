@@ -19,15 +19,13 @@ namespace AreYouHuman
         {
             // Arrange
             var allLangaugeProperties = Enum.GetValues(typeof(LanguageIsoCode))
-                                        .Cast<LanguageIsoCode>()
-                                        .Select(code => Languages.LanguagePropertiesDictionary[code])
-                                        .ToList();
+                                            .Cast<LanguageIsoCode>()
+                                            .Select(code => Languages.LanguagePropertiesDictionary[code])
+                                            .ToList();
 
-            //// Act
-            //bool allNamesExist = allLanguageNames.All(name => allLanguageNames.Contains(name));
-
-            //// Assert
-            //Assert.IsTrue(allNamesExist);
+            // Assert
+            var totalIsoCodes = Enum.GetValues(typeof(LanguageIsoCode)).Length;
+            Assert.IsTrue(allLangaugeProperties.All(lp => lp.LanguageNames.Keys.Count == totalIsoCodes));
         }
     }
 }
