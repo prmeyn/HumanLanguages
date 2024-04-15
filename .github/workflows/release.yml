@@ -23,7 +23,7 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release /p:Version=${VERSION}
     - name: Test
-      run: dotnet test ./AreYouHuman/AreYouHuman.csproj --no-build --verbosity normal
+      run: dotnet test ./AreYouHuman/AreYouHuman.csproj --verbosity normal
     - name: Pack
       run: dotnet pack --configuration Release /p:Version=${VERSION} --no-build --output .
     - name: Push
