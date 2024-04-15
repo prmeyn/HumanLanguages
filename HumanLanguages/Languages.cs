@@ -454,10 +454,10 @@ namespace HumanLanguages
                 LanguageIsoCode.ky,
                 KY.LanguageProperties
             },
-            {
-                LanguageIsoCode.ku,
-                KU.LanguageProperties
-            },
+            //{
+            //    LanguageIsoCode.ku,
+            //    KU.LanguageProperties
+            //},
             {
                 LanguageIsoCode.la,
                 LA.LanguageProperties
