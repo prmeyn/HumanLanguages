@@ -155,7 +155,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageIsoCode.nds, "Engelsch" },
 				{ LanguageIsoCode.ne, "अंग्रेजी" },
 				{ LanguageIsoCode.nl, "Engels" },
-				{ LanguageIsoCode.nmg, "" },
+				{ LanguageIsoCode.nmg, "Englɨsh" },
 				{ LanguageIsoCode.nn, "" },
 				{ LanguageIsoCode.nnh, "" },
 				{ LanguageIsoCode.nqo, "" },
