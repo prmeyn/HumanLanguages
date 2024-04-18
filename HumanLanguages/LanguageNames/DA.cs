@@ -7,14 +7,14 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageIsoCode, string>()
 			{
 				{ LanguageIsoCode.en, "Danish" },
-				{ LanguageIsoCode.aa, "" },
+				{ LanguageIsoCode.aa, "Danisho" },
 				{ LanguageIsoCode.da, "dansk" },
 				{ LanguageIsoCode.af, "Deens" },
-				{ LanguageIsoCode.agq, "" },
-				{ LanguageIsoCode.ak, "" },
+				{ LanguageIsoCode.agq, "Danishɛ" },
+				{ LanguageIsoCode.ak, "Denmarkfoɔ" },
 				{ LanguageIsoCode.am, "ዳኒሽ" },
 				{ LanguageIsoCode.ar, "الدانماركية" },
-				{ LanguageIsoCode.arn, "" },
+				{ LanguageIsoCode.arn, "" }, // Name not available, Chatgpt suggests using Dansk itself.
                 { LanguageIsoCode.@as , "ডেনিছ" },
                 { LanguageIsoCode.asa, "" },
 				{ LanguageIsoCode.ast, "" },
