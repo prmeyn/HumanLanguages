@@ -1,6 +1,6 @@
 ﻿namespace HumanLanguages
 {
-    public enum LanguageIsoCode
+    public enum LanguageId
     {
         aa, // Afar
         af, // Afrikaans

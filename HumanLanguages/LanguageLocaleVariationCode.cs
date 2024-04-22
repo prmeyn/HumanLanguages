@@ -1,6 +1,6 @@
 ﻿namespace HumanLanguages
 {
-    public enum LanguageVariationIsoCode
+    public enum LanguageLocaleVariationCode
     {
         Default,
         DJ, // Djibouti

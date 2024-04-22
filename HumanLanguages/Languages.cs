@@ -4,454 +4,454 @@ namespace HumanLanguages
 {
     public static class Languages
     {
-        public static Dictionary<LanguageIsoCode, LanguageProperties> LanguagePropertiesDictionary = new()
+        public static Dictionary<LanguageId, LanguageProperties> LanguagePropertiesDictionary = new()
         {
             {
-                LanguageIsoCode.aa,
+                LanguageId.aa,
                 AA.LanguageProperties
             },
             {
-                LanguageIsoCode.af,
+                LanguageId.af,
                 AF.LanguageProperties
             },
             {
-                LanguageIsoCode.agq,
+                LanguageId.agq,
                 AGQ.LanguageProperties
             },
             {
-                LanguageIsoCode.ak,
+                LanguageId.ak,
                 AK.LanguageProperties
             },
             {
-                LanguageIsoCode.am,
+                LanguageId.am,
                 AM.LanguageProperties
             },
             {
-                LanguageIsoCode.ar,
+                LanguageId.ar,
                 AR.LanguageProperties
             },
             {
-                LanguageIsoCode.arn,
+                LanguageId.arn,
                 ARN.LanguageProperties
             },
             {
-                LanguageIsoCode.@as,
+                LanguageId.@as,
                 AS.LanguageProperties
             },
             {
-                LanguageIsoCode.asa,
+                LanguageId.asa,
                 ASA.LanguageProperties
             },
             {
-                LanguageIsoCode.ast,
+                LanguageId.ast,
                 AST.LanguageProperties
             },
             {
-                LanguageIsoCode.az,
+                LanguageId.az,
                 AZ.LanguageProperties
             },
             {
-                LanguageIsoCode.ba,
+                LanguageId.ba,
                 BA.LanguageProperties
             },
             {
-                LanguageIsoCode.bas,
+                LanguageId.bas,
                 BAS.LanguageProperties
             },
             {
-                LanguageIsoCode.be,
+                LanguageId.be,
                 BE.LanguageProperties
             },
             {
-                LanguageIsoCode.bem,
+                LanguageId.bem,
                 BEM.LanguageProperties
             },
             {
-                LanguageIsoCode.bez,
+                LanguageId.bez,
                 BEZ.LanguageProperties
             },
             {
-                LanguageIsoCode.bg,
+                LanguageId.bg,
                 BG.LanguageProperties
             },
             {
-                LanguageIsoCode.bin,
+                LanguageId.bin,
                 BIN.LanguageProperties
             },
             {
-                LanguageIsoCode.bm,
+                LanguageId.bm,
                 BM.LanguageProperties
             },
             {
-                LanguageIsoCode.bn,
+                LanguageId.bn,
                 BN.LanguageProperties
             },
             {
-                LanguageIsoCode.bo,
+                LanguageId.bo,
                 BO.LanguageProperties
             },
             {
-                LanguageIsoCode.br,
+                LanguageId.br,
                 BR.LanguageProperties
             },
             {
-                LanguageIsoCode.brx,
+                LanguageId.brx,
                 BRX.LanguageProperties
             },
             {
-                LanguageIsoCode.bs,
+                LanguageId.bs,
                 BS.LanguageProperties
             },
             {
-                LanguageIsoCode.byn,
+                LanguageId.byn,
                 BYN.LanguageProperties
             },
             {
-                LanguageIsoCode.ca,
+                LanguageId.ca,
                 CA.LanguageProperties
             },
             {
-                LanguageIsoCode.ccp,
+                LanguageId.ccp,
                 CCP.LanguageProperties
             },
             {
-                LanguageIsoCode.ce,
+                LanguageId.ce,
                 CE.LanguageProperties
             },
             {
-                LanguageIsoCode.ceb,
+                LanguageId.ceb,
                 CEB.LanguageProperties
             },
             {
-                LanguageIsoCode.cgg,
+                LanguageId.cgg,
                 CGG.LanguageProperties
             },
             {
-                LanguageIsoCode.chr,
+                LanguageId.chr,
                 CHR.LanguageProperties
             },
             {
-                LanguageIsoCode.ckb,
+                LanguageId.ckb,
                 CKB.LanguageProperties
             },
             {
-                LanguageIsoCode.co,
+                LanguageId.co,
                 CO.LanguageProperties
             },
             {
-                LanguageIsoCode.cs,
+                LanguageId.cs,
                 CS.LanguageProperties
             },
             {
-                LanguageIsoCode.cu,
+                LanguageId.cu,
                 CU.LanguageProperties
             },
             {
-                LanguageIsoCode.cy,
+                LanguageId.cy,
                 CY.LanguageProperties
             },
             {
-                LanguageIsoCode.da,
+                LanguageId.da,
                 DA.LanguageProperties
             },
             {
-                LanguageIsoCode.dav,
+                LanguageId.dav,
                 DAV.LanguageProperties
             },
             {
-                LanguageIsoCode.de,
+                LanguageId.de,
                 DE.LanguageProperties
             },
             {
-                LanguageIsoCode.dje,
+                LanguageId.dje,
                 DJE.LanguageProperties
             },
             {
-                LanguageIsoCode.doi,
+                LanguageId.doi,
                 DOI.LanguageProperties
             },
             {
-                LanguageIsoCode.dsb,
+                LanguageId.dsb,
                 DSB.LanguageProperties
             },
             {
-                LanguageIsoCode.dua,
+                LanguageId.dua,
                 DUA.LanguageProperties
             },
             {
-                LanguageIsoCode.dv,
+                LanguageId.dv,
                 DV.LanguageProperties
             },
             {
-                LanguageIsoCode.dz,
+                LanguageId.dz,
                 DZ.LanguageProperties
             },
             {
-                LanguageIsoCode.ebu,
+                LanguageId.ebu,
                 EBU.LanguageProperties
             },
             {
-                LanguageIsoCode.ee,
+                LanguageId.ee,
                 EE.LanguageProperties
             },
             {
-                LanguageIsoCode.el,
+                LanguageId.el,
                 EL.LanguageProperties
             },
             {
-                LanguageIsoCode.en,
+                LanguageId.en,
                 EN.LanguageProperties
             },
             {
-                LanguageIsoCode.eo,
+                LanguageId.eo,
                 EO.LanguageProperties
             },
             {
-                LanguageIsoCode.es,
+                LanguageId.es,
                 ES.LanguageProperties
             },
             {
-                LanguageIsoCode.et,
+                LanguageId.et,
                 ET.LanguageProperties
             },
             {
-                LanguageIsoCode.eu,
+                LanguageId.eu,
                 EU.LanguageProperties
             },
             {
-                LanguageIsoCode.ewo,
+                LanguageId.ewo,
                 EWO.LanguageProperties
             },
             {
-                LanguageIsoCode.fa,
+                LanguageId.fa,
                 FA.LanguageProperties
             },
             {
-                LanguageIsoCode.ff,
+                LanguageId.ff,
                 FF.LanguageProperties
             },
             {
-                LanguageIsoCode.fi,
+                LanguageId.fi,
                 FI.LanguageProperties
             },
             {
-                LanguageIsoCode.fil,
+                LanguageId.fil,
                 FIL.LanguageProperties
             },
             {
-                LanguageIsoCode.fo,
+                LanguageId.fo,
                 FO.LanguageProperties
             },
             {
-                LanguageIsoCode.fr,
+                LanguageId.fr,
                 FR.LanguageProperties
             },
             {
-                LanguageIsoCode.fur,
+                LanguageId.fur,
                 FUR.LanguageProperties
             },
             {
-                LanguageIsoCode.fy,
+                LanguageId.fy,
                 FY.LanguageProperties
             },
             {
-                LanguageIsoCode.ga,
+                LanguageId.ga,
                 GA.LanguageProperties
             },
             {
-                LanguageIsoCode.gd,
+                LanguageId.gd,
                 GD.LanguageProperties
             },
             {
-                LanguageIsoCode.gl,
+                LanguageId.gl,
                 GL.LanguageProperties
             },
             {
-                LanguageIsoCode.gn,
+                LanguageId.gn,
                 GN.LanguageProperties
             },
             {
-                LanguageIsoCode.gsw,
+                LanguageId.gsw,
                 GSW.LanguageProperties
             },
             {
-                LanguageIsoCode.gu,
+                LanguageId.gu,
                 GU.LanguageProperties
             },
             {
-                LanguageIsoCode.guz,
+                LanguageId.guz,
                 GUZ.LanguageProperties
             },
             {
-                LanguageIsoCode.gv,
+                LanguageId.gv,
                 GV.LanguageProperties
             },
             {
-                LanguageIsoCode.ha,
+                LanguageId.ha,
                 HA.LanguageProperties
             },
             {
-                LanguageIsoCode.haw,
+                LanguageId.haw,
                 HAW.LanguageProperties
             },
             {
-                LanguageIsoCode.he,
+                LanguageId.he,
                 HE.LanguageProperties
             },
             {
-                LanguageIsoCode.hi,
+                LanguageId.hi,
                 HI.LanguageProperties
             },
             {
-                LanguageIsoCode.hr,
+                LanguageId.hr,
                 HR.LanguageProperties
             },
             {
-                LanguageIsoCode.hsb,
+                LanguageId.hsb,
                 HSB.LanguageProperties
             },
             {
-                LanguageIsoCode.hu,
+                LanguageId.hu,
                 HU.LanguageProperties
             },
             {
-                LanguageIsoCode.hy,
+                LanguageId.hy,
                 HY.LanguageProperties
             },
             {
-                LanguageIsoCode.ia,
+                LanguageId.ia,
                 IA.LanguageProperties
             },
             {
-                LanguageIsoCode.ibb,
+                LanguageId.ibb,
                 IBB.LanguageProperties
             },
             {
-                LanguageIsoCode.id,
+                LanguageId.id,
                 ID.LanguageProperties
             },
             {
-                LanguageIsoCode.ig,
+                LanguageId.ig,
                 IG.LanguageProperties
             },
             {
-                LanguageIsoCode.ii,
+                LanguageId.ii,
                 II.LanguageProperties
             },
             {
-                LanguageIsoCode.@is,
+                LanguageId.@is,
                 IS.LanguageProperties
             },
             {
-                LanguageIsoCode.it,
+                LanguageId.it,
                 IT.LanguageProperties
             },
             {
-                LanguageIsoCode.iu,
+                LanguageId.iu,
                 IU.LanguageProperties
             },
             {
-                LanguageIsoCode.ja,
+                LanguageId.ja,
                 JA.LanguageProperties
             },
             {
-                LanguageIsoCode.jgo,
+                LanguageId.jgo,
                 JGO.LanguageProperties
             },
             {
-                LanguageIsoCode.jmc,
+                LanguageId.jmc,
                 JMC.LanguageProperties
             },
             {
-                LanguageIsoCode.jv,
+                LanguageId.jv,
                 JV.LanguageProperties
             },
             {
-                LanguageIsoCode.ka,
+                LanguageId.ka,
                 KA.LanguageProperties
             },
             {
-                LanguageIsoCode.kab,
+                LanguageId.kab,
                 KAB.LanguageProperties
             },
             {
-                LanguageIsoCode.kam,
+                LanguageId.kam,
                 KAM.LanguageProperties
             },
             {
-                LanguageIsoCode.kde,
+                LanguageId.kde,
                 KDE.LanguageProperties
             },
             {
-                LanguageIsoCode.kea,
+                LanguageId.kea,
                 KEA.LanguageProperties
             },
             {
-                LanguageIsoCode.khq,
+                LanguageId.khq,
                 KHQ.LanguageProperties
             },
             {
-                LanguageIsoCode.ki,
+                LanguageId.ki,
                 KI.LanguageProperties
             },
             {
-                LanguageIsoCode.kk,
+                LanguageId.kk,
                 KK.LanguageProperties
             },
             {
-                LanguageIsoCode.kkj,
+                LanguageId.kkj,
                 KKJ.LanguageProperties
             },
             {
-                LanguageIsoCode.kl,
+                LanguageId.kl,
                 KL.LanguageProperties
             },
             {
-                LanguageIsoCode.kln,
+                LanguageId.kln,
                 KLN.LanguageProperties
             },
             {
-                LanguageIsoCode.km,
+                LanguageId.km,
                 KM.LanguageProperties
             },
             {
-                LanguageIsoCode.kn,
+                LanguageId.kn,
                 KN.LanguageProperties
             },
             {
-                LanguageIsoCode.ko,
+                LanguageId.ko,
                 KO.LanguageProperties
             },
             {
-                LanguageIsoCode.kok,
+                LanguageId.kok,
                 KOK.LanguageProperties
             },
             {
-                LanguageIsoCode.kr,
+                LanguageId.kr,
                 KR.LanguageProperties
             },
             {
-                LanguageIsoCode.ks,
+                LanguageId.ks,
                 KS.LanguageProperties
             },
             {
-                LanguageIsoCode.ksb,
+                LanguageId.ksb,
                 KSB.LanguageProperties
             },
             {
-                LanguageIsoCode.ksf,
+                LanguageId.ksf,
                 KSF.LanguageProperties
             },
             {
-                LanguageIsoCode.ksh,
+                LanguageId.ksh,
                 KSH.LanguageProperties
             },
             {
-                LanguageIsoCode.kw,
+                LanguageId.kw,
                 KW.LanguageProperties
             },
             {
-                LanguageIsoCode.ky,
+                LanguageId.ky,
                 KY.LanguageProperties
             },
             //{
@@ -459,515 +459,515 @@ namespace HumanLanguages
             //    KU.LanguageProperties
             //},
             {
-                LanguageIsoCode.la,
+                LanguageId.la,
                 LA.LanguageProperties
             },
             {
-                LanguageIsoCode.lag,
+                LanguageId.lag,
                 LAG.LanguageProperties
             },
             {
-                LanguageIsoCode.lb,
+                LanguageId.lb,
                 LB.LanguageProperties
             },
             {
-                LanguageIsoCode.lg,
+                LanguageId.lg,
                 LG.LanguageProperties
             },
             {
-                LanguageIsoCode.lkt,
+                LanguageId.lkt,
                 LKT.LanguageProperties
             },
             {
-                LanguageIsoCode.ln,
+                LanguageId.ln,
                 LN.LanguageProperties
             },
             {
-                LanguageIsoCode.lo,
+                LanguageId.lo,
                 LO.LanguageProperties
             },
             {
-                LanguageIsoCode.lrc,
+                LanguageId.lrc,
                 LRC.LanguageProperties
             },
             {
-                LanguageIsoCode.lt,
+                LanguageId.lt,
                 LT.LanguageProperties
             },
             {
-                LanguageIsoCode.luo,
+                LanguageId.luo,
                 LUO.LanguageProperties
             },
             {
-                LanguageIsoCode.luy,
+                LanguageId.luy,
                 LUY.LanguageProperties
             },
             {
-                LanguageIsoCode.lv,
+                LanguageId.lv,
                 LV.LanguageProperties
             },
             {
-                LanguageIsoCode.mai,
+                LanguageId.mai,
                 MAI.LanguageProperties
             },
             {
-                LanguageIsoCode.mas,
+                LanguageId.mas,
                 MAS.LanguageProperties
             },
             {
-                LanguageIsoCode.mer,
+                LanguageId.mer,
                 MER.LanguageProperties
             },
             {
-                LanguageIsoCode.mfe,
+                LanguageId.mfe,
                 MFE.LanguageProperties
             },
             {
-                LanguageIsoCode.mg,
+                LanguageId.mg,
                 MG.LanguageProperties
             },
             {
-                LanguageIsoCode.mgo,
+                LanguageId.mgo,
                 MGO.LanguageProperties
             },
             {
-                LanguageIsoCode.mi,
+                LanguageId.mi,
                 MI.LanguageProperties
             },
             {
-                LanguageIsoCode.mk,
+                LanguageId.mk,
                 MK.LanguageProperties
             },
             {
-                LanguageIsoCode.ml,
+                LanguageId.ml,
                 ML.LanguageProperties
             },
             {
-                LanguageIsoCode.mn,
+                LanguageId.mn,
                 MN.LanguageProperties
             },
             {
-                LanguageIsoCode.mni,
+                LanguageId.mni,
                 MNI.LanguageProperties
             },
             {
-                LanguageIsoCode.moh,
+                LanguageId.moh,
                 MOH.LanguageProperties
             },
             {
-                LanguageIsoCode.mr,
+                LanguageId.mr,
                 MR.LanguageProperties
             },
             {
-                LanguageIsoCode.ms,
+                LanguageId.ms,
                 MS.LanguageProperties
             },
             {
-                LanguageIsoCode.mt,
+                LanguageId.mt,
                 MT.LanguageProperties
             },
             {
-                LanguageIsoCode.mua,
+                LanguageId.mua,
                 MUA.LanguageProperties
             },
             {
-                LanguageIsoCode.my,
+                LanguageId.my,
                 MY.LanguageProperties
             },
             {
-                LanguageIsoCode.mzn,
+                LanguageId.mzn,
                 MZN.LanguageProperties
             },
             {
-                LanguageIsoCode.naq,
+                LanguageId.naq,
                 NAQ.LanguageProperties
             },
             {
-                LanguageIsoCode.nb,
+                LanguageId.nb,
                 NB.LanguageProperties
             },
             {
-                LanguageIsoCode.nd,
+                LanguageId.nd,
                 ND.LanguageProperties
             },
             {
-                LanguageIsoCode.nds,
+                LanguageId.nds,
                 NDS.LanguageProperties
             },
             {
-                LanguageIsoCode.ne,
+                LanguageId.ne,
                 NE.LanguageProperties
             },
             {
-                LanguageIsoCode.nl,
+                LanguageId.nl,
                 NL.LanguageProperties
             },
             {
-                LanguageIsoCode.nmg,
+                LanguageId.nmg,
                 NMG.LanguageProperties
             },
             {
-                LanguageIsoCode.nn,
+                LanguageId.nn,
                 NN.LanguageProperties
             },
             {
-                LanguageIsoCode.nnh,
+                LanguageId.nnh,
                 NNH.LanguageProperties
             },
             {
-                LanguageIsoCode.nqo,
+                LanguageId.nqo,
                 NQO.LanguageProperties
             },
             {
-                LanguageIsoCode.nr,
+                LanguageId.nr,
                 NR.LanguageProperties
             },
             {
-                LanguageIsoCode.nso,
+                LanguageId.nso,
                 NSO.LanguageProperties
             },
             {
-                LanguageIsoCode.nus,
+                LanguageId.nus,
                 NUS.LanguageProperties
             },
             {
-                LanguageIsoCode.nyn,
+                LanguageId.nyn,
                 NYN.LanguageProperties
             },
             {
-                LanguageIsoCode.oc,
+                LanguageId.oc,
                 OC.LanguageProperties
             },
             {
-                LanguageIsoCode.om,
+                LanguageId.om,
                 OM.LanguageProperties
             },
             {
-                LanguageIsoCode.or,
+                LanguageId.or,
                 OR.LanguageProperties
             },
             {
-                LanguageIsoCode.os,
+                LanguageId.os,
                 OS.LanguageProperties
             },
             {
-                LanguageIsoCode.pa,
+                LanguageId.pa,
                 PA.LanguageProperties
             },
             {
-                LanguageIsoCode.pap,
+                LanguageId.pap,
                 PAP.LanguageProperties
             },
             {
-                LanguageIsoCode.pcm,
+                LanguageId.pcm,
                 PCM.LanguageProperties
             },
             {
-                LanguageIsoCode.pl,
+                LanguageId.pl,
                 PL.LanguageProperties
             },
             {
-                LanguageIsoCode.prg,
+                LanguageId.prg,
                 PRG.LanguageProperties
             },
             {
-                LanguageIsoCode.ps,
+                LanguageId.ps,
                 PS.LanguageProperties
             },
             {
-                LanguageIsoCode.pt,
+                LanguageId.pt,
                 PT.LanguageProperties
             },
             {
-                LanguageIsoCode.qu,
+                LanguageId.qu,
                 QU.LanguageProperties
             },
             {
-                LanguageIsoCode.quc,
+                LanguageId.quc,
                 QUC.LanguageProperties
             },
             {
-                LanguageIsoCode.rm,
+                LanguageId.rm,
                 RM.LanguageProperties
             },
             {
-                LanguageIsoCode.rn,
+                LanguageId.rn,
                 RN.LanguageProperties
             },
             {
-                LanguageIsoCode.ro,
+                LanguageId.ro,
                 RO.LanguageProperties
             },
             {
-                LanguageIsoCode.rof,
+                LanguageId.rof,
                 ROF.LanguageProperties
             },
             {
-                LanguageIsoCode.ru,
+                LanguageId.ru,
                 RU.LanguageProperties
             },
             {
-                LanguageIsoCode.rw,
+                LanguageId.rw,
                 RW.LanguageProperties
             },
             {
-                LanguageIsoCode.rwk,
+                LanguageId.rwk,
                 RWK.LanguageProperties
             },
             {
-                LanguageIsoCode.sa,
+                LanguageId.sa,
                 SA.LanguageProperties
             },
             {
-                LanguageIsoCode.sah,
+                LanguageId.sah,
                 SAH.LanguageProperties
             },
             {
-                LanguageIsoCode.saq,
+                LanguageId.saq,
                 SAQ.LanguageProperties
             },
             {
-                LanguageIsoCode.sat,
+                LanguageId.sat,
                 SAT.LanguageProperties
             },
             {
-                LanguageIsoCode.sbp,
+                LanguageId.sbp,
                 SBP.LanguageProperties
             },
             {
-                LanguageIsoCode.sd,
+                LanguageId.sd,
                 SD.LanguageProperties
             },
             {
-                LanguageIsoCode.se,
+                LanguageId.se,
                 SE.LanguageProperties
             },
             {
-                LanguageIsoCode.seh,
+                LanguageId.seh,
                 SEH.LanguageProperties
             },
             {
-                LanguageIsoCode.ses,
+                LanguageId.ses,
                 SES.LanguageProperties
             },
             {
-                LanguageIsoCode.sg,
+                LanguageId.sg,
                 SG.LanguageProperties
             },
             {
-                LanguageIsoCode.shi,
+                LanguageId.shi,
                 SHI.LanguageProperties
             },
             {
-                LanguageIsoCode.si,
+                LanguageId.si,
                 SI.LanguageProperties
             },
             {
-                LanguageIsoCode.sk,
+                LanguageId.sk,
                 SK.LanguageProperties
             },
             {
-                LanguageIsoCode.sl,
+                LanguageId.sl,
                 SL.LanguageProperties
             },
             {
-                LanguageIsoCode.sma,
+                LanguageId.sma,
                 SMA.LanguageProperties
             },
             {
-                LanguageIsoCode.smj,
+                LanguageId.smj,
                 SMJ.LanguageProperties
             },
             {
-                LanguageIsoCode.smn,
+                LanguageId.smn,
                 SMN.LanguageProperties
             },
             {
-                LanguageIsoCode.sms,
+                LanguageId.sms,
                 SMS.LanguageProperties
             },
             {
-                LanguageIsoCode.sn,
+                LanguageId.sn,
                 SN.LanguageProperties
             },
             {
-                LanguageIsoCode.so,
+                LanguageId.so,
                 SO.LanguageProperties
             },
             {
-                LanguageIsoCode.sq,
+                LanguageId.sq,
                 SQ.LanguageProperties
             },
             {
-                LanguageIsoCode.sr,
+                LanguageId.sr,
                 SR.LanguageProperties
             },
             {
-                LanguageIsoCode.ss,
+                LanguageId.ss,
                 SS.LanguageProperties
             },
             {
-                LanguageIsoCode.ssy,
+                LanguageId.ssy,
                 SSY.LanguageProperties
             },
             {
-                LanguageIsoCode.st,
+                LanguageId.st,
                 ST.LanguageProperties
             },
             {
-                LanguageIsoCode.su,
+                LanguageId.su,
                 SU.LanguageProperties
             },
             {
-                LanguageIsoCode.sv,
+                LanguageId.sv,
                 SV.LanguageProperties
             },
             {
-                LanguageIsoCode.sw,
+                LanguageId.sw,
                 SW.LanguageProperties
             },
             {
-                LanguageIsoCode.syr,
+                LanguageId.syr,
                 SYR.LanguageProperties
             },
             {
-                LanguageIsoCode.ta,
+                LanguageId.ta,
                 TA.LanguageProperties
             },
             {
-                LanguageIsoCode.te,
+                LanguageId.te,
                 TE.LanguageProperties
             },
             {
-                LanguageIsoCode.teo,
+                LanguageId.teo,
                 TEO.LanguageProperties
             },
             {
-                LanguageIsoCode.tg,
+                LanguageId.tg,
                 TG.LanguageProperties
             },
             {
-                LanguageIsoCode.th,
+                LanguageId.th,
                 TH.LanguageProperties
             },
             {
-                LanguageIsoCode.ti,
+                LanguageId.ti,
                 TI.LanguageProperties
             },
             {
-                LanguageIsoCode.tig,
+                LanguageId.tig,
                 TIG.LanguageProperties
             },
             {
-                LanguageIsoCode.tk,
+                LanguageId.tk,
                 TK.LanguageProperties
             },
             {
-                LanguageIsoCode.tn,
+                LanguageId.tn,
                 TN.LanguageProperties
             },
             {
-                LanguageIsoCode.to,
+                LanguageId.to,
                 TO.LanguageProperties
             },
             {
-                LanguageIsoCode.tr,
+                LanguageId.tr,
                 TR.LanguageProperties
             },
             {
-                LanguageIsoCode.ts,
+                LanguageId.ts,
                 TS.LanguageProperties
             },
             {
-                LanguageIsoCode.tt,
+                LanguageId.tt,
                 TT.LanguageProperties
             },
             {
-                LanguageIsoCode.twq,
+                LanguageId.twq,
                 TWQ.LanguageProperties
             },
             {
-                LanguageIsoCode.tzm,
+                LanguageId.tzm,
                 TZM.LanguageProperties
             },
             {
-                LanguageIsoCode.ug,
+                LanguageId.ug,
                 UG.LanguageProperties
             },
             {
-                LanguageIsoCode.uk,
+                LanguageId.uk,
                 UK.LanguageProperties
             },
             {
-                LanguageIsoCode.ur,
+                LanguageId.ur,
                 UR.LanguageProperties
             },
             {
-                LanguageIsoCode.uz,
+                LanguageId.uz,
                 UZ.LanguageProperties
             },
             {
-                LanguageIsoCode.vai,
+                LanguageId.vai,
                 VAI.LanguageProperties
             },
             {
-                LanguageIsoCode.ve,
+                LanguageId.ve,
                 VE.LanguageProperties
             },
             {
-                LanguageIsoCode.vi,
+                LanguageId.vi,
                 VI.LanguageProperties
             },
             {
-                LanguageIsoCode.vo,
+                LanguageId.vo,
                 VO.LanguageProperties
             },
             {
-                LanguageIsoCode.vun,
+                LanguageId.vun,
                 VUN.LanguageProperties
             },
             {
-                LanguageIsoCode.wae,
+                LanguageId.wae,
                 WAE.LanguageProperties
             },
             {
-                LanguageIsoCode.wal,
+                LanguageId.wal,
                 WAL.LanguageProperties
             },
             {
-                LanguageIsoCode.wo,
+                LanguageId.wo,
                 WO.LanguageProperties
             },
             {
-                LanguageIsoCode.xh,
+                LanguageId.xh,
                 XH.LanguageProperties
             },
             {
-                LanguageIsoCode.xog,
+                LanguageId.xog,
                 XOG.LanguageProperties
             },
             {
-                LanguageIsoCode.yav,
+                LanguageId.yav,
                 YAV.LanguageProperties
             },
             {
-                LanguageIsoCode.yi,
+                LanguageId.yi,
                 YI.LanguageProperties
             },
             {
-                LanguageIsoCode.yo,
+                LanguageId.yo,
                 YO.LanguageProperties
             },
             {
-                LanguageIsoCode.zgh,
+                LanguageId.zgh,
                 ZGH.LanguageProperties
             },
             {
-                LanguageIsoCode.zh,
+                LanguageId.zh,
                 ZH.LanguageProperties
             },
             {
-                LanguageIsoCode.zu,
+                LanguageId.zu,
                 ZU.LanguageProperties
             }
         };

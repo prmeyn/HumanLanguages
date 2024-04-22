@@ -2,5062 +2,5062 @@
 {
     public static class Translations
     {
-        public static Dictionary<TranslationKey, Dictionary<LanguageIsoCode, Dictionary<LanguageVariationIsoCode, string>>> TranslationsDictionary = new()
+        public static Dictionary<TranslationKey, Dictionary<LanguageId, Dictionary<LanguageLocaleVariationCode, string>>> TranslationsDictionary = new()
         {
             {
                 TranslationKey.SortLanguagesPrompt,
-                new Dictionary<LanguageIsoCode, Dictionary<LanguageVariationIsoCode, string>>()
+                new Dictionary<LanguageId, Dictionary<LanguageLocaleVariationCode, string>>()
                 {
                     {
-                        LanguageIsoCode.en,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.en,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sort and add the languages you can read, in order of preference:" }
+                            { LanguageLocaleVariationCode.Default, "Sort and add the languages you can read, in order of preference:" }
                         }
                     },
                     {
-                        LanguageIsoCode.aa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.aa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.da,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.da,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sorter og tilføj de sprog, du kan læse, i præferencerækkefølge:" }
+                            { LanguageLocaleVariationCode.Default, "Sorter og tilføj de sprog, du kan læse, i præferencerækkefølge:" }
                         }
                     },
                     {
-                        LanguageIsoCode.af,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.af,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sorteer en voeg die tale wat jy kan lees by, in volgorde van voorkeur:" }
+                            { LanguageLocaleVariationCode.Default, "Sorteer en voeg die tale wat jy kan lees by, in volgorde van voorkeur:" }
                         }
                     },
                     {
-                        LanguageIsoCode.agq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.agq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ak,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ak,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.am,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.am,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "በምርጫ ቅደም ተከተል ደርድር እና ማንበብ የምትችላቸውን ቋንቋዎች አክል፡" }
+                            { LanguageLocaleVariationCode.Default, "በምርጫ ቅደም ተከተል ደርድር እና ማንበብ የምትችላቸውን ቋንቋዎች አክል፡" }
                         }
                     },
                     {
-                        LanguageIsoCode.ar,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ar,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "قم بفرز وإضافة اللغات التي يمكنك قراءتها، حسب التفضيل:" }
+                            { LanguageLocaleVariationCode.Default, "قم بفرز وإضافة اللغات التي يمكنك قراءتها، حسب التفضيل:" }
                         }
                     },
                     {
-                        LanguageIsoCode.arn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.arn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.@as,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.@as,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.asa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.asa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ast,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ast,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.az,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.az,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Oxuya biləcəyiniz dilləri üstünlük sırasına görə çeşidləyin və əlavə edin:" }
+                            { LanguageLocaleVariationCode.Default, "Oxuya biləcəyiniz dilləri üstünlük sırasına görə çeşidləyin və əlavə edin:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ba,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ba,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bas,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bas,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.be,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.be,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Адсартуйце і дадайце мовы, якія вы можаце чытаць, у парадку пераваг:" }
+                            { LanguageLocaleVariationCode.Default, "Адсартуйце і дадайце мовы, якія вы можаце чытаць, у парадку пераваг:" }
                         }
                     },
                     {
-                        LanguageIsoCode.bem,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bem,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bez,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bez,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Сортирайте и добавете езиците, които можете да четете, по ред на предпочитанията:" }
+                            { LanguageLocaleVariationCode.Default, "Сортирайте и добавете езиците, които можете да четете, по ред на предпочитанията:" }
                         }
                     },
                     {
-                        LanguageIsoCode.bin,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bin,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "পছন্দ অনুসারে আপনি যে ভাষাগুলি পড়তে পারেন সেগুলি সাজান এবং যোগ করুন:" }
+                            { LanguageLocaleVariationCode.Default, "পছন্দ অনুসারে আপনি যে ভাষাগুলি পড়তে পারেন সেগুলি সাজান এবং যোগ করুন:" }
                         }
                     },
                     {
-                        LanguageIsoCode.bo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.br,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.br,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.brx,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.brx,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bs,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bs,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sortirajte i dodajte jezike koje možete čitati, prema željenom redoslijedu:" }
+                            { LanguageLocaleVariationCode.Default, "Sortirajte i dodajte jezike koje možete čitati, prema željenom redoslijedu:" }
                         }
                     },
                     {
-                        LanguageIsoCode.byn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.byn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ca,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ca,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordena i afegeix els idiomes que pots llegir, per ordre de preferència:" }
+                            { LanguageLocaleVariationCode.Default, "Ordena i afegeix els idiomes que pots llegir, per ordre de preferència:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ccp,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ccp,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ce,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ce,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ceb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ceb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Paghan-ay ug idugang ang mga pinulongan nga imong mabasa, sumala sa gusto:" }
+                            { LanguageLocaleVariationCode.Default, "Paghan-ay ug idugang ang mga pinulongan nga imong mabasa, sumala sa gusto:" }
                         }
                     },
                     {
-                        LanguageIsoCode.cgg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cgg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.chr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.chr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ckb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ckb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.co,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.co,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordine è aghjunghje e lingue chì pudete leghje, in ordine di preferenza:" }
+                            { LanguageLocaleVariationCode.Default, "Ordine è aghjunghje e lingue chì pudete leghje, in ordine di preferenza:" }
                         }
                     },
                     {
-                        LanguageIsoCode.cs,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cs,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Seřaďte a přidejte jazyky, které můžete číst, v preferovaném pořadí:" }
+                            { LanguageLocaleVariationCode.Default, "Seřaďte a přidejte jazyky, které můžete číst, v preferovaném pořadí:" }
                         }
                     },
                     {
-                        LanguageIsoCode.cu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.cy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Trefnwch ac ychwanegwch yr ieithoedd y gallwch eu darllen, yn nhrefn dewis:" }
+                            { LanguageLocaleVariationCode.Default, "Trefnwch ac ychwanegwch yr ieithoedd y gallwch eu darllen, yn nhrefn dewis:" }
                         }
                     },
                     {
-                        LanguageIsoCode.dav,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dav,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.de,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.de,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sortieren und fügen Sie die Sprachen, die Sie lesen können, in der Reihenfolge Ihrer Präferenz hinzu:" }
+                            { LanguageLocaleVariationCode.Default, "Sortieren und fügen Sie die Sprachen, die Sie lesen können, in der Reihenfolge Ihrer Präferenz hinzu:" }
                         }
                     },
                     {
-                        LanguageIsoCode.dje,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dje,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.doi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.doi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dsb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dsb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dua,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dua,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ebu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ebu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ee,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ee,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.el,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.el,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ταξινομήστε και προσθέστε τις γλώσσες που μπορείτε να διαβάσετε, με σειρά προτίμησης:" }
+                            { LanguageLocaleVariationCode.Default, "Ταξινομήστε και προσθέστε τις γλώσσες που μπορείτε να διαβάσετε, με σειρά προτίμησης:" }
                         }
                     },
                     {
-                        LanguageIsoCode.eo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.eo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordigu kaj aldonu la lingvojn, kiujn vi povas legi, laŭ ordo de prefero:" }
+                            { LanguageLocaleVariationCode.Default, "Ordigu kaj aldonu la lingvojn, kiujn vi povas legi, laŭ ordo de prefero:" }
                         }
                     },
                     {
-                        LanguageIsoCode.es,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.es,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordene y agregue los idiomas que puede leer, en orden de preferencia:" }
+                            { LanguageLocaleVariationCode.Default, "Ordene y agregue los idiomas que puede leer, en orden de preferencia:" }
                         }
                     },
                     {
-                        LanguageIsoCode.et,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.et,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sorteerige ja lisage eelistuse järjekorras loetavad keeled:" }
+                            { LanguageLocaleVariationCode.Default, "Sorteerige ja lisage eelistuse järjekorras loetavad keeled:" }
                         }
                     },
                     {
-                        LanguageIsoCode.eu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.eu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordenatu eta gehitu irakur ditzakezun hizkuntzak, hobespenen arabera:" }
+                            { LanguageLocaleVariationCode.Default, "Ordenatu eta gehitu irakur ditzakezun hizkuntzak, hobespenen arabera:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ewo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ewo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "زبان هایی را که می توانید بخوانید، به ترتیب اولویت مرتب کنید و اضافه کنید:" }
+                            { LanguageLocaleVariationCode.Default, "زبان هایی را که می توانید بخوانید، به ترتیب اولویت مرتب کنید و اضافه کنید:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ff,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ff,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Lajittele ja lisää kielet, joita voit lukea, mieltymysjärjestyksessä:" }
+                            { LanguageLocaleVariationCode.Default, "Lajittele ja lisää kielet, joita voit lukea, mieltymysjärjestyksessä:" }
                         }
                     },
                     {
-                        LanguageIsoCode.fil,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fil,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Pagbukud-bukurin at idagdag ang mga wikang mababasa mo, ayon sa kagustuhan:" }
+                            { LanguageLocaleVariationCode.Default, "Pagbukud-bukurin at idagdag ang mga wikang mababasa mo, ayon sa kagustuhan:" }
                         }
                     },
                     {
-                        LanguageIsoCode.fo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Triez et ajoutez les langues que vous pouvez lire, par ordre de préférence :" }
+                            { LanguageLocaleVariationCode.Default, "Triez et ajoutez les langues que vous pouvez lire, par ordre de préférence :" }
                         }
                     },
                     {
-                        LanguageIsoCode.fur,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fur,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sortearje en foegje de talen ta dy't jo lêze kinne, yn folchoarder fan foarkar:" }
+                            { LanguageLocaleVariationCode.Default, "Sortearje en foegje de talen ta dy't jo lêze kinne, yn folchoarder fan foarkar:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ga,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ga,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sórtáil agus cuir leis na teangacha is féidir leat a léamh, in ord rogha:" }
+                            { LanguageLocaleVariationCode.Default, "Sórtáil agus cuir leis na teangacha is féidir leat a léamh, in ord rogha:" }
                         }
                     },
                     {
-                        LanguageIsoCode.gd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Deasaich agus cuir ris na cànanan as urrainn dhut a leughadh, ann an òrdugh roghainn:" }
+                            { LanguageLocaleVariationCode.Default, "Deasaich agus cuir ris na cànanan as urrainn dhut a leughadh, ann an òrdugh roghainn:" }
                         }
                     },
                     {
-                        LanguageIsoCode.gl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordena e engade os idiomas que podes ler, por orde de preferencia:" }
+                            { LanguageLocaleVariationCode.Default, "Ordena e engade os idiomas que podes ler, por orde de preferencia:" }
                         }
                     },
                     {
-                        LanguageIsoCode.gn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gsw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gsw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "પસંદગીના ક્રમમાં, તમે વાંચી શકો તે ભાષાઓને સૉર્ટ કરો અને ઉમેરો:" }
+                            { LanguageLocaleVariationCode.Default, "પસંદગીના ક્રમમાં, તમે વાંચી શકો તે ભાષાઓને સૉર્ટ કરો અને ઉમેરો:" }
                         }
                     },
                     {
-                        LanguageIsoCode.guz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.guz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ha,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ha,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tsara kuma ƙara harsunan da za ku iya karantawa, bisa ga fifiko:" }
+                            { LanguageLocaleVariationCode.Default, "Tsara kuma ƙara harsunan da za ku iya karantawa, bisa ga fifiko:" }
                         }
                     },
                     {
-                        LanguageIsoCode.haw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.haw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hoʻopili a hoʻohui i nā ʻōlelo āu e heluhelu ai, e like me ka makemake:" }
+                            { LanguageLocaleVariationCode.Default, "Hoʻopili a hoʻohui i nā ʻōlelo āu e heluhelu ai, e like me ka makemake:" }
                         }
                     },
                     {
-                        LanguageIsoCode.he,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.he,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "מיין והוסף את השפות שאתה יכול לקרוא, לפי סדר העדפה:" }
+                            { LanguageLocaleVariationCode.Default, "מיין והוסף את השפות שאתה יכול לקרוא, לפי סדר העדפה:" }
                         }
                     },
                     {
-                        LanguageIsoCode.hi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "जिन भाषाओं को आप पढ़ सकते हैं उन्हें प्राथमिकता के क्रम में क्रमबद्ध करें और जोड़ें:" }
+                            { LanguageLocaleVariationCode.Default, "जिन भाषाओं को आप पढ़ सकते हैं उन्हें प्राथमिकता के क्रम में क्रमबद्ध करें और जोड़ें:" }
                         }
                     },
                     {
-                        LanguageIsoCode.hr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Razvrstajte i dodajte jezike koje možete čitati prema željenom redoslijedu:" }
+                            { LanguageLocaleVariationCode.Default, "Razvrstajte i dodajte jezike koje možete čitati prema željenom redoslijedu:" }
                         }
                     },
                     {
-                        LanguageIsoCode.hsb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hsb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.hu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Rendezze és adja hozzá az olvasott nyelveket preferencia szerint:" }
+                            { LanguageLocaleVariationCode.Default, "Rendezze és adja hozzá az olvasott nyelveket preferencia szerint:" }
                         }
                     },
                     {
-                        LanguageIsoCode.hy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Տեսակավորեք և ավելացրեք այն լեզուները, որոնք կարող եք կարդալ՝ ըստ նախընտրության." }
+                            { LanguageLocaleVariationCode.Default, "Տեսակավորեք և ավելացրեք այն լեզուները, որոնք կարող եք կարդալ՝ ըստ նախընտրության." }
                         }
                     },
                     {
-                        LanguageIsoCode.ia,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ia,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ibb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ibb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.id,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.id,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Urutkan dan tambahkan bahasa yang dapat Anda baca, sesuai urutan pilihan:" }
+                            { LanguageLocaleVariationCode.Default, "Urutkan dan tambahkan bahasa yang dapat Anda baca, sesuai urutan pilihan:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ig,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ig,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hazie ma tinye asụsụ ndị ị nwere ike ịgụ, n'usoro masịrị gị:" }
+                            { LanguageLocaleVariationCode.Default, "Hazie ma tinye asụsụ ndị ị nwere ike ịgụ, n'usoro masịrị gị:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ii,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ii,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.@is,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.@is,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Raða og bæta við tungumálum sem þú getur lesið, í forgangsröð:" }
+                            { LanguageLocaleVariationCode.Default, "Raða og bæta við tungumálum sem þú getur lesið, í forgangsröð:" }
                         }
                     },
                     {
-                        LanguageIsoCode.it,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.it,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ordina e aggiungi le lingue che puoi leggere, in ordine di preferenza:" }
+                            { LanguageLocaleVariationCode.Default, "Ordina e aggiungi le lingue che puoi leggere, in ordine di preferenza:" }
                         }
                     },
                     {
-                        LanguageIsoCode.iu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.iu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ja,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ja,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "読める言語を優先順に並べ替えて追加します。" }
+                            { LanguageLocaleVariationCode.Default, "読める言語を優先順に並べ替えて追加します。" }
                         }
                     },
                     {
-                        LanguageIsoCode.jgo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jgo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.jmc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jmc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.jv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Urut lan tambahake basa sing bisa diwaca, miturut pilihan:" }
+                            { LanguageLocaleVariationCode.Default, "Urut lan tambahake basa sing bisa diwaca, miturut pilihan:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ka,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ka,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "დაალაგეთ და დაამატეთ ენები, რომელთა წაკითხვაც შეგიძლიათ, უპირატესობის მიხედვით:" }
+                            { LanguageLocaleVariationCode.Default, "დაალაგეთ და დაამატეთ ენები, რომელთა წაკითხვაც შეგიძლიათ, უპირატესობის მიხედვით:" }
                         }
                     },
                     {
-                        LanguageIsoCode.kab,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kab,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kam,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kam,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kde,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kde,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kea,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kea,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.khq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.khq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ki,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ki,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Оқуға болатын тілдерді таңдау реті бойынша сұрыптаңыз және қосыңыз:" }
+                            { LanguageLocaleVariationCode.Default, "Оқуға болатын тілдерді таңдау реті бойынша сұрыптаңыз және қосыңыз:" }
                         }
                     },
                     {
-                        LanguageIsoCode.kkj,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kkj,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kln,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kln,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.km,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.km,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "តម្រៀប​និង​បន្ថែម​ភាសា​ដែល​អ្នក​អាច​អាន​តាម​លំដាប់​ចំណូល​ចិត្ត៖" }
+                            { LanguageLocaleVariationCode.Default, "តម្រៀប​និង​បន្ថែម​ភាសា​ដែល​អ្នក​អាច​អាន​តាម​លំដាប់​ចំណូល​ចិត្ត៖" }
                         }
                     },
                     {
-                        LanguageIsoCode.kn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ನೀವು ಓದಬಹುದಾದ ಭಾಷೆಗಳನ್ನು ಆದ್ಯತೆಯ ಕ್ರಮದಲ್ಲಿ ವಿಂಗಡಿಸಿ ಮತ್ತು ಸೇರಿಸಿ:" }
+                            { LanguageLocaleVariationCode.Default, "ನೀವು ಓದಬಹುದಾದ ಭಾಷೆಗಳನ್ನು ಆದ್ಯತೆಯ ಕ್ರಮದಲ್ಲಿ ವಿಂಗಡಿಸಿ ಮತ್ತು ಸೇರಿಸಿ:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ko,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ko,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "읽을 수 있는 언어를 선호하는 순서대로 정렬하고 추가하세요." }
+                            { LanguageLocaleVariationCode.Default, "읽을 수 있는 언어를 선호하는 순서대로 정렬하고 추가하세요." }
                         }
                     },
                     {
-                        LanguageIsoCode.kok,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kok,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ks,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ks,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksf,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksf,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ky,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ky,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Сиз окуй турган тилдерди тандоо ирети боюнча иреттеңиз жана кошуңуз:" }
+                            { LanguageLocaleVariationCode.Default, "Сиз окуй турган тилдерди тандоо ирети боюнча иреттеңиз жана кошуңуз:" }
                         }
                     },
                     {
-                        LanguageIsoCode.la,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.la,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sort et linguis adde quae legere potes, ordine potiorum:" }
+                            { LanguageLocaleVariationCode.Default, "Sort et linguis adde quae legere potes, ordine potiorum:" }
                         }
                     },
                     {
-                        LanguageIsoCode.lag,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lag,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sortéiert a füügt d'Sproochen un, déi Dir liest, an der Preferenzuerdnung:" }
+                            { LanguageLocaleVariationCode.Default, "Sortéiert a füügt d'Sproochen un, déi Dir liest, an der Preferenzuerdnung:" }
                         }
                     },
                     {
-                        LanguageIsoCode.lg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lkt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lkt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ln,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ln,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ຈັດຮຽງ ແລະເພີ່ມພາສາທີ່ເຈົ້າສາມາດອ່ານໄດ້, ຕາມລຳດັບຄວາມມັກ:" }
+                            { LanguageLocaleVariationCode.Default, "ຈັດຮຽງ ແລະເພີ່ມພາສາທີ່ເຈົ້າສາມາດອ່ານໄດ້, ຕາມລຳດັບຄວາມມັກ:" }
                         }
                     },
                     {
-                        LanguageIsoCode.lrc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lrc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Rūšiuokite ir pridėkite kalbas, kurias galite skaityti, pirmenybės tvarka:" }
+                            { LanguageLocaleVariationCode.Default, "Rūšiuokite ir pridėkite kalbas, kurias galite skaityti, pirmenybės tvarka:" }
                         }
                     },
                     {
-                        LanguageIsoCode.luo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.luo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.luy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.luy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kārtojiet un pievienojiet valodas, kuras varat lasīt, pēc izvēles:" }
+                            { LanguageLocaleVariationCode.Default, "Kārtojiet un pievienojiet valodas, kuras varat lasīt, pēc izvēles:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mai,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mai,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mas,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mas,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mer,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mer,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mfe,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mfe,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Alaharo sy ampio ireo fiteny azonao vakina, araka ny filaharany:" }
+                            { LanguageLocaleVariationCode.Default, "Alaharo sy ampio ireo fiteny azonao vakina, araka ny filaharany:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mgo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mgo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kōmaka me te tāpiri i ngā reo ka taea e koe te pānui, i runga i te raupapa o te manakohanga:" }
+                            { LanguageLocaleVariationCode.Default, "Kōmaka me te tāpiri i ngā reo ka taea e koe te pānui, i runga i te raupapa o te manakohanga:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Подредете ги и додајте ги јазиците што можете да ги читате, по редослед на предност:" }
+                            { LanguageLocaleVariationCode.Default, "Подредете ги и додајте ги јазиците што можете да ги читате, по редослед на предност:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ml,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ml,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "നിങ്ങൾക്ക് വായിക്കാനാകുന്ന ഭാഷകൾ മുൻഗണനാ ക്രമത്തിൽ അടുക്കി ചേർക്കുക:" }
+                            { LanguageLocaleVariationCode.Default, "നിങ്ങൾക്ക് വായിക്കാനാകുന്ന ഭാഷകൾ മുൻഗണനാ ക്രമത്തിൽ അടുക്കി ചേർക്കുക:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Унших боломжтой хэлээ дарааллаар нь эрэмбэлж нэмээрэй:" }
+                            { LanguageLocaleVariationCode.Default, "Унших боломжтой хэлээ дарааллаар нь эрэмбэлж нэмээрэй:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mni,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mni,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.moh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.moh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "क्रमवारी लावा आणि प्राधान्य क्रमाने तुम्ही वाचू शकता अशा भाषा जोडा:" }
+                            { LanguageLocaleVariationCode.Default, "क्रमवारी लावा आणि प्राधान्य क्रमाने तुम्ही वाचू शकता अशा भाषा जोडा:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ms,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ms,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Isih dan tambah bahasa yang anda boleh baca, mengikut keutamaan:" }
+                            { LanguageLocaleVariationCode.Default, "Isih dan tambah bahasa yang anda boleh baca, mengikut keutamaan:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Issortja u żid il-lingwi li tista' taqra, f'ordni ta' preferenza:" }
+                            { LanguageLocaleVariationCode.Default, "Issortja u żid il-lingwi li tista' taqra, f'ordni ta' preferenza:" }
                         }
                     },
                     {
-                        LanguageIsoCode.mua,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mua,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.my,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.my,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "စိတ်ကြိုက်အစီအစဥ်အလိုက် သင်ဖတ်နိုင်သော ဘာသာစကားများကို စီခွဲပြီး ထည့်ပါ-" }
+                            { LanguageLocaleVariationCode.Default, "စိတ်ကြိုက်အစီအစဥ်အလိုက် သင်ဖတ်နိုင်သော ဘာသာစကားများကို စီခွဲပြီး ထည့်ပါ-" }
                         }
                     },
                     {
-                        LanguageIsoCode.mzn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mzn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.naq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.naq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sorter og legg til språkene du kan lese, i foretrukket rekkefølge:" }
+                            { LanguageLocaleVariationCode.Default, "Sorter og legg til språkene du kan lese, i foretrukket rekkefølge:" }
                         }
                     },
                     {
-                        LanguageIsoCode.nd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nds,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nds,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ne,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ne,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "क्रमबद्ध गर्नुहोस् र प्राथमिकताको क्रममा तपाईले पढ्न सक्ने भाषाहरू थप्नुहोस्:" }
+                            { LanguageLocaleVariationCode.Default, "क्रमबद्ध गर्नुहोस् र प्राथमिकताको क्रममा तपाईले पढ्न सक्ने भाषाहरू थप्नुहोस्:" }
                         }
                     },
                     {
-                        LanguageIsoCode.nl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sorteer en voeg de talen toe die u kunt lezen, in volgorde van voorkeur:" }
+                            { LanguageLocaleVariationCode.Default, "Sorteer en voeg de talen toe die u kunt lezen, in volgorde van voorkeur:" }
                         }
                     },
                     {
-                        LanguageIsoCode.nmg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nmg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nnh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nnh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nqo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nqo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nso,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nso,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nus,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nus,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nyn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nyn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.oc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.oc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.om,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.om,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.or,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.or,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ପସନ୍ଦ କ୍ରମରେ ଆପଣ ପ read ିଥିବା ଭାଷାଗୁଡ଼ିକୁ ସର୍ଟ କରନ୍ତୁ ଏବଂ ଯୋଡନ୍ତୁ:" }
+                            { LanguageLocaleVariationCode.Default, "ପସନ୍ଦ କ୍ରମରେ ଆପଣ ପ read ିଥିବା ଭାଷାଗୁଡ଼ିକୁ ସର୍ଟ କରନ୍ତୁ ଏବଂ ଯୋଡନ୍ତୁ:" }
                         }
                     },
                     {
-                        LanguageIsoCode.os,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.os,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ਉਹਨਾਂ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਕ੍ਰਮਬੱਧ ਅਤੇ ਜੋੜੋ ਜੋ ਤੁਸੀਂ ਪੜ੍ਹ ਸਕਦੇ ਹੋ, ਤਰਜੀਹ ਦੇ ਕ੍ਰਮ ਵਿੱਚ:" }
+                            { LanguageLocaleVariationCode.Default, "ਉਹਨਾਂ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਕ੍ਰਮਬੱਧ ਅਤੇ ਜੋੜੋ ਜੋ ਤੁਸੀਂ ਪੜ੍ਹ ਸਕਦੇ ਹੋ, ਤਰਜੀਹ ਦੇ ਕ੍ਰਮ ਵਿੱਚ:" }
                         }
                     },
                     {
-                        LanguageIsoCode.pap,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pap,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pcm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pcm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Posortuj i dodaj języki, które czytasz, w kolejności preferencji:" }
+                            { LanguageLocaleVariationCode.Default, "Posortuj i dodaj języki, które czytasz, w kolejności preferencji:" }
                         }
                     },
                     {
-                        LanguageIsoCode.prg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.prg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ps,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ps,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "هغه ژبې چې تاسو یې لوستلی شئ ترتیب او اضافه کړئ، د غوره توب له مخې:" }
+                            { LanguageLocaleVariationCode.Default, "هغه ژبې چې تاسو یې لوستلی شئ ترتیب او اضافه کړئ، د غوره توب له مخې:" }
                         }
                     },
                     {
-                        LanguageIsoCode.pt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Classifique e adicione os idiomas que você pode ler, em ordem de preferência:" }
+                            { LanguageLocaleVariationCode.Default, "Classifique e adicione os idiomas que você pode ler, em ordem de preferência:" }
                         }
                     },
                     {
-                        LanguageIsoCode.qu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.qu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.quc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.quc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.rm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.rn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ro,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ro,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sortați și adăugați limbile pe care le puteți citi, în ordinea preferințelor:" }
+                            { LanguageLocaleVariationCode.Default, "Sortați și adăugați limbile pe care le puteți citi, în ordinea preferințelor:" }
                         }
                     },
                     {
-                        LanguageIsoCode.rof,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rof,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ru,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ru,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Отсортируйте и добавьте языки, на которых вы можете читать, в порядке предпочтения:" }
+                            { LanguageLocaleVariationCode.Default, "Отсортируйте и добавьте языки, на которых вы можете читать, в порядке предпочтения:" }
                         }
                     },
                     {
-                        LanguageIsoCode.rw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Gutondeka no kongeramo indimi ushobora gusoma, ukurikije ibyifuzo:" }
+                            { LanguageLocaleVariationCode.Default, "Gutondeka no kongeramo indimi ushobora gusoma, ukurikije ibyifuzo:" }
                         }
                     },
                     {
-                        LanguageIsoCode.rwk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rwk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sah,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sah,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.saq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.saq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sat,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sat,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sbp,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sbp,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ترتيب ڏيو ۽ شامل ڪريو ٻوليون جيڪي توھان پڙھي سگھوٿا، ترجيح جي ترتيب ۾:" }
+                            { LanguageLocaleVariationCode.Default, "ترتيب ڏيو ۽ شامل ڪريو ٻوليون جيڪي توھان پڙھي سگھوٿا، ترجيح جي ترتيب ۾:" }
                         }
                     },
                     {
-                        LanguageIsoCode.se,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.se,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.seh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.seh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ses,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ses,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.shi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.shi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.si,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.si,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ඔබට කියවිය හැකි භාෂා මනාප අනුපිළිවෙලට වර්ග කර එක් කරන්න:" }
+                            { LanguageLocaleVariationCode.Default, "ඔබට කියවිය හැකි භාෂා මනාප අනුපිළිවෙලට වර්ග කර එක් කරන්න:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Zoraďte a pridajte jazyky, ktoré môžete čítať, v poradí podľa preferencie:" }
+                            { LanguageLocaleVariationCode.Default, "Zoraďte a pridajte jazyky, ktoré môžete čítať, v poradí podľa preferencie:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Razvrstite in dodajte jezike, ki jih lahko berete, po želenem vrstnem redu:" }
+                            { LanguageLocaleVariationCode.Default, "Razvrstite in dodajte jezike, ki jih lahko berete, po želenem vrstnem redu:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sma,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sma,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.smj,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.smj,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.smn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.smn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sms,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sms,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ronga uye wedzera mitauro yaunogona kuverenga, maererano nezvaunoda:" }
+                            { LanguageLocaleVariationCode.Default, "Ronga uye wedzera mitauro yaunogona kuverenga, maererano nezvaunoda:" }
                         }
                     },
                     {
-                        LanguageIsoCode.so,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.so,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kala sooc oo ku dar luqadaha aad akhrin karto, sida aad doorbidayso:" }
+                            { LanguageLocaleVariationCode.Default, "Kala sooc oo ku dar luqadaha aad akhrin karto, sida aad doorbidayso:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Renditni dhe shtoni gjuhët që mund të lexoni, sipas preferencës:" }
+                            { LanguageLocaleVariationCode.Default, "Renditni dhe shtoni gjuhët që mund të lexoni, sipas preferencës:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Сортирајте и додајте језике које можете да читате, по жељеном редоследу:" }
+                            { LanguageLocaleVariationCode.Default, "Сортирајте и додајте језике које можете да читате, по жељеном редоследу:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ss,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ss,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ssy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ssy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.st,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.st,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hlophisa 'me u kenye lipuo tseo u ka li balang, ho latela khetho:" }
+                            { LanguageLocaleVariationCode.Default, "Hlophisa 'me u kenye lipuo tseo u ka li balang, ho latela khetho:" }
                         }
                     },
                     {
-                        LanguageIsoCode.su,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.su,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Susun sareng tambahkeun basa anu anjeun tiasa baca, dumasar kana pilihan:" }
+                            { LanguageLocaleVariationCode.Default, "Susun sareng tambahkeun basa anu anjeun tiasa baca, dumasar kana pilihan:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sortera och lägg till språken du kan läsa, i prioritetsordning:" }
+                            { LanguageLocaleVariationCode.Default, "Sortera och lägg till språken du kan läsa, i prioritetsordning:" }
                         }
                     },
                     {
-                        LanguageIsoCode.sw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Panga na uongeze lugha unazoweza kusoma, kwa mpangilio wa upendeleo:" }
+                            { LanguageLocaleVariationCode.Default, "Panga na uongeze lugha unazoweza kusoma, kwa mpangilio wa upendeleo:" }
                         }
                     },
                     {
-                        LanguageIsoCode.syr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.syr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ta,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ta,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "நீங்கள் படிக்கக்கூடிய மொழிகளை விருப்பப்படி வரிசைப்படுத்தி சேர்க்கவும்:" }
+                            { LanguageLocaleVariationCode.Default, "நீங்கள் படிக்கக்கூடிய மொழிகளை விருப்பப்படி வரிசைப்படுத்தி சேர்க்கவும்:" }
                         }
                     },
                     {
-                        LanguageIsoCode.te,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.te,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "మీరు చదవగలిగే భాషలను ప్రాధాన్యత క్రమంలో క్రమబద్ధీకరించండి మరియు జోడించండి:" }
+                            { LanguageLocaleVariationCode.Default, "మీరు చదవగలిగే భాషలను ప్రాధాన్యత క్రమంలో క్రమబద్ధీకరించండి మరియు జోడించండి:" }
                         }
                     },
                     {
-                        LanguageIsoCode.teo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.teo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Забонҳоеро, ки шумо метавонед хонед, бо тартиби афзалият ҷудо кунед ва илова кунед:" }
+                            { LanguageLocaleVariationCode.Default, "Забонҳоеро, ки шумо метавонед хонед, бо тартиби афзалият ҷудо кунед ва илова кунед:" }
                         }
                     },
                     {
-                        LanguageIsoCode.th,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.th,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "จัดเรียงและเพิ่มภาษาที่คุณสามารถอ่านได้ ตามลำดับที่ต้องการ:" }
+                            { LanguageLocaleVariationCode.Default, "จัดเรียงและเพิ่มภาษาที่คุณสามารถอ่านได้ ตามลำดับที่ต้องการ:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ti,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ti,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tig,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tig,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Okap boljak dilleriňizi ileri tutmak üçin tertipläň we goşuň:" }
+                            { LanguageLocaleVariationCode.Default, "Okap boljak dilleriňizi ileri tutmak üçin tertipläň we goşuň:" }
                         }
                     },
                     {
-                        LanguageIsoCode.tn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.to,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.to,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Okuyabildiğiniz dilleri tercih sırasına göre sıralayın ve ekleyin:" }
+                            { LanguageLocaleVariationCode.Default, "Okuyabildiğiniz dilleri tercih sırasına göre sıralayın ve ekleyin:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ts,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ts,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Сез укый алган телләрне өстенлек тәртибендә тәртипкә китерегез һәм өстәгез:" }
+                            { LanguageLocaleVariationCode.Default, "Сез укый алган телләрне өстенлек тәртибендә тәртипкә китерегез һәм өстәгез:" }
                         }
                     },
                     {
-                        LanguageIsoCode.twq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.twq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tzm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tzm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ug,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ug,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "سىز ياقتۇرىدىغان تىللارنى رەتلەش ۋە قوشۇش:" }
+                            { LanguageLocaleVariationCode.Default, "سىز ياقتۇرىدىغان تىللارنى رەتلەش ۋە قوشۇش:" }
                         }
                     },
                     {
-                        LanguageIsoCode.uk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.uk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Відсортуйте та додайте мови, якими ви можете читати, у порядку переваги:" }
+                            { LanguageLocaleVariationCode.Default, "Відсортуйте та додайте мови, якими ви можете читати, у порядку переваги:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ur,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ur,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ان زبانوں کو ترتیب دیں اور شامل کریں جنہیں آپ پڑھ سکتے ہیں، ترجیح کے لحاظ سے:" }
+                            { LanguageLocaleVariationCode.Default, "ان زبانوں کو ترتیب دیں اور شامل کریں جنہیں آپ پڑھ سکتے ہیں، ترجیح کے لحاظ سے:" }
                         }
                     },
                     {
-                        LanguageIsoCode.uz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.uz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "O'qishingiz mumkin bo'lgan tillarni afzal ko'rish tartibida tartiblang va qo'shing:" }
+                            { LanguageLocaleVariationCode.Default, "O'qishingiz mumkin bo'lgan tillarni afzal ko'rish tartibida tartiblang va qo'shing:" }
                         }
                     },
                     {
-                        LanguageIsoCode.vai,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vai,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ve,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ve,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.vi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sắp xếp và thêm các ngôn ngữ bạn có thể đọc theo thứ tự ưu tiên:" }
+                            { LanguageLocaleVariationCode.Default, "Sắp xếp và thêm các ngôn ngữ bạn có thể đọc theo thứ tự ưu tiên:" }
                         }
                     },
                     {
-                        LanguageIsoCode.vo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.vun,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vun,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wae,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wae,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wal,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wal,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.xh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.xh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hlela kwaye wongeze iilwimi onokuzifunda, ngokohlobo lokukhetha:" }
+                            { LanguageLocaleVariationCode.Default, "Hlela kwaye wongeze iilwimi onokuzifunda, ngokohlobo lokukhetha:" }
                         }
                     },
                     {
-                        LanguageIsoCode.xog,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.xog,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.yav,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yav,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.yi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "סאָרטירן און לייגן די שפּראַכן איר קענען לייענען, אין סדר פון ייבערהאַנט:" }
+                            { LanguageLocaleVariationCode.Default, "סאָרטירן און לייגן די שפּראַכן איר קענען לייענען, אין סדר פון ייבערהאַנט:" }
                         }
                     },
                     {
-                        LanguageIsoCode.yo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Too ati ṣafikun awọn ede ti o le ka, ni ọna ti o fẹ:" }
+                            { LanguageLocaleVariationCode.Default, "Too ati ṣafikun awọn ede ti o le ka, ni ọna ti o fẹ:" }
                         }
                     },
                     {
-                        LanguageIsoCode.zgh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zgh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.zh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "按优先顺序排序并添加您可以阅读的语言：" }
+                            { LanguageLocaleVariationCode.Default, "按优先顺序排序并添加您可以阅读的语言：" }
                         }
                     },
                     {
-                        LanguageIsoCode.zu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hlunga futhi wengeze izilimi ongazifunda, ngokulandelana kokuthandayo:" }
+                            { LanguageLocaleVariationCode.Default, "Hlunga futhi wengeze izilimi ongazifunda, ngokulandelana kokuthandayo:" }
                         }
                     },
                 }
             },
             {
                 TranslationKey.ChoosePreferredLanguagesPrompt,
-                new Dictionary<LanguageIsoCode, Dictionary<LanguageVariationIsoCode, string>>()
+                new Dictionary<LanguageId, Dictionary<LanguageLocaleVariationCode, string>>()
                 {
                     {
-                        LanguageIsoCode.en,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.en,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Add more?" }
+                            { LanguageLocaleVariationCode.Default, "Add more?" }
                         }
                     },
                     {
-                        LanguageIsoCode.aa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.aa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.da,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.da,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tilføj mere?" }
+                            { LanguageLocaleVariationCode.Default, "Tilføj mere?" }
                         }
                     },
                     {
-                        LanguageIsoCode.af,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.af,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Voeg meer by?" }
+                            { LanguageLocaleVariationCode.Default, "Voeg meer by?" }
                         }
                     },
                     {
-                        LanguageIsoCode.agq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.agq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ak,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ak,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.am,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.am,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ተጨማሪ ይጨመር?" }
+                            { LanguageLocaleVariationCode.Default, "ተጨማሪ ይጨመር?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ar,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ar,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "أضف المزيد؟" }
+                            { LanguageLocaleVariationCode.Default, "أضف المزيد؟" }
                         }
                     },
                     {
-                        LanguageIsoCode.arn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.arn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.@as,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.@as,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.asa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.asa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ast,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ast,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.az,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.az,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Daha çox əlavə et?" }
+                            { LanguageLocaleVariationCode.Default, "Daha çox əlavə et?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ba,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ba,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bas,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bas,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.be,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.be,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Дадаць яшчэ?" }
+                            { LanguageLocaleVariationCode.Default, "Дадаць яшчэ?" }
                         }
                     },
                     {
-                        LanguageIsoCode.bem,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bem,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bez,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bez,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Добави още?" }
+                            { LanguageLocaleVariationCode.Default, "Добави още?" }
                         }
                     },
                     {
-                        LanguageIsoCode.bin,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bin,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "আরো যোগ করো?" }
+                            { LanguageLocaleVariationCode.Default, "আরো যোগ করো?" }
                         }
                     },
                     {
-                        LanguageIsoCode.bo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.br,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.br,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.brx,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.brx,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bs,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bs,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Dodaj još?" }
+                            { LanguageLocaleVariationCode.Default, "Dodaj još?" }
                         }
                     },
                     {
-                        LanguageIsoCode.byn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.byn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ca,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ca,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Afegir més?" }
+                            { LanguageLocaleVariationCode.Default, "Afegir més?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ccp,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ccp,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ce,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ce,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ceb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ceb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Dugangan pa?" }
+                            { LanguageLocaleVariationCode.Default, "Dugangan pa?" }
                         }
                     },
                     {
-                        LanguageIsoCode.cgg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cgg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.chr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.chr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ckb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ckb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.co,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.co,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Aghjunghjite più?" }
+                            { LanguageLocaleVariationCode.Default, "Aghjunghjite più?" }
                         }
                     },
                     {
-                        LanguageIsoCode.cs,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cs,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Přidej víc?" }
+                            { LanguageLocaleVariationCode.Default, "Přidej víc?" }
                         }
                     },
                     {
-                        LanguageIsoCode.cu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.cy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ychwanegu mwy?" }
+                            { LanguageLocaleVariationCode.Default, "Ychwanegu mwy?" }
                         }
                     },
                     {
-                        LanguageIsoCode.dav,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dav,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.de,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.de,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Mehr hinzufügen?" }
+                            { LanguageLocaleVariationCode.Default, "Mehr hinzufügen?" }
                         }
                     },
                     {
-                        LanguageIsoCode.dje,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dje,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.doi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.doi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dsb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dsb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dua,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dua,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ebu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ebu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ee,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ee,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.el,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.el,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Πρόσθεσε περισσότερα?" }
+                            { LanguageLocaleVariationCode.Default, "Πρόσθεσε περισσότερα?" }
                         }
                     },
                     {
-                        LanguageIsoCode.eo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.eo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ĉu aldoni pli?" }
+                            { LanguageLocaleVariationCode.Default, "Ĉu aldoni pli?" }
                         }
                     },
                     {
-                        LanguageIsoCode.es,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.es,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "¿Añadir más?" }
+                            { LanguageLocaleVariationCode.Default, "¿Añadir más?" }
                         }
                     },
                     {
-                        LanguageIsoCode.et,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.et,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kas lisada veel?" }
+                            { LanguageLocaleVariationCode.Default, "Kas lisada veel?" }
                         }
                     },
                     {
-                        LanguageIsoCode.eu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.eu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Gehiago gehitu?" }
+                            { LanguageLocaleVariationCode.Default, "Gehiago gehitu?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ewo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ewo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "بیشتر اضافه شود؟" }
+                            { LanguageLocaleVariationCode.Default, "بیشتر اضافه شود؟" }
                         }
                     },
                     {
-                        LanguageIsoCode.ff,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ff,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Lisää enemmän?" }
+                            { LanguageLocaleVariationCode.Default, "Lisää enemmän?" }
                         }
                     },
                     {
-                        LanguageIsoCode.fil,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fil,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Magdagdag pa?" }
+                            { LanguageLocaleVariationCode.Default, "Magdagdag pa?" }
                         }
                     },
                     {
-                        LanguageIsoCode.fo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ajouter plus de?" }
+                            { LanguageLocaleVariationCode.Default, "Ajouter plus de?" }
                         }
                     },
                     {
-                        LanguageIsoCode.fur,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fur,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Foegje mear ta?" }
+                            { LanguageLocaleVariationCode.Default, "Foegje mear ta?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ga,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ga,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Cuir tuilleadh leis?" }
+                            { LanguageLocaleVariationCode.Default, "Cuir tuilleadh leis?" }
                         }
                     },
                     {
-                        LanguageIsoCode.gd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Cuir barrachd ris?" }
+                            { LanguageLocaleVariationCode.Default, "Cuir barrachd ris?" }
                         }
                     },
                     {
-                        LanguageIsoCode.gl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Engadir máis?" }
+                            { LanguageLocaleVariationCode.Default, "Engadir máis?" }
                         }
                     },
                     {
-                        LanguageIsoCode.gn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gsw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gsw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "વધુ ઉમેરો?" }
+                            { LanguageLocaleVariationCode.Default, "વધુ ઉમેરો?" }
                         }
                     },
                     {
-                        LanguageIsoCode.guz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.guz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ha,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ha,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ƙara ƙarin?" }
+                            { LanguageLocaleVariationCode.Default, "Ƙara ƙarin?" }
                         }
                     },
                     {
-                        LanguageIsoCode.haw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.haw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hoʻohui hou aku?" }
+                            { LanguageLocaleVariationCode.Default, "Hoʻohui hou aku?" }
                         }
                     },
                     {
-                        LanguageIsoCode.he,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.he,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "הוסף עוד?" }
+                            { LanguageLocaleVariationCode.Default, "הוסף עוד?" }
                         }
                     },
                     {
-                        LanguageIsoCode.hi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "अधिक जोड़ें?" }
+                            { LanguageLocaleVariationCode.Default, "अधिक जोड़ें?" }
                         }
                     },
                     {
-                        LanguageIsoCode.hr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Dodaj još?" }
+                            { LanguageLocaleVariationCode.Default, "Dodaj još?" }
                         }
                     },
                     {
-                        LanguageIsoCode.hsb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hsb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.hu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Adj hozzá többet?" }
+                            { LanguageLocaleVariationCode.Default, "Adj hozzá többet?" }
                         }
                     },
                     {
-                        LanguageIsoCode.hy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ավելացնե՞լ ավելին:" }
+                            { LanguageLocaleVariationCode.Default, "Ավելացնե՞լ ավելին:" }
                         }
                     },
                     {
-                        LanguageIsoCode.ia,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ia,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ibb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ibb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.id,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.id,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tambahkan lebih banyak?" }
+                            { LanguageLocaleVariationCode.Default, "Tambahkan lebih banyak?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ig,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ig,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tinyekwuo?" }
+                            { LanguageLocaleVariationCode.Default, "Tinyekwuo?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ii,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ii,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.@is,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.@is,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Bæta meiru við?" }
+                            { LanguageLocaleVariationCode.Default, "Bæta meiru við?" }
                         }
                     },
                     {
-                        LanguageIsoCode.it,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.it,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Aggiungere altro?" }
+                            { LanguageLocaleVariationCode.Default, "Aggiungere altro?" }
                         }
                     },
                     {
-                        LanguageIsoCode.iu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.iu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ja,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ja,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "さらに追加？" }
+                            { LanguageLocaleVariationCode.Default, "さらに追加？" }
                         }
                     },
                     {
-                        LanguageIsoCode.jgo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jgo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.jmc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jmc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.jv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tambah liyane?" }
+                            { LanguageLocaleVariationCode.Default, "Tambah liyane?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ka,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ka,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Მეტის დამატება?" }
+                            { LanguageLocaleVariationCode.Default, "Მეტის დამატება?" }
                         }
                     },
                     {
-                        LanguageIsoCode.kab,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kab,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kam,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kam,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kde,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kde,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kea,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kea,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.khq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.khq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ki,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ki,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Тағы қосу керек пе?" }
+                            { LanguageLocaleVariationCode.Default, "Тағы қосу керек пе?" }
                         }
                     },
                     {
-                        LanguageIsoCode.kkj,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kkj,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kln,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kln,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.km,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.km,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "បន្ថែម​ទៀត?" }
+                            { LanguageLocaleVariationCode.Default, "បន្ថែម​ទៀត?" }
                         }
                     },
                     {
-                        LanguageIsoCode.kn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ಇನ್ನಷ್ಟು ಸೇರಿಸುವುದೇ?" }
+                            { LanguageLocaleVariationCode.Default, "ಇನ್ನಷ್ಟು ಸೇರಿಸುವುದೇ?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ko,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ko,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "더 추가하시겠습니까?" }
+                            { LanguageLocaleVariationCode.Default, "더 추가하시겠습니까?" }
                         }
                     },
                     {
-                        LanguageIsoCode.kok,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kok,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ks,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ks,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksf,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksf,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ky,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ky,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Дагы кошосузбу?" }
+                            { LanguageLocaleVariationCode.Default, "Дагы кошосузбу?" }
                         }
                     },
                     {
-                        LanguageIsoCode.la,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.la,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Adde plura?" }
+                            { LanguageLocaleVariationCode.Default, "Adde plura?" }
                         }
                     },
                     {
-                        LanguageIsoCode.lag,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lag,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Méi derbäi?" }
+                            { LanguageLocaleVariationCode.Default, "Méi derbäi?" }
                         }
                     },
                     {
-                        LanguageIsoCode.lg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lkt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lkt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ln,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ln,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ເພີ່ມຕື່ມບໍ?" }
+                            { LanguageLocaleVariationCode.Default, "ເພີ່ມຕື່ມບໍ?" }
                         }
                     },
                     {
-                        LanguageIsoCode.lrc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lrc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Pridėti daugiau?" }
+                            { LanguageLocaleVariationCode.Default, "Pridėti daugiau?" }
                         }
                     },
                     {
-                        LanguageIsoCode.luo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.luo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.luy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.luy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Pievienot vel?" }
+                            { LanguageLocaleVariationCode.Default, "Pievienot vel?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mai,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mai,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mas,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mas,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mer,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mer,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mfe,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mfe,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hanampy bebe kokoa?" }
+                            { LanguageLocaleVariationCode.Default, "Hanampy bebe kokoa?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mgo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mgo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tāpiri atu?" }
+                            { LanguageLocaleVariationCode.Default, "Tāpiri atu?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Додади повеќе?" }
+                            { LanguageLocaleVariationCode.Default, "Додади повеќе?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ml,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ml,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "കൂടുതൽ ചേർക്കുക?" }
+                            { LanguageLocaleVariationCode.Default, "കൂടുതൽ ചേർക്കുക?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Илүү нэмэх үү?" }
+                            { LanguageLocaleVariationCode.Default, "Илүү нэмэх үү?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mni,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mni,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.moh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.moh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "आणखी जोडायचे?" }
+                            { LanguageLocaleVariationCode.Default, "आणखी जोडायचे?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ms,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ms,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tambah lagi?" }
+                            { LanguageLocaleVariationCode.Default, "Tambah lagi?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Żid aktar?" }
+                            { LanguageLocaleVariationCode.Default, "Żid aktar?" }
                         }
                     },
                     {
-                        LanguageIsoCode.mua,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mua,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.my,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.my,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "နောက်ထပ်ထည့်မလား။" }
+                            { LanguageLocaleVariationCode.Default, "နောက်ထပ်ထည့်မလား။" }
                         }
                     },
                     {
-                        LanguageIsoCode.mzn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mzn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.naq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.naq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Legg til mer?" }
+                            { LanguageLocaleVariationCode.Default, "Legg til mer?" }
                         }
                     },
                     {
-                        LanguageIsoCode.nd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nds,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nds,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ne,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ne,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "अझै थप?" }
+                            { LanguageLocaleVariationCode.Default, "अझै थप?" }
                         }
                     },
                     {
-                        LanguageIsoCode.nl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Voeg meer toe?" }
+                            { LanguageLocaleVariationCode.Default, "Voeg meer toe?" }
                         }
                     },
                     {
-                        LanguageIsoCode.nmg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nmg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nnh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nnh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nqo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nqo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nso,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nso,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nus,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nus,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nyn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nyn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.oc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.oc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.om,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.om,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.or,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.or,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ଅଧିକ ଯୋଡନ୍ତୁ?" }
+                            { LanguageLocaleVariationCode.Default, "ଅଧିକ ଯୋଡନ୍ତୁ?" }
                         }
                     },
                     {
-                        LanguageIsoCode.os,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.os,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ਹੋਰ ਜੋੜੋ?" }
+                            { LanguageLocaleVariationCode.Default, "ਹੋਰ ਜੋੜੋ?" }
                         }
                     },
                     {
-                        LanguageIsoCode.pap,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pap,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pcm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pcm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Dodaj więcej?" }
+                            { LanguageLocaleVariationCode.Default, "Dodaj więcej?" }
                         }
                     },
                     {
-                        LanguageIsoCode.prg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.prg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ps,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ps,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "نور زیات کړئ؟" }
+                            { LanguageLocaleVariationCode.Default, "نور زیات کړئ؟" }
                         }
                     },
                     {
-                        LanguageIsoCode.pt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Adicione mais?" }
+                            { LanguageLocaleVariationCode.Default, "Adicione mais?" }
                         }
                     },
                     {
-                        LanguageIsoCode.qu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.qu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.quc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.quc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.rm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.rn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ro,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ro,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Adăuga mai mult?" }
+                            { LanguageLocaleVariationCode.Default, "Adăuga mai mult?" }
                         }
                     },
                     {
-                        LanguageIsoCode.rof,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rof,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ru,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ru,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Добавить больше?" }
+                            { LanguageLocaleVariationCode.Default, "Добавить больше?" }
                         }
                     },
                     {
-                        LanguageIsoCode.rw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ongeraho byinshi?" }
+                            { LanguageLocaleVariationCode.Default, "Ongeraho byinshi?" }
                         }
                     },
                     {
-                        LanguageIsoCode.rwk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rwk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sah,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sah,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.saq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.saq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sat,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sat,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sbp,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sbp,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "وڌيڪ شامل ڪريو؟" }
+                            { LanguageLocaleVariationCode.Default, "وڌيڪ شامل ڪريو؟" }
                         }
                     },
                     {
-                        LanguageIsoCode.se,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.se,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.seh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.seh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ses,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ses,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.shi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.shi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.si,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.si,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "තව එකතු කරන්න?" }
+                            { LanguageLocaleVariationCode.Default, "තව එකතු කරන්න?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Pridať VIAC?" }
+                            { LanguageLocaleVariationCode.Default, "Pridať VIAC?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Dodaj Več?" }
+                            { LanguageLocaleVariationCode.Default, "Dodaj Več?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sma,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sma,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.smj,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.smj,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.smn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.smn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sms,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sms,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Wedzera zvimwe?" }
+                            { LanguageLocaleVariationCode.Default, "Wedzera zvimwe?" }
                         }
                     },
                     {
-                        LanguageIsoCode.so,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.so,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ku dar wax badan?" }
+                            { LanguageLocaleVariationCode.Default, "Ku dar wax badan?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Shto Më shumë?" }
+                            { LanguageLocaleVariationCode.Default, "Shto Më shumë?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Додај још?" }
+                            { LanguageLocaleVariationCode.Default, "Додај још?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ss,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ss,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ssy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ssy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.st,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.st,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kenya tse ling?" }
+                            { LanguageLocaleVariationCode.Default, "Kenya tse ling?" }
                         }
                     },
                     {
-                        LanguageIsoCode.su,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.su,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tambahkeun deui?" }
+                            { LanguageLocaleVariationCode.Default, "Tambahkeun deui?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Lägga till mer?" }
+                            { LanguageLocaleVariationCode.Default, "Lägga till mer?" }
                         }
                     },
                     {
-                        LanguageIsoCode.sw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ongeza zaidi?" }
+                            { LanguageLocaleVariationCode.Default, "Ongeza zaidi?" }
                         }
                     },
                     {
-                        LanguageIsoCode.syr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.syr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ta,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ta,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "மேலும் சேர்க்கவா?" }
+                            { LanguageLocaleVariationCode.Default, "மேலும் சேர்க்கவா?" }
                         }
                     },
                     {
-                        LanguageIsoCode.te,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.te,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "మరిన్ని జోడించండి?" }
+                            { LanguageLocaleVariationCode.Default, "మరిన్ని జోడించండి?" }
                         }
                     },
                     {
-                        LanguageIsoCode.teo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.teo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Бештар илова кунед?" }
+                            { LanguageLocaleVariationCode.Default, "Бештар илова кунед?" }
                         }
                     },
                     {
-                        LanguageIsoCode.th,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.th,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "เพิ่มมากขึ้น?" }
+                            { LanguageLocaleVariationCode.Default, "เพิ่มมากขึ้น?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ti,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ti,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tig,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tig,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Has köp goşmaly?" }
+                            { LanguageLocaleVariationCode.Default, "Has köp goşmaly?" }
                         }
                     },
                     {
-                        LanguageIsoCode.tn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.to,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.to,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Daha ekle?" }
+                            { LanguageLocaleVariationCode.Default, "Daha ekle?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ts,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ts,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Күбрәк өстәргә?" }
+                            { LanguageLocaleVariationCode.Default, "Күбрәк өстәргә?" }
                         }
                     },
                     {
-                        LanguageIsoCode.twq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.twq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tzm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tzm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ug,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ug,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "تېخىمۇ كۆپ قوشامسىز؟" }
+                            { LanguageLocaleVariationCode.Default, "تېخىمۇ كۆپ قوشامسىز؟" }
                         }
                     },
                     {
-                        LanguageIsoCode.uk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.uk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Додати більше?" }
+                            { LanguageLocaleVariationCode.Default, "Додати більше?" }
                         }
                     },
                     {
-                        LanguageIsoCode.ur,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ur,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "مزید شامل کریں؟" }
+                            { LanguageLocaleVariationCode.Default, "مزید شامل کریں؟" }
                         }
                     },
                     {
-                        LanguageIsoCode.uz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.uz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Yana qoʻshilsinmi?" }
+                            { LanguageLocaleVariationCode.Default, "Yana qoʻshilsinmi?" }
                         }
                     },
                     {
-                        LanguageIsoCode.vai,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vai,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ve,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ve,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.vi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Bổ sung thêm?" }
+                            { LanguageLocaleVariationCode.Default, "Bổ sung thêm?" }
                         }
                     },
                     {
-                        LanguageIsoCode.vo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.vun,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vun,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wae,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wae,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wal,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wal,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.xh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.xh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Yongeza ngakumbi?" }
+                            { LanguageLocaleVariationCode.Default, "Yongeza ngakumbi?" }
                         }
                     },
                     {
-                        LanguageIsoCode.xog,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.xog,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.yav,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yav,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.yi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "לייגן מער?" }
+                            { LanguageLocaleVariationCode.Default, "לייגן מער?" }
                         }
                     },
                     {
-                        LanguageIsoCode.yo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ṣafikun diẹ sii?" }
+                            { LanguageLocaleVariationCode.Default, "Ṣafikun diẹ sii?" }
                         }
                     },
                     {
-                        LanguageIsoCode.zgh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zgh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.zh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "添加更多？" }
+                            { LanguageLocaleVariationCode.Default, "添加更多？" }
                         }
                     },
                     {
-                        LanguageIsoCode.zu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Engeza okwengeziwe?" }
+                            { LanguageLocaleVariationCode.Default, "Engeza okwengeziwe?" }
                         }
                     },
                 }
             },
             {
                 TranslationKey.NextButtonText,
-                new Dictionary<LanguageIsoCode, Dictionary<LanguageVariationIsoCode, string>>()
+                new Dictionary<LanguageId, Dictionary<LanguageLocaleVariationCode, string>>()
                 {
                     {
-                        LanguageIsoCode.en,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.en,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Next" }
+                            { LanguageLocaleVariationCode.Default, "Next" }
                         }
                     },
                     {
-                        LanguageIsoCode.aa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.aa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.da,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.da,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Næste" }
+                            { LanguageLocaleVariationCode.Default, "Næste" }
                         }
                     },
                     {
-                        LanguageIsoCode.af,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.af,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Volgende" }
+                            { LanguageLocaleVariationCode.Default, "Volgende" }
                         }
                     },
                     {
-                        LanguageIsoCode.agq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.agq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ak,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ak,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.am,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.am,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ቀጥሎ" }
+                            { LanguageLocaleVariationCode.Default, "ቀጥሎ" }
                         }
                     },
                     {
-                        LanguageIsoCode.ar,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ar,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "التالي" }
+                            { LanguageLocaleVariationCode.Default, "التالي" }
                         }
                     },
                     {
-                        LanguageIsoCode.arn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.arn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.@as,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.@as,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.asa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.asa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ast,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ast,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.az,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.az,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sonrakı" }
+                            { LanguageLocaleVariationCode.Default, "Sonrakı" }
                         }
                     },
                     {
-                        LanguageIsoCode.ba,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ba,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bas,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bas,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.be,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.be,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Далей" }
+                            { LanguageLocaleVariationCode.Default, "Далей" }
                         }
                     },
                     {
-                        LanguageIsoCode.bem,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bem,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bez,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bez,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Следващия" }
+                            { LanguageLocaleVariationCode.Default, "Следващия" }
                         }
                     },
                     {
-                        LanguageIsoCode.bin,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bin,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "পরবর্তী" }
+                            { LanguageLocaleVariationCode.Default, "পরবর্তী" }
                         }
                     },
                     {
-                        LanguageIsoCode.bo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.br,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.br,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.brx,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.brx,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.bs,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.bs,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sljedeći" }
+                            { LanguageLocaleVariationCode.Default, "Sljedeći" }
                         }
                     },
                     {
-                        LanguageIsoCode.byn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.byn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ca,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ca,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Pròxim" }
+                            { LanguageLocaleVariationCode.Default, "Pròxim" }
                         }
                     },
                     {
-                        LanguageIsoCode.ccp,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ccp,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ce,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ce,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ceb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ceb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sunod" }
+                            { LanguageLocaleVariationCode.Default, "Sunod" }
                         }
                     },
                     {
-                        LanguageIsoCode.cgg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cgg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.chr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.chr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ckb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ckb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.co,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.co,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Dopu" }
+                            { LanguageLocaleVariationCode.Default, "Dopu" }
                         }
                     },
                     {
-                        LanguageIsoCode.cs,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cs,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "další" }
+                            { LanguageLocaleVariationCode.Default, "další" }
                         }
                     },
                     {
-                        LanguageIsoCode.cu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.cy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.cy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Nesaf" }
+                            { LanguageLocaleVariationCode.Default, "Nesaf" }
                         }
                     },
                     {
-                        LanguageIsoCode.dav,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dav,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.de,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.de,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Nächste" }
+                            { LanguageLocaleVariationCode.Default, "Nächste" }
                         }
                     },
                     {
-                        LanguageIsoCode.dje,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dje,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.doi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.doi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dsb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dsb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dua,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dua,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.dz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.dz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ebu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ebu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ee,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ee,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.el,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.el,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Επόμενο" }
+                            { LanguageLocaleVariationCode.Default, "Επόμενο" }
                         }
                     },
                     {
-                        LanguageIsoCode.eo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.eo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Poste" }
+                            { LanguageLocaleVariationCode.Default, "Poste" }
                         }
                     },
                     {
-                        LanguageIsoCode.es,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.es,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Próximo" }
+                            { LanguageLocaleVariationCode.Default, "Próximo" }
                         }
                     },
                     {
-                        LanguageIsoCode.et,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.et,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Edasi" }
+                            { LanguageLocaleVariationCode.Default, "Edasi" }
                         }
                     },
                     {
-                        LanguageIsoCode.eu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.eu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Hurrengoa" }
+                            { LanguageLocaleVariationCode.Default, "Hurrengoa" }
                         }
                     },
                     {
-                        LanguageIsoCode.ewo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ewo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "بعد" }
+                            { LanguageLocaleVariationCode.Default, "بعد" }
                         }
                     },
                     {
-                        LanguageIsoCode.ff,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ff,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Seuraava" }
+                            { LanguageLocaleVariationCode.Default, "Seuraava" }
                         }
                     },
                     {
-                        LanguageIsoCode.fil,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fil,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Susunod" }
+                            { LanguageLocaleVariationCode.Default, "Susunod" }
                         }
                     },
                     {
-                        LanguageIsoCode.fo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Suivant" }
+                            { LanguageLocaleVariationCode.Default, "Suivant" }
                         }
                     },
                     {
-                        LanguageIsoCode.fur,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fur,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.fy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.fy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Folgjende" }
+                            { LanguageLocaleVariationCode.Default, "Folgjende" }
                         }
                     },
                     {
-                        LanguageIsoCode.ga,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ga,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ar aghaidh" }
+                            { LanguageLocaleVariationCode.Default, "Ar aghaidh" }
                         }
                     },
                     {
-                        LanguageIsoCode.gd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Air adhart" }
+                            { LanguageLocaleVariationCode.Default, "Air adhart" }
                         }
                     },
                     {
-                        LanguageIsoCode.gl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "A continuación" }
+                            { LanguageLocaleVariationCode.Default, "A continuación" }
                         }
                     },
                     {
-                        LanguageIsoCode.gn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gsw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gsw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "આગળ" }
+                            { LanguageLocaleVariationCode.Default, "આગળ" }
                         }
                     },
                     {
-                        LanguageIsoCode.guz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.guz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.gv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.gv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ha,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ha,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Na gaba" }
+                            { LanguageLocaleVariationCode.Default, "Na gaba" }
                         }
                     },
                     {
-                        LanguageIsoCode.haw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.haw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Aʻe" }
+                            { LanguageLocaleVariationCode.Default, "Aʻe" }
                         }
                     },
                     {
-                        LanguageIsoCode.he,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.he,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "הַבָּא" }
+                            { LanguageLocaleVariationCode.Default, "הַבָּא" }
                         }
                     },
                     {
-                        LanguageIsoCode.hi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "अगला" }
+                            { LanguageLocaleVariationCode.Default, "अगला" }
                         }
                     },
                     {
-                        LanguageIsoCode.hr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sljedeći" }
+                            { LanguageLocaleVariationCode.Default, "Sljedeći" }
                         }
                     },
                     {
-                        LanguageIsoCode.hsb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hsb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.hu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Következő" }
+                            { LanguageLocaleVariationCode.Default, "Következő" }
                         }
                     },
                     {
-                        LanguageIsoCode.hy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.hy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Հաջորդը" }
+                            { LanguageLocaleVariationCode.Default, "Հաջորդը" }
                         }
                     },
                     {
-                        LanguageIsoCode.ia,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ia,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ibb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ibb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.id,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.id,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Berikutnya" }
+                            { LanguageLocaleVariationCode.Default, "Berikutnya" }
                         }
                     },
                     {
-                        LanguageIsoCode.ig,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ig,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Osote" }
+                            { LanguageLocaleVariationCode.Default, "Osote" }
                         }
                     },
                     {
-                        LanguageIsoCode.ii,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ii,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.@is,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.@is,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Næst" }
+                            { LanguageLocaleVariationCode.Default, "Næst" }
                         }
                     },
                     {
-                        LanguageIsoCode.it,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.it,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Prossimo" }
+                            { LanguageLocaleVariationCode.Default, "Prossimo" }
                         }
                     },
                     {
-                        LanguageIsoCode.iu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.iu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ja,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ja,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "次" }
+                            { LanguageLocaleVariationCode.Default, "次" }
                         }
                     },
                     {
-                        LanguageIsoCode.jgo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jgo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.jmc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jmc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.jv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.jv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sabanjure" }
+                            { LanguageLocaleVariationCode.Default, "Sabanjure" }
                         }
                     },
                     {
-                        LanguageIsoCode.ka,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ka,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "შემდეგი" }
+                            { LanguageLocaleVariationCode.Default, "შემდეგი" }
                         }
                     },
                     {
-                        LanguageIsoCode.kab,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kab,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kam,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kam,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kde,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kde,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kea,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kea,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.khq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.khq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ki,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ki,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Келесі" }
+                            { LanguageLocaleVariationCode.Default, "Келесі" }
                         }
                     },
                     {
-                        LanguageIsoCode.kkj,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kkj,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kln,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kln,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.km,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.km,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "បន្ទាប់" }
+                            { LanguageLocaleVariationCode.Default, "បន្ទាប់" }
                         }
                     },
                     {
-                        LanguageIsoCode.kn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ಮುಂದೆ" }
+                            { LanguageLocaleVariationCode.Default, "ಮುಂದೆ" }
                         }
                     },
                     {
-                        LanguageIsoCode.ko,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ko,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "다음" }
+                            { LanguageLocaleVariationCode.Default, "다음" }
                         }
                     },
                     {
-                        LanguageIsoCode.kok,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kok,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ks,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ks,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksf,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksf,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ksh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ksh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.kw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.kw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ky,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ky,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Кийинки" }
+                            { LanguageLocaleVariationCode.Default, "Кийинки" }
                         }
                     },
                     {
-                        LanguageIsoCode.la,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.la,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "deinde" }
+                            { LanguageLocaleVariationCode.Default, "deinde" }
                         }
                     },
                     {
-                        LanguageIsoCode.lag,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lag,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Nächst" }
+                            { LanguageLocaleVariationCode.Default, "Nächst" }
                         }
                     },
                     {
-                        LanguageIsoCode.lg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lkt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lkt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ln,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ln,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ຕໍ່ໄປ" }
+                            { LanguageLocaleVariationCode.Default, "ຕໍ່ໄປ" }
                         }
                     },
                     {
-                        LanguageIsoCode.lrc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lrc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kitas" }
+                            { LanguageLocaleVariationCode.Default, "Kitas" }
                         }
                     },
                     {
-                        LanguageIsoCode.luo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.luo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.luy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.luy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.lv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.lv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Nākamais" }
+                            { LanguageLocaleVariationCode.Default, "Nākamais" }
                         }
                     },
                     {
-                        LanguageIsoCode.mai,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mai,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mas,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mas,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mer,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mer,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mfe,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mfe,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Manaraka" }
+                            { LanguageLocaleVariationCode.Default, "Manaraka" }
                         }
                     },
                     {
-                        LanguageIsoCode.mgo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mgo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Panuku" }
+                            { LanguageLocaleVariationCode.Default, "Panuku" }
                         }
                     },
                     {
-                        LanguageIsoCode.mk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Следно" }
+                            { LanguageLocaleVariationCode.Default, "Следно" }
                         }
                     },
                     {
-                        LanguageIsoCode.ml,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ml,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "അടുത്തത്" }
+                            { LanguageLocaleVariationCode.Default, "അടുത്തത്" }
                         }
                     },
                     {
-                        LanguageIsoCode.mn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Дараачийн" }
+                            { LanguageLocaleVariationCode.Default, "Дараачийн" }
                         }
                     },
                     {
-                        LanguageIsoCode.mni,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mni,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.moh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.moh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.mr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "पुढे" }
+                            { LanguageLocaleVariationCode.Default, "पुढे" }
                         }
                     },
                     {
-                        LanguageIsoCode.ms,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ms,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Seterusnya" }
+                            { LanguageLocaleVariationCode.Default, "Seterusnya" }
                         }
                     },
                     {
-                        LanguageIsoCode.mt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Li jmiss" }
+                            { LanguageLocaleVariationCode.Default, "Li jmiss" }
                         }
                     },
                     {
-                        LanguageIsoCode.mua,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mua,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.my,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.my,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "နောက်တစ်ခု" }
+                            { LanguageLocaleVariationCode.Default, "နောက်တစ်ခု" }
                         }
                     },
                     {
-                        LanguageIsoCode.mzn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.mzn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.naq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.naq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nb,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nb,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Neste" }
+                            { LanguageLocaleVariationCode.Default, "Neste" }
                         }
                     },
                     {
-                        LanguageIsoCode.nd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nds,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nds,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ne,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ne,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "अर्को" }
+                            { LanguageLocaleVariationCode.Default, "अर्को" }
                         }
                     },
                     {
-                        LanguageIsoCode.nl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Volgende" }
+                            { LanguageLocaleVariationCode.Default, "Volgende" }
                         }
                     },
                     {
-                        LanguageIsoCode.nmg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nmg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nnh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nnh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nqo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nqo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nso,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nso,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nus,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nus,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.nyn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.nyn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.oc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.oc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.om,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.om,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.or,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.or,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ପରବର୍ତ୍ତୀ" }
+                            { LanguageLocaleVariationCode.Default, "ପରବର୍ତ୍ତୀ" }
                         }
                     },
                     {
-                        LanguageIsoCode.os,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.os,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ਅਗਲਾ" }
+                            { LanguageLocaleVariationCode.Default, "ਅਗਲਾ" }
                         }
                     },
                     {
-                        LanguageIsoCode.pap,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pap,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pcm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pcm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.pl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Następny" }
+                            { LanguageLocaleVariationCode.Default, "Następny" }
                         }
                     },
                     {
-                        LanguageIsoCode.prg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.prg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ps,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ps,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "بل" }
+                            { LanguageLocaleVariationCode.Default, "بل" }
                         }
                     },
                     {
-                        LanguageIsoCode.pt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.pt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Próximo" }
+                            { LanguageLocaleVariationCode.Default, "Próximo" }
                         }
                     },
                     {
-                        LanguageIsoCode.qu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.qu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.quc,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.quc,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.rm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.rn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ro,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ro,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Următorul" }
+                            { LanguageLocaleVariationCode.Default, "Următorul" }
                         }
                     },
                     {
-                        LanguageIsoCode.rof,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rof,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ru,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ru,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Следующий" }
+                            { LanguageLocaleVariationCode.Default, "Следующий" }
                         }
                     },
                     {
-                        LanguageIsoCode.rw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ibikurikira" }
+                            { LanguageLocaleVariationCode.Default, "Ibikurikira" }
                         }
                     },
                     {
-                        LanguageIsoCode.rwk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.rwk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sa,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sa,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sah,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sah,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.saq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.saq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sat,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sat,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sbp,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sbp,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sd,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sd,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "اڳيان" }
+                            { LanguageLocaleVariationCode.Default, "اڳيان" }
                         }
                     },
                     {
-                        LanguageIsoCode.se,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.se,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.seh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.seh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ses,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ses,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.shi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.shi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.si,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.si,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ඊළඟ" }
+                            { LanguageLocaleVariationCode.Default, "ඊළඟ" }
                         }
                     },
                     {
-                        LanguageIsoCode.sk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Ďalšie" }
+                            { LanguageLocaleVariationCode.Default, "Ďalšie" }
                         }
                     },
                     {
-                        LanguageIsoCode.sl,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sl,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Naslednji" }
+                            { LanguageLocaleVariationCode.Default, "Naslednji" }
                         }
                     },
                     {
-                        LanguageIsoCode.sma,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sma,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.smj,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.smj,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.smn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.smn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sms,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sms,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.sn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Next" }
+                            { LanguageLocaleVariationCode.Default, "Next" }
                         }
                     },
                     {
-                        LanguageIsoCode.so,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.so,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Xiga" }
+                            { LanguageLocaleVariationCode.Default, "Xiga" }
                         }
                     },
                     {
-                        LanguageIsoCode.sq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Tjetra" }
+                            { LanguageLocaleVariationCode.Default, "Tjetra" }
                         }
                     },
                     {
-                        LanguageIsoCode.sr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Следећи" }
+                            { LanguageLocaleVariationCode.Default, "Следећи" }
                         }
                     },
                     {
-                        LanguageIsoCode.ss,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ss,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ssy,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ssy,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.st,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.st,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "E 'ngoe" }
+                            { LanguageLocaleVariationCode.Default, "E 'ngoe" }
                         }
                     },
                     {
-                        LanguageIsoCode.su,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.su,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Teras" }
+                            { LanguageLocaleVariationCode.Default, "Teras" }
                         }
                     },
                     {
-                        LanguageIsoCode.sv,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sv,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Nästa" }
+                            { LanguageLocaleVariationCode.Default, "Nästa" }
                         }
                     },
                     {
-                        LanguageIsoCode.sw,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.sw,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Inayofuata" }
+                            { LanguageLocaleVariationCode.Default, "Inayofuata" }
                         }
                     },
                     {
-                        LanguageIsoCode.syr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.syr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ta,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ta,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "அடுத்தது" }
+                            { LanguageLocaleVariationCode.Default, "அடுத்தது" }
                         }
                     },
                     {
-                        LanguageIsoCode.te,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.te,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "తరువాత" }
+                            { LanguageLocaleVariationCode.Default, "తరువాత" }
                         }
                     },
                     {
-                        LanguageIsoCode.teo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.teo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tg,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tg,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Баъдӣ" }
+                            { LanguageLocaleVariationCode.Default, "Баъдӣ" }
                         }
                     },
                     {
-                        LanguageIsoCode.th,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.th,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ต่อไป" }
+                            { LanguageLocaleVariationCode.Default, "ต่อไป" }
                         }
                     },
                     {
-                        LanguageIsoCode.ti,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ti,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tig,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tig,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Indiki" }
+                            { LanguageLocaleVariationCode.Default, "Indiki" }
                         }
                     },
                     {
-                        LanguageIsoCode.tn,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tn,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.to,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.to,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tr,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tr,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Sonraki" }
+                            { LanguageLocaleVariationCode.Default, "Sonraki" }
                         }
                     },
                     {
-                        LanguageIsoCode.ts,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ts,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tt,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tt,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Алга" }
+                            { LanguageLocaleVariationCode.Default, "Алга" }
                         }
                     },
                     {
-                        LanguageIsoCode.twq,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.twq,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.tzm,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.tzm,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ug,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ug,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "كېيىنكى" }
+                            { LanguageLocaleVariationCode.Default, "كېيىنكى" }
                         }
                     },
                     {
-                        LanguageIsoCode.uk,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.uk,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Далі" }
+                            { LanguageLocaleVariationCode.Default, "Далі" }
                         }
                     },
                     {
-                        LanguageIsoCode.ur,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ur,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "اگلے" }
+                            { LanguageLocaleVariationCode.Default, "اگلے" }
                         }
                     },
                     {
-                        LanguageIsoCode.uz,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.uz,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Keyingisi" }
+                            { LanguageLocaleVariationCode.Default, "Keyingisi" }
                         }
                     },
                     {
-                        LanguageIsoCode.vai,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vai,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.ve,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.ve,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.vi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Kế tiếp" }
+                            { LanguageLocaleVariationCode.Default, "Kế tiếp" }
                         }
                     },
                     {
-                        LanguageIsoCode.vo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.vun,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.vun,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wae,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wae,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wal,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wal,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.wo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.wo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.xh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.xh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Okulandelayo" }
+                            { LanguageLocaleVariationCode.Default, "Okulandelayo" }
                         }
                     },
                     {
-                        LanguageIsoCode.xog,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.xog,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.yav,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yav,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.yi,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yi,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "ווייַטער" }
+                            { LanguageLocaleVariationCode.Default, "ווייַטער" }
                         }
                     },
                     {
-                        LanguageIsoCode.yo,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.yo,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Itele" }
+                            { LanguageLocaleVariationCode.Default, "Itele" }
                         }
                     },
                     {
-                        LanguageIsoCode.zgh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zgh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "" }
+                            { LanguageLocaleVariationCode.Default, "" }
                         }
                     },
                     {
-                        LanguageIsoCode.zh,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zh,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "下一个" }
+                            { LanguageLocaleVariationCode.Default, "下一个" }
                         }
                     },
                     {
-                        LanguageIsoCode.zu,
-                        new Dictionary<LanguageVariationIsoCode, string>()
+                        LanguageId.zu,
+                        new Dictionary<LanguageLocaleVariationCode, string>()
                         {
-                            { LanguageVariationIsoCode.Default, "Olandelayo" }
+                            { LanguageLocaleVariationCode.Default, "Olandelayo" }
                         }
                     },
                 }
