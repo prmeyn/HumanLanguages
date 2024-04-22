@@ -9,8 +9,8 @@ namespace AreYouHuman
         public void AllLangaugePropertiesExistInAllLangauges()
         {
             // Assert
-            Assert.IsFalse(Enum.GetValues(typeof(LanguageIsoCode))
-                                        .Cast<LanguageIsoCode>()
+            Assert.IsFalse(Enum.GetValues(typeof(LanguageId))
+                                        .Cast<LanguageId>()
                                         .Any(code => Languages.LanguagePropertiesDictionary[code] == null));
         }
 
@@ -18,13 +18,13 @@ namespace AreYouHuman
         public void AllLangaugeNamesExistInAllLangauges()
         {
             // Arrange
-            var allLangaugeProperties = Enum.GetValues(typeof(LanguageIsoCode))
-                                            .Cast<LanguageIsoCode>()
+            var allLangaugeProperties = Enum.GetValues(typeof(LanguageId))
+                                            .Cast<LanguageId>()
                                             .Select(code => Languages.LanguagePropertiesDictionary[code])
                                             .ToList();
 
             // Assert
-            var totalIsoCodes = Enum.GetValues(typeof(LanguageIsoCode)).Length;
+            var totalIsoCodes = Enum.GetValues(typeof(LanguageId)).Length;
             Assert.IsTrue(allLangaugeProperties.All(lp => lp.LanguageNames.Keys.Count == totalIsoCodes));
         }
     }
