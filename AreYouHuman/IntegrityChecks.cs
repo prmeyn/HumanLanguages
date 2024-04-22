@@ -3,7 +3,7 @@ using HumanLanguages;
 namespace AreYouHuman
 {
     [TestClass]
-    public class IntegrityChecks
+    public sealed class IntegrityChecks
     {
         [TestMethod]
         public void AllLangaugePropertiesExistInAllLangauges()
