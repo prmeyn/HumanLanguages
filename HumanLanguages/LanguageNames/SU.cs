@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LATN, "Sundanese (Latin)" },
-				{ LanguageLocaleVariationCode.ID, "Sundanese (Latin, Indonesia)" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
+				{ LanguageLocaleVariationCode.ID, "Latin, Indonesia" },
 			});
 	}
 }

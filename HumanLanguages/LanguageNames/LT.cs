@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LT, "Lithuanian (Lithuania)" },
+				{ LanguageLocaleVariationCode.LT, "Lithuania" },
 			});
 	}
 }

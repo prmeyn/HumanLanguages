@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.SS, "Nuer (South Sudan)" },
+				{ LanguageLocaleVariationCode.SS, "South Sudan" },
 			});
 	}
 }

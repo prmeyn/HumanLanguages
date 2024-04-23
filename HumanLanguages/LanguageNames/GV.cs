@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.IM, "Manx (Isle of Man)" },
+				{ LanguageLocaleVariationCode.IM, "Isle of Man" },
 			});
 	}
 }

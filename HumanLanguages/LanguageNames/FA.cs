@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AF, "Persian (Afghanistan)" },
-				{ LanguageLocaleVariationCode.IR, "Persian (Iran)" },
+				{ LanguageLocaleVariationCode.AF, "Afghanistan" },
+				{ LanguageLocaleVariationCode.IR, "Iran" },
 			});
 	}
 }

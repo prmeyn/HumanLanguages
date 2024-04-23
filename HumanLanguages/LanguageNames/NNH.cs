@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CM, "Ngiemboon (Cameroon)" },
+				{ LanguageLocaleVariationCode.CM, "Cameroon" },
 			});
 	}
 }

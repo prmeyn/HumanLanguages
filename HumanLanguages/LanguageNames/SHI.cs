@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LATN, "Tachelhit (Latin)" },
-				{ LanguageLocaleVariationCode.MA, "Tachelhit (Latin, Morocco)" },
-				{ LanguageLocaleVariationCode.TFNG, "Tachelhit (Tifinagh)" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
+				{ LanguageLocaleVariationCode.MA, "Latin, Morocco" },
+				{ LanguageLocaleVariationCode.TFNG, "Tifinagh" },
 			});
 	}
 }

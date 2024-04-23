@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DK, "Faroese (Denmark)" },
-				{ LanguageLocaleVariationCode.FO, "Faroese (Faroe Islands)" },
+				{ LanguageLocaleVariationCode.DK, "Denmark" },
+				{ LanguageLocaleVariationCode.FO, "Faroe Islands" },
 			});
 	}
 }

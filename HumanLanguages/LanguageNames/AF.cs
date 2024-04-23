@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NA, "Afrikaans (Namibia)" },
-				{ LanguageLocaleVariationCode.ZA, "Afrikaans (South Africa)" },
+				{ LanguageLocaleVariationCode.NA, "Namibia" },
+				{ LanguageLocaleVariationCode.ZA, "South Africa" },
 			});
 	}
 }

@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CA, "Inuktitut (Canada)" },
-				{ LanguageLocaleVariationCode.LATN, "Inuktitut (Latin)" },
+				{ LanguageLocaleVariationCode.CA, "Canada" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
 			});
 	}
 }

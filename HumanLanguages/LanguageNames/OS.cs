@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GE, "Ossetic (Georgia)" },
-				{ LanguageLocaleVariationCode.RU, "Ossetic (Russia)" },
+				{ LanguageLocaleVariationCode.GE, "Georgia" },
+				{ LanguageLocaleVariationCode.RU, "Russia" },
 			});
 	}
 }

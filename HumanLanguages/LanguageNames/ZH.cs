@@ -250,13 +250,13 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.HANS, "Chinese (Simplified)" },
-				{ LanguageLocaleVariationCode.CN, "Chinese (Simplified, China)" },
-				{ LanguageLocaleVariationCode.HK, "Chinese (Simplified, Hong Kong SAR)" },
-				{ LanguageLocaleVariationCode.MO, "Chinese (Simplified, Macao SAR)" },
-				{ LanguageLocaleVariationCode.SG, "Chinese (Simplified, Singapore)" },
-				{ LanguageLocaleVariationCode.HANT, "Chinese (Traditional)" },
-				{ LanguageLocaleVariationCode.TW, "Chinese (Traditional, Taiwan)" },
+				{ LanguageLocaleVariationCode.HANS, "Simplified" },
+				{ LanguageLocaleVariationCode.CN, "Simplified, China" },
+				{ LanguageLocaleVariationCode.HK, "Simplified, Hong Kong SAR" },
+				{ LanguageLocaleVariationCode.MO, "Simplified, Macao SAR" },
+				{ LanguageLocaleVariationCode.SG, "Simplified, Singapore" },
+				{ LanguageLocaleVariationCode.HANT, "Traditional" },
+				{ LanguageLocaleVariationCode.TW, "Traditional, Taiwan" },
 			});
 	}
 }

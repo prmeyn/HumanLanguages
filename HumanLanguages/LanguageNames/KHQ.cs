@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ML, "Koyra Chiini (Mali)" },
+				{ LanguageLocaleVariationCode.ML, "Mali" },
 			});
 	}
 }

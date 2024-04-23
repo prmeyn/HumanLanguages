@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.TZ, "Langi (Tanzania)" },
+				{ LanguageLocaleVariationCode.TZ, "Tanzania" },
 			});
 	}
 }

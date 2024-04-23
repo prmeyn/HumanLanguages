@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NO, "Lule Sami (Norway)" },
-				{ LanguageLocaleVariationCode.SE, "Lule Sami (Sweden)" },
+				{ LanguageLocaleVariationCode.NO, "Norway" },
+				{ LanguageLocaleVariationCode.SE, "Sweden" },
 			});
 	}
 }

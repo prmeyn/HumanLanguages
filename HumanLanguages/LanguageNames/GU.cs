@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.IN, "Gujarati (India)" },
+				{ LanguageLocaleVariationCode.IN, "India" },
 			});
 	}
 }

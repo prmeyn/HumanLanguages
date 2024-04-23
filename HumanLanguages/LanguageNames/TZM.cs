@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ARAB, "Central Atlas Tamazight (Arabic)" },
-				{ LanguageLocaleVariationCode.MA, "Central Atlas Tamazight (Arabic, Morocco)" },
-				{ LanguageLocaleVariationCode.DZ, "Central Atlas Tamazight (Algeria)" },
-				{ LanguageLocaleVariationCode.TFNG, "Central Atlas Tamazight (Tifinagh)" },
+				{ LanguageLocaleVariationCode.ARAB, "Arabic" },
+				{ LanguageLocaleVariationCode.MA, "Arabic, Morocco" },
+				{ LanguageLocaleVariationCode.DZ, "Algeria" },
+				{ LanguageLocaleVariationCode.TFNG, "Tifinagh" },
 			});
 	}
 }

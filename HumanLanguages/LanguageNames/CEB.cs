@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.PH, "Cebuano (Philippines)" },
+				{ LanguageLocaleVariationCode.PH, "Philippines" },
 			});
 	}
 }

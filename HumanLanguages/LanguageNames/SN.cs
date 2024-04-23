@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ZW, "Shona (Zimbabwe)" },
+				{ LanguageLocaleVariationCode.ZW, "Zimbabwe" },
 			});
 	}
 }

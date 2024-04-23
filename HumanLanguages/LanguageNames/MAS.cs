@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KE, "Masai (Kenya)" },
-				{ LanguageLocaleVariationCode.TZ, "Masai (Tanzania)" },
+				{ LanguageLocaleVariationCode.KE, "Kenya" },
+				{ LanguageLocaleVariationCode.TZ, "Tanzania" },
 			});
 	}
 }

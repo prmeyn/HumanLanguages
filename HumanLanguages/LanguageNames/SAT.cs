@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.OLCK, "Santali (Ol Chiki)" },
-				{ LanguageLocaleVariationCode.IN, "Santali (Ol Chiki, India)" },
+				{ LanguageLocaleVariationCode.OLCK, "Ol Chiki" },
+				{ LanguageLocaleVariationCode.IN, "Ol Chiki, India" },
 			});
 	}
 }

@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CYRL, "Bosnian (Cyrillic)" },
-				{ LanguageLocaleVariationCode.BA, "Bosnian (Cyrillic, Bosnia & Herzegovina)" },
-				{ LanguageLocaleVariationCode.LATN, "Bosnian (Latin)" },
+				{ LanguageLocaleVariationCode.CYRL, "Cyrillic" },
+				{ LanguageLocaleVariationCode.BA, "Cyrillic, Bosnia & Herzegovina" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
 			});
 	}
 }

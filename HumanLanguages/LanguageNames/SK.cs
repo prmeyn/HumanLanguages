@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.SK, "Slovak (Slovakia)" },
+				{ LanguageLocaleVariationCode.SK, "Slovakia" },
 			});
 	}
 }

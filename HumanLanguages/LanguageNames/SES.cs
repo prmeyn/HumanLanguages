@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ML, "Koyraboro Senni (Mali)" },
+				{ LanguageLocaleVariationCode.ML, "Mali" },
 			});
 	}
 }

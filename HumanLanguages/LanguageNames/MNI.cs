@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BENG, "Manipuri (Bangla)" },
-				{ LanguageLocaleVariationCode.IN, "Manipuri (Bangla, India)" },
+				{ LanguageLocaleVariationCode.BENG, "Bangla" },
+				{ LanguageLocaleVariationCode.IN, "Bangla, India" },
 			});
 	}
 }

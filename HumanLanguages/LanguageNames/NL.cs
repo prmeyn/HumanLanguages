@@ -250,13 +250,13 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AW, "Dutch (Aruba)" },
-				{ LanguageLocaleVariationCode.BE, "Dutch (Belgium)" },
-				{ LanguageLocaleVariationCode.BQ, "Dutch (Bonaire, Sint Eustatius and Saba)" },
-				{ LanguageLocaleVariationCode.CW, "Dutch (Curaçao)" },
-				{ LanguageLocaleVariationCode.NL, "Dutch (Netherlands)" },
-				{ LanguageLocaleVariationCode.SR, "Dutch (Suriname)" },
-				{ LanguageLocaleVariationCode.SX, "Dutch (Sint Maarten)" },
+				{ LanguageLocaleVariationCode.AW, "Aruba" },
+				{ LanguageLocaleVariationCode.BE, "Belgium" },
+				{ LanguageLocaleVariationCode.BQ, "Bonaire, Sint Eustatius and Saba" },
+				{ LanguageLocaleVariationCode.CW, "Curaçao" },
+				{ LanguageLocaleVariationCode.NL, "Netherlands" },
+				{ LanguageLocaleVariationCode.SR, "Suriname" },
+				{ LanguageLocaleVariationCode.SX, "Sint Maarten" },
 			});
 	}
 }

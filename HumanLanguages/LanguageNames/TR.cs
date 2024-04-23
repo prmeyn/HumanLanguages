@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CY, "Turkish (Cyprus)" },
-				{ LanguageLocaleVariationCode.TR, "Turkish (Turkey)" },
+				{ LanguageLocaleVariationCode.CY, "Cyprus" },
+				{ LanguageLocaleVariationCode.TR, "Turkey" },
 			});
 	}
 }

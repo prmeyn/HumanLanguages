@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GB, "Irish (United Kingdom)" },
-				{ LanguageLocaleVariationCode.IE, "Irish (Ireland)" },
+				{ LanguageLocaleVariationCode.GB, "United Kingdom" },
+				{ LanguageLocaleVariationCode.IE, "Ireland" },
 			});
 	}
 }

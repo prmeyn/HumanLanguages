@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BO, "Quechua (Bolivia)" },
-				{ LanguageLocaleVariationCode.EC, "Quechua (Ecuador)" },
-				{ LanguageLocaleVariationCode.PE, "Quechua (Peru)" },
+				{ LanguageLocaleVariationCode.BO, "Bolivia" },
+				{ LanguageLocaleVariationCode.EC, "Ecuador" },
+				{ LanguageLocaleVariationCode.PE, "Peru" },
 			});
 	}
 }

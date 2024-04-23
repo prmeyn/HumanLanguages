@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.IN, "Urdu (India)" },
-				{ LanguageLocaleVariationCode.PK, "Urdu (Pakistan)" },
+				{ LanguageLocaleVariationCode.IN, "India" },
+				{ LanguageLocaleVariationCode.PK, "Pakistan" },
 			});
 	}
 }

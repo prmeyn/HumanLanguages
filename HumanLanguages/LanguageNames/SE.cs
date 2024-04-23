@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.FI, "Northern Sami (Finland)" },
-				{ LanguageLocaleVariationCode.NO, "Northern Sami (Norway)" },
-				{ LanguageLocaleVariationCode.SE, "Northern Sami (Sweden)" },
+				{ LanguageLocaleVariationCode.FI, "Finland" },
+				{ LanguageLocaleVariationCode.NO, "Norway" },
+				{ LanguageLocaleVariationCode.SE, "Sweden" },
 			});
 	}
 }

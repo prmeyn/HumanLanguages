@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CN, "Tibetan (China)" },
-				{ LanguageLocaleVariationCode.IN, "Tibetan (India)" },
+				{ LanguageLocaleVariationCode.CN, "China" },
+				{ LanguageLocaleVariationCode.IN, "India" },
 			});
 	}
 }

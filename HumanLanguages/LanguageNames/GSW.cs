@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CH, "Swiss German (Switzerland)" },
-				{ LanguageLocaleVariationCode.FR, "Swiss German (France)" },
-				{ LanguageLocaleVariationCode.LI, "Swiss German (Liechtenstein)" },
+				{ LanguageLocaleVariationCode.CH, "Switzerland" },
+				{ LanguageLocaleVariationCode.FR, "France" },
+				{ LanguageLocaleVariationCode.LI, "Liechtenstein" },
 			});
 	}
 }

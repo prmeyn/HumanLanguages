@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.US, "Lakota (United States)" },
+				{ LanguageLocaleVariationCode.US, "United States" },
 			});
 	}
 }
