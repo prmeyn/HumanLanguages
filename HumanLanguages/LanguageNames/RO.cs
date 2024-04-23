@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.MD, "Romanian (Moldova)" },
-				{ LanguageLocaleVariationCode.RO, "Romanian (Romania)" },
+				{ LanguageLocaleVariationCode.MD, "Moldova" },
+				{ LanguageLocaleVariationCode.RO, "Romania" },
 			});
 	}
 }

@@ -250,12 +250,12 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CYRL, "Serbian (Cyrillic)" },
-				{ LanguageLocaleVariationCode.BA, "Serbian (Cyrillic, Bosnia & Herzegovina)" },
-				{ LanguageLocaleVariationCode.ME, "Serbian (Cyrillic, Montenegro)" },
-				{ LanguageLocaleVariationCode.RS, "Serbian (Cyrillic, Serbia)" },
-				{ LanguageLocaleVariationCode.XK, "Serbian (Cyrillic, Kosovo)" },
-				{ LanguageLocaleVariationCode.LATN, "Serbian (Latin)" },
+				{ LanguageLocaleVariationCode.CYRL, "Cyrillic" },
+				{ LanguageLocaleVariationCode.BA, "Cyrillic, Bosnia & Herzegovina" },
+				{ LanguageLocaleVariationCode.ME, "Cyrillic, Montenegro" },
+				{ LanguageLocaleVariationCode.RS, "Cyrillic, Serbia" },
+				{ LanguageLocaleVariationCode.XK, "Cyrillic, Kosovo" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
 			});
 	}
 }

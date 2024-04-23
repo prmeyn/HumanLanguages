@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KE, "Meru (Kenya)" },
+				{ LanguageLocaleVariationCode.KE, "Kenya" },
 			});
 	}
 }

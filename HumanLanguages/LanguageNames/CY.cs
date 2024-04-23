@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GB, "Welsh (United Kingdom)" },
+				{ LanguageLocaleVariationCode.GB, "United Kingdom" },
 			});
 	}
 }

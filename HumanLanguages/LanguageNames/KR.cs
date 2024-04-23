@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LATN, "Kanuri (Latin)" },
-				{ LanguageLocaleVariationCode.NG, "Kanuri (Latin, Nigeria)" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
+				{ LanguageLocaleVariationCode.NG, "Latin, Nigeria" },
 			});
 	}
 }

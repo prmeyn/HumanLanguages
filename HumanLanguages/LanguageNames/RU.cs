@@ -250,12 +250,12 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BY, "Russian (Belarus)" },
-				{ LanguageLocaleVariationCode.KG, "Russian (Kyrgyzstan)" },
-				{ LanguageLocaleVariationCode.KZ, "Russian (Kazakhstan)" },
-				{ LanguageLocaleVariationCode.MD, "Russian (Moldova)" },
-				{ LanguageLocaleVariationCode.RU, "Russian (Russia)" },
-				{ LanguageLocaleVariationCode.UA, "Russian (Ukraine)" },
+				{ LanguageLocaleVariationCode.BY, "Belarus" },
+				{ LanguageLocaleVariationCode.KG, "Kyrgyzstan" },
+				{ LanguageLocaleVariationCode.KZ, "Kazakhstan" },
+				{ LanguageLocaleVariationCode.MD, "Moldova" },
+				{ LanguageLocaleVariationCode.RU, "Russia" },
+				{ LanguageLocaleVariationCode.UA, "Ukraine" },
 			});
 	}
 }

@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.MA, "Standard Moroccan Tamazight (Morocco)" },
+				{ LanguageLocaleVariationCode.MA, "Morocco" },
 			});
 	}
 }

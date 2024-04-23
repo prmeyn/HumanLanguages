@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KG, "Kyrgyz (Kyrgyzstan)" },
+				{ LanguageLocaleVariationCode.KG, "Kyrgyzstan" },
 			});
 	}
 }

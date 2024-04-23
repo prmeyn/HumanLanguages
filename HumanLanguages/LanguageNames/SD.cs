@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ARAB, "Sindhi (Arabic)" },
-				{ LanguageLocaleVariationCode.PK, "Sindhi (Arabic, Pakistan)" },
-				{ LanguageLocaleVariationCode.DEVA, "Sindhi (Devanagari)" },
-				{ LanguageLocaleVariationCode.IN, "Sindhi (Devanagari, India)" },
+				{ LanguageLocaleVariationCode.ARAB, "Arabic" },
+				{ LanguageLocaleVariationCode.PK, "Arabic, Pakistan" },
+				{ LanguageLocaleVariationCode.DEVA, "Devanagari" },
+				{ LanguageLocaleVariationCode.IN, "Devanagari, India" },
 			});
 	}
 }

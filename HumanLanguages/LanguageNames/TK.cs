@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.TM, "Turkmen (Turkmenistan)" },
+				{ LanguageLocaleVariationCode.TM, "Turkmenistan" },
 			});
 	}
 }

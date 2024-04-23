@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CN, "Uyghur (China)" },
+				{ LanguageLocaleVariationCode.CN, "China" },
 			});
 	}
 }

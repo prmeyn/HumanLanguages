@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AF, "Pashto (Afghanistan)" },
-				{ LanguageLocaleVariationCode.PK, "Pashto (Pakistan)" },
+				{ LanguageLocaleVariationCode.AF, "Afghanistan" },
+				{ LanguageLocaleVariationCode.PK, "Pakistan" },
 			});
 	}
 }

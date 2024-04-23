@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DJ, "Afar (Djibouti)" },
-				{ LanguageLocaleVariationCode.ER, "Afar (Eritrea)" },
-				{ LanguageLocaleVariationCode.ET, "Afar (Ethiopia)" },
+				{ LanguageLocaleVariationCode.DJ, "Djibouti" },
+				{ LanguageLocaleVariationCode.ER, "Eritrea" },
+				{ LanguageLocaleVariationCode.ET, "Ethiopia" },
 			});
 	}
 }

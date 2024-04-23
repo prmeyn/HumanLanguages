@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BN, "Malay (Brunei)" },
-				{ LanguageLocaleVariationCode.ID, "Malay (Indonesia)" },
-				{ LanguageLocaleVariationCode.MY, "Malay (Malaysia)" },
-				{ LanguageLocaleVariationCode.SG, "Malay (Singapore)" },
+				{ LanguageLocaleVariationCode.BN, "Brunei" },
+				{ LanguageLocaleVariationCode.ID, "Indonesia" },
+				{ LanguageLocaleVariationCode.MY, "Malaysia" },
+				{ LanguageLocaleVariationCode.SG, "Singapore" },
 			});
 	}
 }

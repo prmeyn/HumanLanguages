@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.IQ, "Central Kurdish (Iraq)" },
-				{ LanguageLocaleVariationCode.IR, "Central Kurdish (Iran)" },
+				{ LanguageLocaleVariationCode.IQ, "Iraq" },
+				{ LanguageLocaleVariationCode.IR, "Iran" },
 			});
 	}
 }

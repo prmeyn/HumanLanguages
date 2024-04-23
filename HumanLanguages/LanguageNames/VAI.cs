@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LATN, "Vai (Latin)" },
-				{ LanguageLocaleVariationCode.LR, "Vai (Latin, Liberia)" },
-				{ LanguageLocaleVariationCode.VAII, "Vai (Vai)" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
+				{ LanguageLocaleVariationCode.LR, "Latin, Liberia" },
+				{ LanguageLocaleVariationCode.VAII, "Vai" },
 			});
 	}
 }

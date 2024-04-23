@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NZ, "Maori (New Zealand)" },
+				{ LanguageLocaleVariationCode.NZ, "New Zealand" },
 			});
 	}
 }

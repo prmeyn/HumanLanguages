@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CH, "Walser (Switzerland)" },
+				{ LanguageLocaleVariationCode.CH, "Switzerland" },
 			});
 	}
 }

@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AD, "Catalan (Andorra)" },
-				{ LanguageLocaleVariationCode.ES, "Catalan (Spain)" },
-				{ LanguageLocaleVariationCode.FR, "Catalan (France)" },
-				{ LanguageLocaleVariationCode.IT, "Catalan (Italy)" },
+				{ LanguageLocaleVariationCode.AD, "Andorra" },
+				{ LanguageLocaleVariationCode.ES, "Spain" },
+				{ LanguageLocaleVariationCode.FR, "France" },
+				{ LanguageLocaleVariationCode.IT, "Italy" },
 			});
 	}
 }

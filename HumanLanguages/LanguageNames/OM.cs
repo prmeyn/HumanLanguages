@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ET, "Oromo (Ethiopia)" },
-				{ LanguageLocaleVariationCode.KE, "Oromo (Kenya)" },
+				{ LanguageLocaleVariationCode.ET, "Ethiopia" },
+				{ LanguageLocaleVariationCode.KE, "Kenya" },
 			});
 	}
 }

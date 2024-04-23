@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ZA, "isiZulu (South Africa)" },
+				{ LanguageLocaleVariationCode.ZA, "South Africa" },
 			});
 	}
 }

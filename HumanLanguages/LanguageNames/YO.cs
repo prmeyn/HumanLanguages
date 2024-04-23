@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BJ, "Yoruba (Benin)" },
-				{ LanguageLocaleVariationCode.NG, "Yoruba (Nigeria)" },
+				{ LanguageLocaleVariationCode.BJ, "Benin" },
+				{ LanguageLocaleVariationCode.NG, "Nigeria" },
 			});
 	}
 }

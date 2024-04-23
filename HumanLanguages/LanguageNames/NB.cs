@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NO, "Norwegian Bokmål (Norway)" },
-				{ LanguageLocaleVariationCode.SJ, "Norwegian Bokmål (Svalbard & Jan Mayen)" },
+				{ LanguageLocaleVariationCode.NO, "Norway" },
+				{ LanguageLocaleVariationCode.SJ, "Svalbard & Jan Mayen" },
 			});
 	}
 }

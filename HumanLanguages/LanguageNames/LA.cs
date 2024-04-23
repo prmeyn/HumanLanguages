@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.VA, "Latin (Vatican City)" },
+				{ LanguageLocaleVariationCode.VA, "Vatican City" },
 			});
 	}
 }

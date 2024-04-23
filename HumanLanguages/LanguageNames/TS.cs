@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ZA, "Xitsonga (South Africa)" },
+				{ LanguageLocaleVariationCode.ZA, "South Africa" },
 			});
 	}
 }

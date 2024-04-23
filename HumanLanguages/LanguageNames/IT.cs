@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CH, "Italian (Switzerland)" },
-				{ LanguageLocaleVariationCode.IT, "Italian (Italy)" },
-				{ LanguageLocaleVariationCode.SM, "Italian (San Marino)" },
-				{ LanguageLocaleVariationCode.VA, "Italian (Vatican City)" },
+				{ LanguageLocaleVariationCode.CH, "Switzerland" },
+				{ LanguageLocaleVariationCode.IT, "Italy" },
+				{ LanguageLocaleVariationCode.SM, "San Marino" },
+				{ LanguageLocaleVariationCode.VA, "Vatican City" },
 			});
 	}
 }

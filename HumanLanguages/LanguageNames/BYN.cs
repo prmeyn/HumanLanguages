@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ER, "Blin (Eritrea)" },
+				{ LanguageLocaleVariationCode.ER, "Eritrea" },
 			});
 	}
 }

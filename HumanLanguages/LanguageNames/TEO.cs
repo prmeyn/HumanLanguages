@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KE, "Teso (Kenya)" },
-				{ LanguageLocaleVariationCode.UG, "Teso (Uganda)" },
+				{ LanguageLocaleVariationCode.KE, "Kenya" },
+				{ LanguageLocaleVariationCode.UG, "Uganda" },
 			});
 	}
 }

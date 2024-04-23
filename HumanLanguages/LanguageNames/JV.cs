@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ID, "Javanese (Indonesia)" },
-				{ LanguageLocaleVariationCode.JAVA, "Javanese (Javanese)" },
+				{ LanguageLocaleVariationCode.ID, "Indonesia" },
+				{ LanguageLocaleVariationCode.JAVA, "Javanese" },
 			});
 	}
 }

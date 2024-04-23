@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CF, "Sango (Central African Republic)" },
+				{ LanguageLocaleVariationCode.CF, "Central African Republic" },
 			});
 	}
 }

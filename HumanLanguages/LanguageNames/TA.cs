@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.IN, "Tamil (India)" },
-				{ LanguageLocaleVariationCode.LK, "Tamil (Sri Lanka)" },
-				{ LanguageLocaleVariationCode.MY, "Tamil (Malaysia)" },
-				{ LanguageLocaleVariationCode.SG, "Tamil (Singapore)" },
+				{ LanguageLocaleVariationCode.IN, "India" },
+				{ LanguageLocaleVariationCode.LK, "Sri Lanka" },
+				{ LanguageLocaleVariationCode.MY, "Malaysia" },
+				{ LanguageLocaleVariationCode.SG, "Singapore" },
 			});
 	}
 }

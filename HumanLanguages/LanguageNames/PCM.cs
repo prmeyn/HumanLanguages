@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NG, "Nigerian Pidgin (Nigeria)" },
+				{ LanguageLocaleVariationCode.NG, "Nigeria" },
 			});
 	}
 }

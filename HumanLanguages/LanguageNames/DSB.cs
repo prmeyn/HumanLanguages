@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DE, "Lower Sorbian (Germany)" },
+				{ LanguageLocaleVariationCode.DE, "Germany" },
 			});
 	}
 }

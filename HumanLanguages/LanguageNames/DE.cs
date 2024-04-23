@@ -250,13 +250,13 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AT, "German (Austria)" },
-				{ LanguageLocaleVariationCode.BE, "German (Belgium)" },
-				{ LanguageLocaleVariationCode.CH, "German (Switzerland)" },
-				{ LanguageLocaleVariationCode.DE, "German (Germany)" },
-				{ LanguageLocaleVariationCode.IT, "German (Italy)" },
-				{ LanguageLocaleVariationCode.LI, "German (Liechtenstein)" },
-				{ LanguageLocaleVariationCode.LU, "German (Luxembourg)" },
+				{ LanguageLocaleVariationCode.AT, "Austria" },
+				{ LanguageLocaleVariationCode.BE, "Belgium" },
+				{ LanguageLocaleVariationCode.CH, "Switzerland" },
+				{ LanguageLocaleVariationCode.DE, "Germany" },
+				{ LanguageLocaleVariationCode.IT, "Italy" },
+				{ LanguageLocaleVariationCode.LI, "Liechtenstein" },
+				{ LanguageLocaleVariationCode.LU, "Luxembourg" },
 			});
 	}
 }

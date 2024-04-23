@@ -250,11 +250,11 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ARAB, "Uzbek (Arabic)" },
-				{ LanguageLocaleVariationCode.AF, "Uzbek (Arabic, Afghanistan)" },
-				{ LanguageLocaleVariationCode.CYRL, "Uzbek (Cyrillic)" },
-				{ LanguageLocaleVariationCode.UZ, "Uzbek (Cyrillic, Uzbekistan)" },
-				{ LanguageLocaleVariationCode.LATN, "Uzbek (Latin)" },
+				{ LanguageLocaleVariationCode.ARAB, "Arabic" },
+				{ LanguageLocaleVariationCode.AF, "Arabic, Afghanistan" },
+				{ LanguageLocaleVariationCode.CYRL, "Cyrillic" },
+				{ LanguageLocaleVariationCode.UZ, "Cyrillic, Uzbekistan" },
+				{ LanguageLocaleVariationCode.LATN, "Latin" },
 			});
 	}
 }

@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NO, "Norwegian Nynorsk (Norway)" },
+				{ LanguageLocaleVariationCode.NO, "Norway" },
 			});
 	}
 }
