@@ -206,7 +206,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.sq, "daneze" },
 				{ LanguageId.sr, "дански" },
 				{ LanguageId.ss, "i-Danish" },
-				{ LanguageId.ssy, "" },/No lang avai 
+				{ LanguageId.ssy, "" },// No lang avai 
 				{ LanguageId.st, "Sedanishe" },
 				{ LanguageId.su, "Denmark" },
 				{ LanguageId.sv, "danska" },
@@ -225,7 +225,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.tr, "Danimarka" },
 				{ LanguageId.ts, "Thani" },
 				{ LanguageId.tt, "Дания" },
-				{ LanguageId.twq, "" },/not available
+				{ LanguageId.twq, "" },//not available
 				{ LanguageId.tzm, "Danesen" },
 				{ LanguageId.ug, "Danish" },
 				{ LanguageId.uk, "датська" },
