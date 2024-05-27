@@ -142,7 +142,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.ml, "ഡാനിഷ്" },
 				{ LanguageId.mn, "Дани" },
 				{ LanguageId.mni, "ডেনিশ" },
-				{ LanguageId.moh, "" },/lang not avai 
+				{ LanguageId.moh, "" },//lang not avai 
 				{ LanguageId.mr, "डॅनिश" },
 				{ LanguageId.ms, "Danish" },
 				{ LanguageId.mt, "Daniż" },
