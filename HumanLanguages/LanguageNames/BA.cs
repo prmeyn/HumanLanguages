@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.RU, "Russia" },
+				{ LanguageLocaleVariationCode.RU, "Рәсәй (Russia)" },
 			});
 	}
 }
