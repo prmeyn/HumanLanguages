@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ES, "Spain" },
+				{ LanguageLocaleVariationCode.ES, "España (Spain)" },
 			});
 	}
 }
