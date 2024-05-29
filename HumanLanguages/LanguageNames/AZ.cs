@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CYRL, "Cyrillic" },
-				{ LanguageLocaleVariationCode.AZ, "Cyrillic, Azerbaijan" },
-				{ LanguageLocaleVariationCode.LATN, "Latin" },
+				{ LanguageLocaleVariationCode.CYRL, "Кириллица (Cyrillic)" },
+				{ LanguageLocaleVariationCode.AZ, "Кириллица (Cyrillic), Azərbaycan (Azerbaijan)" },
+				{ LanguageLocaleVariationCode.LATN, "Latın əlifbası (Latin)" },
 			});
 	}
 }
