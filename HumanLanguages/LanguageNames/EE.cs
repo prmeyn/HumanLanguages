@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GH, "Ghana" },
-				{ LanguageLocaleVariationCode.TG, "Togo" },
+				{ LanguageLocaleVariationCode.GH, "Ghana" },//ghana is ghana in ewe
+				{ LanguageLocaleVariationCode.TG, "Togo" }, //togo is togo in ewe
 			});
 	}
 }
