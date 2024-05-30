@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AD, "Andorra" },
-				{ LanguageLocaleVariationCode.ES, "Spain" },
-				{ LanguageLocaleVariationCode.FR, "France" },
-				{ LanguageLocaleVariationCode.IT, "Italy" },
+				{ LanguageLocaleVariationCode.AD, "Andorra" },// andorra is called andorra in catalan
+				{ LanguageLocaleVariationCode.ES, "Espanya (Spain)" },
+				{ LanguageLocaleVariationCode.FR, "França (France)" },
+				{ LanguageLocaleVariationCode.IT, "Itàlia (Italy)" },
 			});
 	}
 }
