@@ -250,20 +250,20 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ADLM, "Fulah (Adlam)" },
-				{ LanguageLocaleVariationCode.BF, "Fulah (Adlam, Burkina Faso)" },
-				{ LanguageLocaleVariationCode.CM, "Fulah (Adlam, Cameroon)" },
-				{ LanguageLocaleVariationCode.GH, "Fulah (Adlam, Ghana)" },
-				{ LanguageLocaleVariationCode.GM, "Fulah (Adlam, Gambia)" },
-				{ LanguageLocaleVariationCode.GN, "Fulah (Adlam, Guinea)" },
-				{ LanguageLocaleVariationCode.GW, "Fulah (Adlam, Guinea-Bissau)" },
-				{ LanguageLocaleVariationCode.LR, "Fulah (Adlam, Liberia)" },
-				{ LanguageLocaleVariationCode.MR, "Fulah (Adlam, Mauritania)" },
-				{ LanguageLocaleVariationCode.NE, "Fulah (Adlam, Niger)" },
-				{ LanguageLocaleVariationCode.NG, "Fulah (Adlam, Nigeria)" },
-				{ LanguageLocaleVariationCode.SL, "Fulah (Adlam, Sierra Leone)" },
-				{ LanguageLocaleVariationCode.SN, "Fulah (Adlam, Senegal)" },
-				{ LanguageLocaleVariationCode.LATN, "Fulah (Latin)" },
+				{ LanguageLocaleVariationCode.ADLM, "Ɓatɗoɗo (Adlam)" },
+				{ LanguageLocaleVariationCode.BF, "Ɓatɗoɗo (Adlam, Burkina Faso)" },// same
+				{ LanguageLocaleVariationCode.CM, "Ɓatɗoɗo, Kamerun (Adlam, Cameroon)" },
+				{ LanguageLocaleVariationCode.GH, "Ɓatɗoɗo, Gana (Adlam, Ghana)" },
+				{ LanguageLocaleVariationCode.GM, "Ɓatɗoɗo, Gambi (Adlam, Gambia)" },
+				{ LanguageLocaleVariationCode.GN, "Ɓatɗoɗo, Gine (Adlam, Guinea)" },
+				{ LanguageLocaleVariationCode.GW, "Ɓatɗoɗo, Gine-Bisaawo (Adlam, Guinea-Bissau)" },
+				{ LanguageLocaleVariationCode.LR, "Ɓatɗoɗo, Liberiya (Adlam, Liberia)" },
+				{ LanguageLocaleVariationCode.MR, "Ɓatɗoɗo, Muritaniya (Adlam, Mauritania)" },
+				{ LanguageLocaleVariationCode.NE, "Ɓatɗoɗo, Nižɛr (Adlam, Niger)" },
+				{ LanguageLocaleVariationCode.NG, "Ɓatɗoɗo, Nayjeeriya (Adlam, Nigeria)" },
+				{ LanguageLocaleVariationCode.SL, "Ɓatɗoɗo, Sera Lɔɔn (Adlam, Sierra Leone)" },
+				{ LanguageLocaleVariationCode.SN, "Ɓatɗoɗo, Senegaal (Adlam, Senegal)" },
+				{ LanguageLocaleVariationCode.LATN, "Ɓa Latin (Latin)" },
 			});
 	}
 }
