@@ -250,31 +250,31 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AR, "Argentina" },
-				{ LanguageLocaleVariationCode.BO, "Bolivia" },
-				{ LanguageLocaleVariationCode.BR, "Brazil" },
-				{ LanguageLocaleVariationCode.BZ, "Belize" },
-				{ LanguageLocaleVariationCode.CL, "Chile" },
-				{ LanguageLocaleVariationCode.CO, "Colombia" },
-				{ LanguageLocaleVariationCode.CR, "Costa Rica" },
-				{ LanguageLocaleVariationCode.CU, "Cuba" },
-				{ LanguageLocaleVariationCode.DO, "Dominican Republic" },
-				{ LanguageLocaleVariationCode.EC, "Ecuador" },
-				{ LanguageLocaleVariationCode.ES, "Spain" },
-				{ LanguageLocaleVariationCode.GQ, "Equatorial Guinea" },
-				{ LanguageLocaleVariationCode.GT, "Guatemala" },
-				{ LanguageLocaleVariationCode.HN, "Honduras" },
-				{ LanguageLocaleVariationCode.MX, "Mexico" },
-				{ LanguageLocaleVariationCode.NI, "Nicaragua" },
-				{ LanguageLocaleVariationCode.PA, "Panama" },
-				{ LanguageLocaleVariationCode.PE, "Peru" },
-				{ LanguageLocaleVariationCode.PH, "Philippines" },
-				{ LanguageLocaleVariationCode.PR, "Puerto Rico" },
-				{ LanguageLocaleVariationCode.PY, "Paraguay" },
-				{ LanguageLocaleVariationCode.SV, "El Salvador" },
-				{ LanguageLocaleVariationCode.US, "United States" },
-				{ LanguageLocaleVariationCode.UY, "Uruguay" },
-				{ LanguageLocaleVariationCode.VE, "Venezuela" },
+				{ LanguageLocaleVariationCode.AR, "Argentina" },// Argentina is Argentina in Spanish
+				{ LanguageLocaleVariationCode.BO, "Bolivia" }, //Bolivia is Bolivia in Spanish
+				{ LanguageLocaleVariationCode.BR, "Brasil (Brazil)" },
+				{ LanguageLocaleVariationCode.BZ, "Belice (Belize)" },
+				{ LanguageLocaleVariationCode.CL, "Chile" },//Chile is Chile in Spanish
+				{ LanguageLocaleVariationCode.CO, "Colombia" },//same
+				{ LanguageLocaleVariationCode.CR, "Costa Rica" },//same
+				{ LanguageLocaleVariationCode.CU, "Cuba" },//same
+				{ LanguageLocaleVariationCode.DO, "República Dominicana (Dominican Republic)" },
+				{ LanguageLocaleVariationCode.EC, "Ecuador" },//same
+				{ LanguageLocaleVariationCode.ES, "España (Spain)" },
+				{ LanguageLocaleVariationCode.GQ, "Guinea Ecuatorial (Equatorial Guinea)" },
+				{ LanguageLocaleVariationCode.GT, "Guatemala" },//same
+				{ LanguageLocaleVariationCode.HN, "Honduras" },//same
+				{ LanguageLocaleVariationCode.MX, "México (Mexico)" },
+				{ LanguageLocaleVariationCode.NI, "Nicaragua" },//same
+				{ LanguageLocaleVariationCode.PA, "Panamá (Panama)" },
+				{ LanguageLocaleVariationCode.PE, "Perú (Peru)" },
+				{ LanguageLocaleVariationCode.PH, "Filipinas (Philippines)" },
+				{ LanguageLocaleVariationCode.PR, "Puerto Rico" },//same
+				{ LanguageLocaleVariationCode.PY, "Paraguay" },//same 
+				{ LanguageLocaleVariationCode.SV, "El Salvador" },// same
+				{ LanguageLocaleVariationCode.US, "Estados Unidos (United States)" },
+				{ LanguageLocaleVariationCode.UY, "Uruguay" },// same
+				{ LanguageLocaleVariationCode.VE, "Venezuela" },// same
 			});
 	}
 }
