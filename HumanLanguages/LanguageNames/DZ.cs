@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BT, "Bhutan" },
+				{ LanguageLocaleVariationCode.BT, "འབྲུག་ཡུལ (Bhutan)" },
 			});
 	}
 }
