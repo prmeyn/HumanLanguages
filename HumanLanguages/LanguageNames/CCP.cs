@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BD, "Bangladesh" },
-				{ LanguageLocaleVariationCode.IN, "India" },
+				{ LanguageLocaleVariationCode.BD, "𑄝𑄧𑄋𑄴𑄓𑄧𑄣𑄬𑄇𑄴 (Bangladesh)" },
+				{ LanguageLocaleVariationCode.IN, "𑄄𑄚𑄴𑄘𑄧𑄠𑄴 (India)" },
 			});
 	}
 }
