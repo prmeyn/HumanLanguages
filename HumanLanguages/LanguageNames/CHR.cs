@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.US, "United States" },
+				{ LanguageLocaleVariationCode.US, "ᎠᏍᎦᏯᎢᏍᏗᏍᎩ (United States)" },
 			});
 	}
 }
