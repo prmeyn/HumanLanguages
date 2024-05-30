@@ -251,8 +251,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DK, "Denmark" },
-				{ LanguageLocaleVariationCode.GL, "Greenland" },
+				{ LanguageLocaleVariationCode.DK, "Danmark (Denmark)" },
+				{ LanguageLocaleVariationCode.GL, "Grønland (Greenland)" },
 			});
 	}
 }
