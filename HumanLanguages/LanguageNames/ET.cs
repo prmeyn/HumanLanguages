@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.EE, "Estonia" },
+				{ LanguageLocaleVariationCode.EE, "Eesti (Estonia)" },
 			});
 	}
 }
