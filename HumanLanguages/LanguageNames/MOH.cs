@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CA, "Canada" },
+				{ LanguageLocaleVariationCode.CA, "Kanata (Canada)" },
 			});
 	}
 }
