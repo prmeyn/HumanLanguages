@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LU, "Luxembourg" },
+				{ LanguageLocaleVariationCode.LU, "Lëtzebuerg (Luxembourg)" },
 			});
 	}
 }
