@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GE, "Georgia" },
-				{ LanguageLocaleVariationCode.RU, "Russia" },
+				{ LanguageLocaleVariationCode.GE, "Гуырдзыстон (Georgia)" },
+				{ LanguageLocaleVariationCode.RU, "Росси (Russia)" },
 			});
 	}
 }
