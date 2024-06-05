@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GB, "United Kingdom" },
+				{ LanguageLocaleVariationCode.GB, "An Rìoghachd Aonaichte (United Kingdom)" },
 			});
 	}
 }
