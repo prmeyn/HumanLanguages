@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BJ, "Benin" },
-				{ LanguageLocaleVariationCode.NG, "Nigeria" },
+				{ LanguageLocaleVariationCode.BJ, "Benin" },//same name
+				{ LanguageLocaleVariationCode.NG, "Nàìjíríà (Nigeria)" },
 			});
 	}
 }
