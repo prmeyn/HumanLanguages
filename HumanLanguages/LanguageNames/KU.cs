@@ -20,7 +20,7 @@
     //            { LanguageIsoCode.ro, "kurdă" }
     //        },
     //        VariationNativeNames:
-    //        new Dictionary<LanguageVariationIsoCode, string>()
+    //        new Dictionary<LanguageVariationIsoCode, string>()// no variations
     //        {
     //        });
     //}
