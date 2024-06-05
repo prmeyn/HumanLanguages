@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.SI, "Slovenia" },
+				{ LanguageLocaleVariationCode.SI, "Slovenija (Slovenia)" },
 			});
 	}
 }
