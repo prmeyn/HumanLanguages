@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.PY, "Paraguay" },
+				{ LanguageLocaleVariationCode.PY, "Paraguái (Paraguay)" },
 			});
 	}
 }
