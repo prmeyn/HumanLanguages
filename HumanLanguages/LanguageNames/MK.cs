@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.MK, "North Macedonia" },
+				{ LanguageLocaleVariationCode.MK, "Северна Македонија (North Macedonia)" },
 			});
 	}
 }
