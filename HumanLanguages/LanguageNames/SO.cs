@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DJ, "Djibouti" },
-				{ LanguageLocaleVariationCode.ET, "Ethiopia" },
-				{ LanguageLocaleVariationCode.KE, "Kenya" },
-				{ LanguageLocaleVariationCode.SO, "Somalia" },
+				{ LanguageLocaleVariationCode.DJ, "Jabuuti (Djibouti)" },
+				{ LanguageLocaleVariationCode.ET, "Itoobiya (Ethiopia)" },
+				{ LanguageLocaleVariationCode.KE, "Kiiniya (Kenya)" },
+				{ LanguageLocaleVariationCode.SO, "Soomaaliya (Somalia)" },
 			});
 	}
 }
