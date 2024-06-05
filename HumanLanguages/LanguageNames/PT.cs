@@ -250,18 +250,18 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AO, "Angola" },
-				{ LanguageLocaleVariationCode.BR, "Brazil" },
-				{ LanguageLocaleVariationCode.CH, "Switzerland" },
-				{ LanguageLocaleVariationCode.CV, "Cabo Verde" },
-				{ LanguageLocaleVariationCode.GQ, "Equatorial Guinea" },
-				{ LanguageLocaleVariationCode.GW, "Guinea-Bissau" },
-				{ LanguageLocaleVariationCode.LU, "Luxembourg" },
-				{ LanguageLocaleVariationCode.MO, "Macao SAR" },
-				{ LanguageLocaleVariationCode.MZ, "Mozambique" },
-				{ LanguageLocaleVariationCode.PT, "Portugal" },
-				{ LanguageLocaleVariationCode.ST, "São Tomé & Príncipe" },
-				{ LanguageLocaleVariationCode.TL, "Timor-Leste" },
+				{ LanguageLocaleVariationCode.AO, "Angola" },//same
+				{ LanguageLocaleVariationCode.BR, "Brasil (Brazil)" },
+				{ LanguageLocaleVariationCode.CH, "Suíça (Switzerland)" },
+				{ LanguageLocaleVariationCode.CV, "Cabo Verde" },//same
+				{ LanguageLocaleVariationCode.GQ, "Guiné Equatorial (Equatorial Guinea)" },
+				{ LanguageLocaleVariationCode.GW, "Guiné-Bissau (Guinea-Bissau)" },
+				{ LanguageLocaleVariationCode.LU, "Luxemburgo (Luxembourg)" },
+				{ LanguageLocaleVariationCode.MO, "Região Administrativa Especial de Macau (RAEM) (Macao SAR)" },
+				{ LanguageLocaleVariationCode.MZ, "Moçambique (Mozambique)" },
+				{ LanguageLocaleVariationCode.PT, "Portugal" },//same
+				{ LanguageLocaleVariationCode.ST, "São Tomé & Príncipe" },//same
+				{ LanguageLocaleVariationCode.TL, "Timor-Leste" },//same
 			});
 	}
 }
