@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.MN, "Mongolia" },
-				{ LanguageLocaleVariationCode.MONG, "Mongolian" },
-				{ LanguageLocaleVariationCode.CN, "Mongolian, China" },
+				{ LanguageLocaleVariationCode.MN, "Монгол (Mongolia)" },
+				{ LanguageLocaleVariationCode.MONG, "Монгол хэл (Mongolian)" },
+				{ LanguageLocaleVariationCode.CN, "Монгол хэл,Хятад (Mongolian, China)" },
 			});
 	}
 }
