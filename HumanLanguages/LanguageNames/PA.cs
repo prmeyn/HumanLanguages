@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ARAB, "Arabic" },
-				{ LanguageLocaleVariationCode.PK, "Arabic, Pakistan" },
-				{ LanguageLocaleVariationCode.GURU, "Gurmukhi" },
-				{ LanguageLocaleVariationCode.IN, "Gurmukhi, India" },
+				{ LanguageLocaleVariationCode.ARAB, "عربی (Arabic)" },
+				{ LanguageLocaleVariationCode.PK, "عربی, پاکستان (Arabic, Pakistan)" },
+				{ LanguageLocaleVariationCode.GURU, "ਗੁਰਮੁਖੀ (Gurmukhi)" },
+				{ LanguageLocaleVariationCode.IN, "ਗੁਰਮੁਖੀ, ਭਾਰਤ  (Gurmukhi, India)" },
 			});
 	}
 }
