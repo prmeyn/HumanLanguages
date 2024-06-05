@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KE, "Kenya" },
-				{ LanguageLocaleVariationCode.TZ, "Tanzania" },
+				{ LanguageLocaleVariationCode.KE, "Ol Kejuado (Kenya)" },
+				{ LanguageLocaleVariationCode.TZ, "Ol Taanyanika (Tanzania)" },
 			});
 	}
 }
