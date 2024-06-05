@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DZ, "Algeria" },
+				{ LanguageLocaleVariationCode.DZ, "Ldzayer (Algeria)" },
 			});
 	}
 }
