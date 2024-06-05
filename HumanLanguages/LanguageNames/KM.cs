@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KH, "Cambodia" },
+				{ LanguageLocaleVariationCode.KH, "កម្ពុជា (Cambodia)" },
 			});
 	}
 }
