@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ET, "Ethiopia" },
-				{ LanguageLocaleVariationCode.KE, "Kenya" },
+				{ LanguageLocaleVariationCode.ET, "Itoophiyaa (Ethiopia)" },
+				{ LanguageLocaleVariationCode.KE, "Keeniyaa (Kenya)" },
 			});
 	}
 }
