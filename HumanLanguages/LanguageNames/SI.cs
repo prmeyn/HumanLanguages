@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LK, "Sri Lanka" },
+				{ LanguageLocaleVariationCode.LK, "ශ්‍රී ලංකාව (Sri Lanka)" },
 			});
 	}
 }
