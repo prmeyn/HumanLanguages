@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CD, "Congo [DRC]" },
-				{ LanguageLocaleVariationCode.KE, "Kenya" },
-				{ LanguageLocaleVariationCode.TZ, "Tanzania" },
-				{ LanguageLocaleVariationCode.UG, "Uganda" },
+				{ LanguageLocaleVariationCode.CD, "Kongo (Congo [DRC])" },
+				{ LanguageLocaleVariationCode.KE, "Kenya" },//same name
+				{ LanguageLocaleVariationCode.TZ, "Tanzania" },//same name
+				{ LanguageLocaleVariationCode.UG, "Uganda" },//same name
 			});
 	}
 }
