@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KE, "Kenya" },
-				{ LanguageLocaleVariationCode.UG, "Uganda" },
+				{ LanguageLocaleVariationCode.KE, "Kenyā (Kenya)" },
+				{ LanguageLocaleVariationCode.UG, "Ugandā (Uganda)" },
 			});
 	}
 }
