@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ML, "Mali" },
+				{ LanguageLocaleVariationCode.ML, "Maali (Mali)" },
 			});
 	}
 }
