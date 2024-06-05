@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.TO, "Tonga" },
+				{ LanguageLocaleVariationCode.TO, "Tonga" },//same name
 			});
 	}
 }
