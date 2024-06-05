@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CV, "Cabo Verde" },
+				{ LanguageLocaleVariationCode.CV, "Cabo Verde" },//same name
 			});
 	}
 }
