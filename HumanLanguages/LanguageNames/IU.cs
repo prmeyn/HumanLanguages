@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CA, "Canada" },
-				{ LanguageLocaleVariationCode.LATN, "Latin" },
+				{ LanguageLocaleVariationCode.CA, "ᑲᓇᑕ (Canada)" },
+				{ LanguageLocaleVariationCode.LATN, "ᓚᑎᓕᕆᔾᔪᑎᕗᖓ (Latin)" },
 			});
 	}
 }
