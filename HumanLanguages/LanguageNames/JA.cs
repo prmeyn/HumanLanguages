@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.JP, "Japan" },
+				{ LanguageLocaleVariationCode.JP, "日本 (Japan)" },
 			});
 	}
 }
