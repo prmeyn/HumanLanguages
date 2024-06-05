@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AL, "Albania" },
-				{ LanguageLocaleVariationCode.MK, "North Macedonia" },
-				{ LanguageLocaleVariationCode.XK, "Kosovo" },
+				{ LanguageLocaleVariationCode.AL, "Shqipëria (Albania)" },
+				{ LanguageLocaleVariationCode.MK, "Maqedonia e Veriut (North Macedonia)" },
+				{ LanguageLocaleVariationCode.XK, "Kosovo" },//same
 			});
 	}
 }
