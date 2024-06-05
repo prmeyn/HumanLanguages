@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.SY, "Syria" },
+				{ LanguageLocaleVariationCode.SY, "ܣܘܪܝܐ (Syria)" },
 			});
 	}
 }
