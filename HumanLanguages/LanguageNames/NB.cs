@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.NO, "Norway" },
-				{ LanguageLocaleVariationCode.SJ, "Svalbard & Jan Mayen" },
+				{ LanguageLocaleVariationCode.NO, "Norge (Norway)" },
+				{ LanguageLocaleVariationCode.SJ, "Svalbard og Jan Mayen (Svalbard & Jan Mayen)" },
 			});
 	}
 }
