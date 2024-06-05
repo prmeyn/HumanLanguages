@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.SS, "South Sudan" },
+				{ LanguageLocaleVariationCode.SS, "Ködör de Juba (South Sudan)" },
 			});
 	}
 }
