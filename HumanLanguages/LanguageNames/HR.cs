@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.BA, "Bosnia & Herzegovina" },
-				{ LanguageLocaleVariationCode.HR, "Croatia" },
+				{ LanguageLocaleVariationCode.BA, "Bosna i Hercegovina (Bosnia & Herzegovina)" },
+				{ LanguageLocaleVariationCode.HR, "Hrvatska (Croatia)" },
 			});
 	}
 }
