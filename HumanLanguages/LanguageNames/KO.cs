@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.KP, "North Korea" },
-				{ LanguageLocaleVariationCode.KR, "Korea" },
+				{ LanguageLocaleVariationCode.KP, "북한 (North Korea)" },
+				{ LanguageLocaleVariationCode.KR, "한국 (Korea)" },
 			});
 	}
 }
