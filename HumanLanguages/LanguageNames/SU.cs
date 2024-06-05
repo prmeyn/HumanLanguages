@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LATN, "Latin" },
-				{ LanguageLocaleVariationCode.ID, "Latin, Indonesia" },
+				{ LanguageLocaleVariationCode.LATN, "اللاتينية (Latin)" },
+				{ LanguageLocaleVariationCode.ID, "اللاتينية, إندونيسيا (Latin, Indonesia)" },
 			});
 	}
 }
