@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.IM, "Isle of Man" },
+				{ LanguageLocaleVariationCode.IM, "Ellan Vannin (Isle of Man)" },
 			});
 	}
 }
