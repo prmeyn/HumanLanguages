@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.DE, "Germany" },
-				{ LanguageLocaleVariationCode.NL, "Netherlands" },
+				{ LanguageLocaleVariationCode.DE, "Düütschland (Germany)" },
+				{ LanguageLocaleVariationCode.NL, "Nedderlannen (Netherlands)" },
 			});
 	}
 }
