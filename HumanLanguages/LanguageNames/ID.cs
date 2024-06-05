@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ID, "Indonesia" },
+				{ LanguageLocaleVariationCode.ID, "Indonesia" },//name remains same
 			});
 	}
 }
