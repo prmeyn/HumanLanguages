@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GH, "Ghana" },
-				{ LanguageLocaleVariationCode.NE, "Niger" },
-				{ LanguageLocaleVariationCode.NG, "Nigeria" },
+				{ LanguageLocaleVariationCode.GH, "Gana (Ghana)" },
+				{ LanguageLocaleVariationCode.NE, "Nijar (Niger)" },
+				{ LanguageLocaleVariationCode.NG, "Najeriya (Nigeria)" },
 			});
 	}
 }
