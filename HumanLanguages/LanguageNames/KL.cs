@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GL, "Greenland" },
+				{ LanguageLocaleVariationCode.GL, "Kalaallit Nunaat (Greenland)" },
 			});
 	}
 }
