@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LS, "Lesotho" },
-				{ LanguageLocaleVariationCode.ZA, "South Africa" },
+				{ LanguageLocaleVariationCode.LS, "Lesotho" },//same name
+				{ LanguageLocaleVariationCode.ZA, "Afrika Borwa (South Africa)" },
 			});
 	}
 }
