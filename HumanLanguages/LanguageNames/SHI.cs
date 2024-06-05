@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LATN, "Latin" },
-				{ LanguageLocaleVariationCode.MA, "Latin, Morocco" },
-				{ LanguageLocaleVariationCode.TFNG, "Tifinagh" },
+				{ LanguageLocaleVariationCode.LATN, "ⵍⴰⵜⵉⵏ (Latin)" },
+				{ LanguageLocaleVariationCode.MA, "ⵍⴰⵜⵉⵏ,ⵍⵎⵖⵔⵉⴱ (Latin, Morocco)" },
+				{ LanguageLocaleVariationCode.TFNG, "ⵜⵉⴼⵉⵏⴰⵖ (Tifinagh)" },
 			});
 	}
 }
