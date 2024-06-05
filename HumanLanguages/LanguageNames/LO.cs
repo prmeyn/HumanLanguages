@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.LA, "Laos" },
+				{ LanguageLocaleVariationCode.LA, "ລາວ (Laos)" },
 			});
 	}
 }
