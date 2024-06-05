@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.MT, "Malta" },
+				{ LanguageLocaleVariationCode.MT, "Malta" },// same name
 			});
 	}
 }
