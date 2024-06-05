@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.RW, "Rwanda" },
+				{ LanguageLocaleVariationCode.RW, "Rwanda" },//same name
 			});
 	}
 }
