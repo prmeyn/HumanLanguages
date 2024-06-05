@@ -250,8 +250,8 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ER, "Eritrea" },
-				{ LanguageLocaleVariationCode.ET, "Ethiopia" },
+				{ LanguageLocaleVariationCode.ER, "ኤርትራ (Eritrea)" },
+				{ LanguageLocaleVariationCode.ET, "ኢትዮጵያ (Ethiopia)" },
 			});
 	}
 }
