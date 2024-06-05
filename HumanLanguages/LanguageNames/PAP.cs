@@ -248,7 +248,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.zu, "I-Papiamento" },
 			},
 			VariationNativeNames:
-			new Dictionary<LanguageLocaleVariationCode, string>()
+			new Dictionary<LanguageLocaleVariationCode, string>()// no variations
 			{
 			});
 	}
