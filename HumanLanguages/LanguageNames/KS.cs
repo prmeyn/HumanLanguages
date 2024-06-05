@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ARAB, "Arabic" },
-				{ LanguageLocaleVariationCode.IN, "India" },
-				{ LanguageLocaleVariationCode.DEVA, "Devanagari" },
+				{ LanguageLocaleVariationCode.ARAB, "عربي (Arabic)" },
+				{ LanguageLocaleVariationCode.IN, "بھارت (India)" },
+				{ LanguageLocaleVariationCode.DEVA, "देवनागरी (Devanagari)" },
 			});
 	}
 }
