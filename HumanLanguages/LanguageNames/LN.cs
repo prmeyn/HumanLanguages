@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AO, "Angola" },
-				{ LanguageLocaleVariationCode.CD, "Congo [DRC]" },
-				{ LanguageLocaleVariationCode.CF, "Central African Republic" },
-				{ LanguageLocaleVariationCode.CG, "Congo" },
+				{ LanguageLocaleVariationCode.AO, "Angóla (Angola)" },
+				{ LanguageLocaleVariationCode.CD, "Republíki ya Kongó Demokratíki (Congo [DRC])" },
+				{ LanguageLocaleVariationCode.CF, "Republíki ya Afríka ya Káti (Central African Republic)" },
+				{ LanguageLocaleVariationCode.CG, "Republíki ya Kongó (Congo)" },
 			});
 	}
 }
