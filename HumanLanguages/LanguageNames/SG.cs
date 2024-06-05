@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.CF, "Central African Republic" },
+				{ LanguageLocaleVariationCode.CF, "Ködörösêse tî Bêafrîka (Central African Republic)" },
 			});
 	}
 }
