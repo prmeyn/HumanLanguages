@@ -250,9 +250,9 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.AX, "Åland Islands" },
-				{ LanguageLocaleVariationCode.FI, "Finland" },
-				{ LanguageLocaleVariationCode.SE, "Sweden" },
+				{ LanguageLocaleVariationCode.AX, "Åland (Åland Islands)" },
+				{ LanguageLocaleVariationCode.FI, "Finland" },//same
+				{ LanguageLocaleVariationCode.SE, "Sverige (Sweden)" },
 			});
 	}
 }
