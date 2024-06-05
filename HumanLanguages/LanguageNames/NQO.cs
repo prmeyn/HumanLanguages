@@ -250,7 +250,7 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.GN, "Guinea" },
+				{ LanguageLocaleVariationCode.GN, "𞤊𞤫𞤤𞤢𞥄𞤲 (Guinea)" },
 			});
 	}
 }
