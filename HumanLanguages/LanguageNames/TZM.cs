@@ -250,10 +250,10 @@ namespace HumanLanguages.LanguageNames
 			VariationNativeNames:
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
-				{ LanguageLocaleVariationCode.ARAB, "Arabic" },
-				{ LanguageLocaleVariationCode.MA, "Arabic, Morocco" },
-				{ LanguageLocaleVariationCode.DZ, "Algeria" },
-				{ LanguageLocaleVariationCode.TFNG, "Tifinagh" },
+				{ LanguageLocaleVariationCode.ARAB, "ⵣⴰⵖⵔⴷ (Arabic)" },
+				{ LanguageLocaleVariationCode.MA, "ⵣⴰⵖⵔⴷ, ⵍⵎⵖⵔⵉⴱ  (Arabic, Morocco)" },
+				{ LanguageLocaleVariationCode.DZ, "ⵍⵣⵣⴰⵢⴻⵔ (Algeria)" },
+				{ LanguageLocaleVariationCode.TFNG, "ⵜⵉⴼⵉⵏⴰⵖ (Tifinagh)" },
 			});
 	}
 }
