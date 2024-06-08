@@ -8,7 +8,7 @@ namespace HumanLanguages.LanguageNames
 			{
 				{ LanguageId.en, "Polish" },
 				{ LanguageId.aa, "" },
-				{ LanguageId.da, "polere" },
+				{ LanguageId.da, "polsk" },
 				{ LanguageId.af, "Pools" },
 				{ LanguageId.agq, "" },
 				{ LanguageId.ak, "" },
