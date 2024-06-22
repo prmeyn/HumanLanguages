@@ -158,6 +158,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.nn, "Farsi" },
 				{ LanguageId.nnh, "Farsi" },
 				{ LanguageId.nqo, "ߞߊ߲ߞߊ " },
+				{ LanguageId.nr, "" },
 				{ LanguageId.nso, "Farsi" },
 				{ LanguageId.nus, "Farsi" },
 				{ LanguageId.nyn, "Farsi" },
