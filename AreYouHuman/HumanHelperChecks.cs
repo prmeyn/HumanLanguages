@@ -48,7 +48,7 @@ namespace AreYouHuman
         }
 
         [TestMethod]
-        public void CheckDanishWithLocale()
+        public void CheckDanishWithLocaleDash()
         {
             // Arrange
             var input = "da-DK";
@@ -61,7 +61,21 @@ namespace AreYouHuman
             Assert.AreEqual(expected, result);
         }
 
-        [TestMethod]
+		[TestMethod]
+		public void CheckDanishWithLocaleUnderscore()
+		{
+			// Arrange
+			var input = "da_DK";
+			var expected = new LanguageIsoCode(LanguageId.da, LanguageLocaleVariationCode.DK);
+
+			// Act
+			var result = HumanHelper.CreateLanguageIsoCode(input);
+
+			// Assert
+			Assert.AreEqual(expected, result);
+		}
+
+		[TestMethod]
         public void CheckNullOrEmptyString()
         {
             // Arrange

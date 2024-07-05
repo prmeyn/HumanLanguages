@@ -9,7 +9,7 @@
                 return new LanguageIsoCode(LanguageId.en, LanguageLocaleVariationCode.Default);
             }
 
-            var parts = languageIsoCodeString.Split('-');
+            var parts = languageIsoCodeString.Split('-', '_');
             var languageId = Enum.TryParse(typeof(LanguageId), parts[0], true, out var langIdResult)
                 ? (LanguageId)langIdResult
                 : LanguageId.en;
