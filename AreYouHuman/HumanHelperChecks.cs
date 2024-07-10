@@ -5,7 +5,35 @@ namespace AreYouHuman
     [TestClass]
     public sealed  class HumanHelperChecks
     {
-        [TestMethod]
+		[TestMethod]
+		public void CheckCustomSeparator()
+		{
+			// Arrange
+			var input = new LanguageIsoCode(LanguageId.en, LanguageLocaleVariationCode.US);
+			var expected = "en_US";
+
+            // Act
+            var result = input.ToIsoCodeString('_');
+
+			// Assert
+			Assert.AreEqual(result, expected);
+		}
+
+		[TestMethod]
+		public void CheckDashSeparator()
+		{
+			// Arrange
+			var input = new LanguageIsoCode(LanguageId.en, LanguageLocaleVariationCode.US);
+			var expected = "en-US";
+
+			// Act
+			var result = input.ToIsoCodeString();
+
+			// Assert
+			Assert.AreEqual(result, expected);
+		}
+
+		[TestMethod]
         public void CheckEnglishWithoutLocale()
         {
             // Arrange
