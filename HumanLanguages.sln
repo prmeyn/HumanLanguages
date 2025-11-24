@@ -9,6 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreYouHuman", "AreYouHuman\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{CFF098F4-D2DE-4339-8128-689737D07239}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
 		.github\workflows\release.yml = .github\workflows\release.yml
 	EndProjectSection
 EndProject
