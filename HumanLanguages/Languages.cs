@@ -4,7 +4,7 @@ namespace HumanLanguages
 {
     public static class Languages
     {
-        public static Dictionary<LanguageId, LanguageProperties> LanguagePropertiesDictionary = new()
+        public static readonly Dictionary<LanguageId, LanguageProperties> LanguagePropertiesDictionary = new()
         {
             {
                 LanguageId.aa,
@@ -454,10 +454,6 @@ namespace HumanLanguages
                 LanguageId.ky,
                 KY.LanguageProperties
             },
-            //{
-            //    LanguageIsoCode.ku,
-            //    KU.LanguageProperties
-            //},
             {
                 LanguageId.la,
                 LA.LanguageProperties

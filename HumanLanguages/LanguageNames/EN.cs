@@ -2,7 +2,7 @@ namespace HumanLanguages.LanguageNames
 {
 	public sealed class EN
 	{
-		public static LanguageProperties LanguageProperties => new(
+		public static LanguageProperties LanguageProperties { get; } = new(
 			LanguageNames:
 			new Dictionary<LanguageId, string>()
 			{
@@ -116,7 +116,6 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.ksb, "Ngangela" },
 				{ LanguageId.ksf, "Anglɛsi" },
 				{ LanguageId.ksh, "Englesch" },
-                //{ LanguageIsoCode.ku, "Îngilîzî" },
                 { LanguageId.kw, "Sowsnek" },
 				{ LanguageId.ky, "Англисче" },
 				{ LanguageId.la, "Anglicus" },

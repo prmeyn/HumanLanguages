@@ -255,25 +255,29 @@
         Vaii, // Vai
         VN, // Vietnam
         Hans, // Simplified Chinese
-        Hant, // Traditional Chinese 
-        DEVA,
-        ARAB,
-        CYRL,
-        LATN,
-        TFNG,
-        OLCK,
-        JAVA,
-        MONG,
-        BENG,
-        GURU,
-        VAII,
-        HANT,
-        HANS,
-        ME,
-        RS,
-        UZ,
-        TW,
-        AZ,
-        ADLM
+        Hant, // Traditional Chinese
+        // NOTE: the ALL-CAPS members below duplicate the mixed-case script codes above with
+        // different underlying values. Case-insensitive parsing (HumanHelper) always resolves
+        // to the mixed-case member, which is also the canonical BCP-47 casing. The ALL-CAPS
+        // members are kept only for backwards compatibility — prefer the mixed-case ones.
+        DEVA, // Devanagari (prefer Deva)
+        ARAB, // Arabic (prefer Arab)
+        CYRL, // Cyrillic (prefer Cyrl)
+        LATN, // Latin (prefer Latn)
+        TFNG, // Tifinagh (prefer Tfng)
+        OLCK, // Ol Chiki (prefer Olck)
+        JAVA, // Javanese (prefer Java)
+        MONG, // Mongolian (prefer Mong)
+        BENG, // Bangla (prefer Beng)
+        GURU, // Gurmukhi (prefer Guru)
+        VAII, // Vai (prefer Vaii)
+        HANT, // Traditional Chinese (prefer Hant)
+        HANS, // Simplified Chinese (prefer Hans)
+        ME, // Montenegro
+        RS, // Serbia
+        UZ, // Uzbekistan
+        TW, // Taiwan
+        AZ, // Azerbaijan
+        ADLM // Adlam (prefer Adlm)
     }
 }

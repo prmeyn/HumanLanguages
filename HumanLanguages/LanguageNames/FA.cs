@@ -2,7 +2,7 @@ namespace HumanLanguages.LanguageNames
 {
 	public sealed class FA
 	{
-		public static LanguageProperties LanguageProperties => new(
+		public static LanguageProperties LanguageProperties { get; } = new(
 			LanguageNames:
 			new Dictionary<LanguageId, string>()
 			{
@@ -158,7 +158,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.nn, "Farsi" },
 				{ LanguageId.nnh, "Farsi" },
 				{ LanguageId.nqo, "ߞߊ߲ߞߊ " },
-				{ LanguageId.nr, "" },
+				{ LanguageId.nr, "فارسی" },
 				{ LanguageId.nso, "Farsi" },
 				{ LanguageId.nus, "Farsi" },
 				{ LanguageId.nyn, "Farsi" },

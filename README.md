@@ -35,9 +35,6 @@ Access language names via the exposed endpoints.
 Clone the Frontend repository. https://github.com/netcamo/angular-docker
 Build and run the frontend application.
 Display language names in your UI using the APIs.
-Contributing
-We welcome contributions! If you find a bug, have an idea for improvement, or want to add support for additional languages, please submit an issue or a pull request on GitHub.
-
 
 ## License
 
