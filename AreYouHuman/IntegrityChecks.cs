@@ -6,26 +6,39 @@ namespace AreYouHuman
     public sealed class IntegrityChecks
     {
         [TestMethod]
-        public void AllLangaugePropertiesExistInAllLangauges()
+        public void AllLanguagePropertiesExistForAllLanguages()
         {
-            // Assert
-            Assert.IsFalse(Enum.GetValues(typeof(LanguageId))
-                                        .Cast<LanguageId>()
-                                        .Any(code => Languages.LanguagePropertiesDictionary[code] == null));
+            foreach (var code in Enum.GetValues<LanguageId>())
+            {
+                Assert.IsTrue(
+                    Languages.LanguagePropertiesDictionary.TryGetValue(code, out var properties) && properties != null,
+                    $"Missing LanguageProperties for {code}");
+            }
         }
 
         [TestMethod]
-        public void AllLangaugeNamesExistInAllLangauges()
+        public void AllLanguageNamesExistInAllLanguages()
         {
-            // Arrange
-            var allLangaugeProperties = Enum.GetValues(typeof(LanguageId))
-                                            .Cast<LanguageId>()
-                                            .Select(code => Languages.LanguagePropertiesDictionary[code])
-                                            .ToList();
+            var allIds = Enum.GetValues<LanguageId>().ToHashSet();
 
-            // Assert
-            var totalIsoCodes = Enum.GetValues(typeof(LanguageId)).Length;
-            Assert.IsTrue(allLangaugeProperties.All(lp => lp.LanguageNames.Keys.Count == totalIsoCodes));
+            foreach (var code in Enum.GetValues<LanguageId>())
+            {
+                var keys = Languages.LanguagePropertiesDictionary[code].LanguageNames.Keys.ToHashSet();
+                Assert.IsTrue(keys.SetEquals(allIds),
+                    $"{code}: missing [{string.Join(", ", allIds.Except(keys))}], unexpected [{string.Join(", ", keys.Except(allIds))}]");
+            }
+        }
+
+        [TestMethod]
+        public void NoLanguageNameIsEmpty()
+        {
+            var offenders = Enum.GetValues<LanguageId>()
+                                .SelectMany(code => Languages.LanguagePropertiesDictionary[code].LanguageNames
+                                    .Where(kvp => string.IsNullOrWhiteSpace(kvp.Value))
+                                    .Select(kvp => $"{code} in {kvp.Key}"))
+                                .ToList();
+
+            Assert.AreEqual(0, offenders.Count, $"Empty language names: {string.Join(", ", offenders.Take(20))}");
         }
     }
 }

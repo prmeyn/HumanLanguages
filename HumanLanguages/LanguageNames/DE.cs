@@ -2,7 +2,7 @@ namespace HumanLanguages.LanguageNames
 {
 	public sealed class DE
 	{
-		public static LanguageProperties LanguageProperties => new(
+		public static LanguageProperties LanguageProperties { get; } = new(
 			LanguageNames:
 			new Dictionary<LanguageId, string>()
 			{

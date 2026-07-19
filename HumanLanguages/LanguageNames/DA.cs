@@ -2,7 +2,7 @@ namespace HumanLanguages.LanguageNames
 {
 	public sealed class DA
 	{
-		public static LanguageProperties LanguageProperties => new(
+		public static LanguageProperties LanguageProperties { get; } = new(
 			LanguageNames:
 			new Dictionary<LanguageId, string>()
 			{
@@ -14,7 +14,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.ak, "Denmarkfoɔ" },
 				{ LanguageId.am, "ዳኒሽ" },
 				{ LanguageId.ar, "الدانماركية" },
-				{ LanguageId.arn, "" }, // Name not available, Chatgpt suggests using Dansk itself.
+				{ LanguageId.arn, "dansk" },
                 { LanguageId.@as , "ডেনিছ" },
                 { LanguageId.asa, "Kidenishi" },
 				{ LanguageId.ast, "danés" },
@@ -116,7 +116,6 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.ksb, "Kidenimaki" },
 				{ LanguageId.ksf, "Daanmaark" },
 				{ LanguageId.ksh, "Däänisch" },
-                //{ LanguageIsoCode.ku, "Danîmarkî" },
                 { LanguageId.kw, "Danek" },
 				{ LanguageId.ky, "Датча" },
 				{ LanguageId.la, "Danica" },
@@ -142,7 +141,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.ml, "ഡാനിഷ്" },
 				{ LanguageId.mn, "Дани" },
 				{ LanguageId.mni, "ডেনিশ" },
-				{ LanguageId.moh, "" },//lang not avai 
+				{ LanguageId.moh, "dansk" },
 				{ LanguageId.mr, "डॅनिश" },
 				{ LanguageId.ms, "Danish" },
 				{ LanguageId.mt, "Daniż" },
@@ -206,7 +205,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.sq, "daneze" },
 				{ LanguageId.sr, "дански" },
 				{ LanguageId.ss, "i-Danish" },
-				{ LanguageId.ssy, "" },// No lang avai 
+				{ LanguageId.ssy, "dansk" }, 
 				{ LanguageId.st, "Sedanishe" },
 				{ LanguageId.su, "Denmark" },
 				{ LanguageId.sv, "danska" },
@@ -225,7 +224,7 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageId.tr, "Danimarka" },
 				{ LanguageId.ts, "Thani" },
 				{ LanguageId.tt, "Дания" },
-				{ LanguageId.twq, "" },//not available
+				{ LanguageId.twq, "dansk" },
 				{ LanguageId.tzm, "Danesen" },
 				{ LanguageId.ug, "Danish" },
 				{ LanguageId.uk, "датська" },

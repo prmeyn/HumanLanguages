@@ -16,7 +16,7 @@ namespace AreYouHuman
             var result = input.ToIsoCodeString('_');
 
 			// Assert
-			Assert.AreEqual(result, expected);
+			Assert.AreEqual(expected, result);
 		}
 
 		[TestMethod]
@@ -30,7 +30,7 @@ namespace AreYouHuman
 			var result = input.ToIsoCodeString();
 
 			// Assert
-			Assert.AreEqual(result, expected);
+			Assert.AreEqual(expected, result);
 		}
 
 		[TestMethod]
@@ -129,6 +129,38 @@ namespace AreYouHuman
 
             // Assert
             Assert.AreEqual(expected, result);
+        }
+
+        [TestMethod]
+        public void CheckNumericStringFallsBackInsteadOfUndefinedEnumValue()
+        {
+            // Arrange
+            var expected = new LanguageIsoCode(LanguageId.en, LanguageLocaleVariationCode.Default);
+
+            // Act & Assert
+            Assert.AreEqual(expected, HumanHelper.CreateLanguageIsoCode("999"));
+            Assert.AreEqual(expected, HumanHelper.CreateLanguageIsoCode("42-17"));
+        }
+
+        [TestMethod]
+        public void CheckScriptVariationParsesToCanonicalMemberWithNativeName()
+        {
+            // Act
+            var result = HumanHelper.CreateLanguageIsoCode("sr-Cyrl");
+
+            // Assert
+            Assert.AreEqual(new LanguageIsoCode(LanguageId.sr, LanguageLocaleVariationCode.Cyrl), result);
+            Assert.IsTrue(Languages.LanguagePropertiesDictionary[result.LanguageId].VariationNativeNames
+                .ContainsKey(result.LanguageLocaleVariationCode));
+            Assert.AreEqual("sr-Cyrl", result.ToIsoCodeString());
+        }
+
+        [TestMethod]
+        public void CheckLegacyUppercaseScriptMembersStillHaveNativeNames()
+        {
+            // Assert
+            Assert.IsTrue(Languages.LanguagePropertiesDictionary[LanguageId.sr].VariationNativeNames
+                .ContainsKey(LanguageLocaleVariationCode.CYRL));
         }
     }
 }
