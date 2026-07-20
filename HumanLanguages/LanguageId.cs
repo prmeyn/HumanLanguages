@@ -2,246 +2,246 @@
 {
     public enum LanguageId
     {
-        aa, // Afar
-        af, // Afrikaans
-        agq, // Aghem
-        ak, // Akan
-        am, // Amharic
-        ar, // Arabic
-        arn, // Mapuche
-        @as, // Assamese
-        asa, // Asu
-        ast, // Asturian
-        az, // Azerbaijani
-        ba, // Bashkir
-        bas, // Basaa
-        be, // Belarusian
-        bem, // Bemba
-        bez, // Bena
-        bg, // Bulgarian
-        bin, // Edo
-        bm, // Bamanankan
-        bn, // Bangla
-        bo, // Tibetan
-        br, // Breton
-        brx, // Bodo
-        bs, // Bosnian
-        byn, // Blin
-        ca, // Catalan
-        ccp, // Chakma
-        ce, // Chechen
-        ceb, // Cebuano
-        cgg, // Chiga
-        chr, // Cherokee
-        ckb, // Central Kurdish
-        co, // Corsican
-        cs, // Czech
-        cu, // Church Slavic
-        cy, // Welsh
-        da, // Danish
-        dav, // Taita
-        de, // German
-        dje, // Zarma
-        doi, // Dogri
-        dsb, // Lower Sorbian
-        dua, // Duala
-        dv, // Divehi
-        dz, // Dzongkha
-        ebu, // Embu
-        ee, // Ewe
-        el, // Greek
-        en, // English
-        eo, // Esperanto
-        es, // Spanish
-        et, // Estonian
-        eu, // Basque
-        ewo, // Ewondo
-        fa, // Persian
-        ff, // Fulah
-        fi, // Finnish
-        fil, // Filipino
-        fo, // Faroese
-        fr, // French
-        fur, // Friulian
-        fy, // Western Frisian
-        ga, // Irish
-        gd, // Scottish Gaelic
-        gl, // Galician
-        gn, // Guarani
-        gsw, // Swiss German
-        gu, // Gujarati
-        guz, // Gusii
-        gv, // Manx
-        ha, // Hausa
-        haw, // Hawaiian
-        he, // Hebrew
-        hi, // Hindi
-        hr, // Croatian
-        hsb, // Upper Sorbian
-        hu, // Hungarian
-        hy, // Armenian
-        ia, // Interlingua
-        ibb, // Ibibio
-        id, // Indonesian
-        ig, // Igbo
-        ii, // Yi
-        @is, // Icelandic
-        it, // Italian
-        iu, // Inuktitut
-        ja, // Japanese
-        jgo, // Ngomba
-        jmc, // Machame
-        jv, // Javanese
-        ka, // Georgian
-        kab, // Kabyle
-        kam, // Kamba
-        kde, // Makonde
-        kea, // Kabuverdianu
-        khq, // Koyra Chiini
-        ki, // Kikuyu
-        kk, // Kazakh
-        kkj, // Kako
-        kl, // Kalaallisut
-        kln, // Kalenjin
-        km, // Khmer
-        kn, // Kannada
-        ko, // Korean
-        kok, // Konkani
-        kr, // Kanuri
-        ks, // Kashmiri
-        ksb, // Shambala
-        ksf, // Bafia
-        ksh, // Colognian
+        aa = 0, // Afar
+        af = 1, // Afrikaans
+        agq = 2, // Aghem
+        ak = 3, // Akan
+        am = 4, // Amharic
+        ar = 5, // Arabic
+        arn = 6, // Mapuche
+        @as = 7, // Assamese
+        asa = 8, // Asu
+        ast = 9, // Asturian
+        az = 10, // Azerbaijani
+        ba = 11, // Bashkir
+        bas = 12, // Basaa
+        be = 13, // Belarusian
+        bem = 14, // Bemba
+        bez = 15, // Bena
+        bg = 16, // Bulgarian
+        bin = 17, // Edo
+        bm = 18, // Bamanankan
+        bn = 19, // Bangla
+        bo = 20, // Tibetan
+        br = 21, // Breton
+        brx = 22, // Bodo
+        bs = 23, // Bosnian
+        byn = 24, // Blin
+        ca = 25, // Catalan
+        ccp = 26, // Chakma
+        ce = 27, // Chechen
+        ceb = 28, // Cebuano
+        cgg = 29, // Chiga
+        chr = 30, // Cherokee
+        ckb = 31, // Central Kurdish
+        co = 32, // Corsican
+        cs = 33, // Czech
+        cu = 34, // Church Slavic
+        cy = 35, // Welsh
+        da = 36, // Danish
+        dav = 37, // Taita
+        de = 38, // German
+        dje = 39, // Zarma
+        doi = 40, // Dogri
+        dsb = 41, // Lower Sorbian
+        dua = 42, // Duala
+        dv = 43, // Divehi
+        dz = 44, // Dzongkha
+        ebu = 45, // Embu
+        ee = 46, // Ewe
+        el = 47, // Greek
+        en = 48, // English
+        eo = 49, // Esperanto
+        es = 50, // Spanish
+        et = 51, // Estonian
+        eu = 52, // Basque
+        ewo = 53, // Ewondo
+        fa = 54, // Persian
+        ff = 55, // Fulah
+        fi = 56, // Finnish
+        fil = 57, // Filipino
+        fo = 58, // Faroese
+        fr = 59, // French
+        fur = 60, // Friulian
+        fy = 61, // Western Frisian
+        ga = 62, // Irish
+        gd = 63, // Scottish Gaelic
+        gl = 64, // Galician
+        gn = 65, // Guarani
+        gsw = 66, // Swiss German
+        gu = 67, // Gujarati
+        guz = 68, // Gusii
+        gv = 69, // Manx
+        ha = 70, // Hausa
+        haw = 71, // Hawaiian
+        he = 72, // Hebrew
+        hi = 73, // Hindi
+        hr = 74, // Croatian
+        hsb = 75, // Upper Sorbian
+        hu = 76, // Hungarian
+        hy = 77, // Armenian
+        ia = 78, // Interlingua
+        ibb = 79, // Ibibio
+        id = 80, // Indonesian
+        ig = 81, // Igbo
+        ii = 82, // Yi
+        @is = 83, // Icelandic
+        it = 84, // Italian
+        iu = 85, // Inuktitut
+        ja = 86, // Japanese
+        jgo = 87, // Ngomba
+        jmc = 88, // Machame
+        jv = 89, // Javanese
+        ka = 90, // Georgian
+        kab = 91, // Kabyle
+        kam = 92, // Kamba
+        kde = 93, // Makonde
+        kea = 94, // Kabuverdianu
+        khq = 95, // Koyra Chiini
+        ki = 96, // Kikuyu
+        kk = 97, // Kazakh
+        kkj = 98, // Kako
+        kl = 99, // Kalaallisut
+        kln = 100, // Kalenjin
+        km = 101, // Khmer
+        kn = 102, // Kannada
+        ko = 103, // Korean
+        kok = 104, // Konkani
+        kr = 105, // Kanuri
+        ks = 106, // Kashmiri
+        ksb = 107, // Shambala
+        ksf = 108, // Bafia
+        ksh = 109, // Colognian
         //ku, // Kurdish
-        kw, // Cornish
-        ky, // Kyrgyz
-        la, // Latin
-        lag, // Langi
-        lb, // Luxembourgish
-        lg, // Ganda
-        lkt, // Lakota
-        ln, // Lingala
-        lo, // Lao
-        lrc, // Northern Luri
-        lt, // Lithuanian
-        luo, // Luo
-        luy, // Luyia
-        lv, // Latvian
-        mai, // Maithili
-        mas, // Masai
-        mer, // Meru
-        mfe, // Morisyen
-        mg, // Malagasy
-        mgo, // Metaʼ
-        mi, // Maori
-        mk, // Macedonian
-        ml, // Malayalam
-        mn, // Mongolian
-        mni, // Manipuri
-        moh, // Mohawk
-        mr, // Marathi
-        ms, // Malay
-        mt, // Maltese
-        mua, // Mundang
-        my, // Burmese
-        mzn, // Mazanderani
-        naq, // Nama
-        nb, // Norwegian Bokmål
-        nd, // North Ndebele
-        nds, // Low German
-        ne, // Nepali
-        nl, // Dutch
-        nmg, // Kwasio
-        nn, // Norwegian Nynorsk
-        nnh, // Ngiemboon
-        nqo, // N’Ko
-        nr, // South Ndebele
-        nso, // Sesotho sa Leboa
-        nus, // Nuer
-        nyn, // Nyankole
-        oc, // Occitan
-        om, // Oromo
-        or, // Odia
-        os, // Ossetic
-        pa, // Punjabi
-        pap, // Papiamento
-        pcm, // Nigerian Pidgin
-        pl, // Polish
-        prg, // Prussian
-        ps, // Pashto
-        pt, // Portuguese
-        qu, // Quechua
-        quc, // Kʼicheʼ
-        rm, // Romansh
-        rn, // Rundi
-        ro, // Romanian
-        rof, // Rombo
-        ru, // Russian
-        rw, // Kinyarwanda
-        rwk, // Rwa
-        sa, // Sanskrit
-        sah, // Sakha
-        saq, // Samburu
-        sat, // Santali
-        sbp, // Sangu
-        sd, // Sindhi
-        se, // Northern Sami
-        seh, // Sena
-        ses, // Koyraboro Senni
-        sg, // Sango
-        shi, // Tachelhit
-        si, // Sinhala
-        sk, // Slovak
-        sl, // Slovenian
-        sma, // Southern Sami
-        smj, // Lule Sami
-        smn, // Inari Sami
-        sms, // Skolt Sami
-        sn, // Shona
-        so, // Somali
-        sq, // Albanian
-        sr, // Serbian
-        ss, // siSwati
-        ssy, // Saho
-        st, // Sesotho
-        su, // Sundanese
-        sv, // Swedish
-        sw, // Kiswahili
-        syr, // Syriac
-        ta, // Tamil
-        te, // Telugu
-        teo, // Teso
-        tg, // Tajik
-        th, // Thai
-        ti, // Tigrinya
-        tig, // Tigre
-        tk, // Turkmen
-        tn, // Setswana
-        to, // Tongan
-        tr, // Turkish
-        ts, // Xitsonga
-        tt, // Tatar
-        twq, // Tasawaq
-        tzm, // Central Atlas Tamazight
-        ug, // Uyghur
-        uk, // Ukrainian
-        ur, // Urdu
-        uz, // Uzbek
-        vai, // Vai
-        ve, // Venda
-        vi, // Vietnamese
-        vo, // Volapük
-        vun, // Vunjo
-        wae, // Walser
-        wal, // Wolaytta
-        wo, // Wolof
-        xh, // isiXhosa
-        xog, // Soga
-        yav, // Yangben
-        yi, // Yiddish
-        yo, // Yoruba
-        zgh, // Standard Moroccan Tamazight
-        zh, // Chinese
-        zu // isiZulu
+        kw = 110, // Cornish
+        ky = 111, // Kyrgyz
+        la = 112, // Latin
+        lag = 113, // Langi
+        lb = 114, // Luxembourgish
+        lg = 115, // Ganda
+        lkt = 116, // Lakota
+        ln = 117, // Lingala
+        lo = 118, // Lao
+        lrc = 119, // Northern Luri
+        lt = 120, // Lithuanian
+        luo = 121, // Luo
+        luy = 122, // Luyia
+        lv = 123, // Latvian
+        mai = 124, // Maithili
+        mas = 125, // Masai
+        mer = 126, // Meru
+        mfe = 127, // Morisyen
+        mg = 128, // Malagasy
+        mgo = 129, // Metaʼ
+        mi = 130, // Maori
+        mk = 131, // Macedonian
+        ml = 132, // Malayalam
+        mn = 133, // Mongolian
+        mni = 134, // Manipuri
+        moh = 135, // Mohawk
+        mr = 136, // Marathi
+        ms = 137, // Malay
+        mt = 138, // Maltese
+        mua = 139, // Mundang
+        my = 140, // Burmese
+        mzn = 141, // Mazanderani
+        naq = 142, // Nama
+        nb = 143, // Norwegian Bokmål
+        nd = 144, // North Ndebele
+        nds = 145, // Low German
+        ne = 146, // Nepali
+        nl = 147, // Dutch
+        nmg = 148, // Kwasio
+        nn = 149, // Norwegian Nynorsk
+        nnh = 150, // Ngiemboon
+        nqo = 151, // N’Ko
+        nr = 152, // South Ndebele
+        nso = 153, // Sesotho sa Leboa
+        nus = 154, // Nuer
+        nyn = 155, // Nyankole
+        oc = 156, // Occitan
+        om = 157, // Oromo
+        or = 158, // Odia
+        os = 159, // Ossetic
+        pa = 160, // Punjabi
+        pap = 161, // Papiamento
+        pcm = 162, // Nigerian Pidgin
+        pl = 163, // Polish
+        prg = 164, // Prussian
+        ps = 165, // Pashto
+        pt = 166, // Portuguese
+        qu = 167, // Quechua
+        quc = 168, // Kʼicheʼ
+        rm = 169, // Romansh
+        rn = 170, // Rundi
+        ro = 171, // Romanian
+        rof = 172, // Rombo
+        ru = 173, // Russian
+        rw = 174, // Kinyarwanda
+        rwk = 175, // Rwa
+        sa = 176, // Sanskrit
+        sah = 177, // Sakha
+        saq = 178, // Samburu
+        sat = 179, // Santali
+        sbp = 180, // Sangu
+        sd = 181, // Sindhi
+        se = 182, // Northern Sami
+        seh = 183, // Sena
+        ses = 184, // Koyraboro Senni
+        sg = 185, // Sango
+        shi = 186, // Tachelhit
+        si = 187, // Sinhala
+        sk = 188, // Slovak
+        sl = 189, // Slovenian
+        sma = 190, // Southern Sami
+        smj = 191, // Lule Sami
+        smn = 192, // Inari Sami
+        sms = 193, // Skolt Sami
+        sn = 194, // Shona
+        so = 195, // Somali
+        sq = 196, // Albanian
+        sr = 197, // Serbian
+        ss = 198, // siSwati
+        ssy = 199, // Saho
+        st = 200, // Sesotho
+        su = 201, // Sundanese
+        sv = 202, // Swedish
+        sw = 203, // Kiswahili
+        syr = 204, // Syriac
+        ta = 205, // Tamil
+        te = 206, // Telugu
+        teo = 207, // Teso
+        tg = 208, // Tajik
+        th = 209, // Thai
+        ti = 210, // Tigrinya
+        tig = 211, // Tigre
+        tk = 212, // Turkmen
+        tn = 213, // Setswana
+        to = 214, // Tongan
+        tr = 215, // Turkish
+        ts = 216, // Xitsonga
+        tt = 217, // Tatar
+        twq = 218, // Tasawaq
+        tzm = 219, // Central Atlas Tamazight
+        ug = 220, // Uyghur
+        uk = 221, // Ukrainian
+        ur = 222, // Urdu
+        uz = 223, // Uzbek
+        vai = 224, // Vai
+        ve = 225, // Venda
+        vi = 226, // Vietnamese
+        vo = 227, // Volapük
+        vun = 228, // Vunjo
+        wae = 229, // Walser
+        wal = 230, // Wolaytta
+        wo = 231, // Wolof
+        xh = 232, // isiXhosa
+        xog = 233, // Soga
+        yav = 234, // Yangben
+        yi = 235, // Yiddish
+        yo = 236, // Yoruba
+        zgh = 237, // Standard Moroccan Tamazight
+        zh = 238, // Chinese
+        zu = 239, // isiZulu
     }
 }

@@ -2,282 +2,268 @@
 {
     public enum LanguageLocaleVariationCode
     {
-        Default,
-        DJ, // Djibouti
-        ER, // Eritrea
-        ET, // Ethiopia
-        NA, // Namibia
-        ZA, // South Africa
-        CM, // Cameroon
-        GH, // Ghana
-        AE, // United Arab Emirates
-        BH, // Bahrain
-        DZ, // Algeria
-        EG, // Egypt
-        IL, // Israel
-        IQ, // Iraq
-        JO, // Jordan
-        KM, // Comoros
-        KW, // Kuwait
-        LB, // Lebanon
-        LY, // Libya
-        MA, // Morocco
-        MR, // Mauritania
-        OM, // Oman
-        PS, // Palestinian Authority
-        QA, // Qatar
-        SA, // Saudi Arabia
-        SD, // Sudan
-        SO, // Somalia
-        SS, // South Sudan
-        SY, // Syria
-        TD, // Chad
-        TN, // Tunisia
-        YE, // Yemen
-        CL, // Chile
-        IN, // India
-        TZ, // Tanzania
-        ES, // Spain
-        Cyrl, // Cyrillic
-        Latn, // Latin
-        RU, // Russia
-        BY, // Belarus
-        ZM, // Zambia
-        BG, // Bulgaria
-        NG, // Nigeria
-        ML, // Mali
-        BD, // Bangladesh
-        CN, // China
-        FR, // France
-        AD, // Andorra
-        IT, // Italy
-        PH, // Philippines
-        UG, // Uganda
-        US, // United States
-        IR, // Iran
-        CZ, // Czechia
-        GB, // United Kingdom
-        DK, // Denmark
-        GL, // Greenland
-        KE, // Kenya
-        AT, // Austria
-        BE, // Belgium
-        CH, // Switzerland
-        DE, // Germany
-        LI, // Liechtenstein
-        LU, // Luxembourg
-        NE, // Niger
-        MV, // Maldives
-        SN, // Senegal
-        BT, // Bhutan
-        TG, // Togo
-        CY, // Cyprus
-        GR, // Greece
-        AG, // Antigua & Barbuda
-        AI, // Anguilla
-        AS, // American Samoa
-        AU, // Australia
-        BB, // Barbados
-        BI, // Burundi
-        BM, // Bermuda
-        BS, // Bahamas
-        BW, // Botswana
-        BZ, // Belize
-        CA, // Canada
-        CC, // Cocos [Keeling] Islands
-        CK, // Cook Islands
-        CX, // Christmas Island
-        DM, // Dominica
-        FI, // Finland
-        FJ, // Fiji
-        FK, // Falkland Islands
-        FM, // Micronesia
-        GD, // Grenada
-        GG, // Guernsey
-        GI, // Gibraltar
-        GM, // Gambia
-        GU, // Guam
-        GY, // Guyana
-        HK, // Hong Kong SAR
-        ID, // Indonesia
-        IE, // Ireland
-        IM, // Isle of Man
-        IO, // British Indian Ocean Territory
-        JE, // Jersey
-        JM, // Jamaica
-        KI, // Kiribati
-        KN, // St. Kitts & Nevis
-        KY, // Cayman Islands
-        LC, // St. Lucia
-        LR, // Liberia
-        LS, // Lesotho
-        MG, // Madagascar
-        MH, // Marshall Islands
-        MO, // Macao SAR
-        MP, // Northern Mariana Islands
-        MS, // Montserrat
-        MT, // Malta
-        MU, // Mauritius
-        MW, // Malawi
-        MY, // Malaysia
-        NF, // Norfolk Island
-        NL, // Netherlands
-        NR, // Nauru
-        NU, // Niue
-        NZ, // New Zealand
-        PG, // Papua New Guinea
-        PK, // Pakistan
-        PN, // Pitcairn Islands
-        PR, // Puerto Rico
-        PW, // Palau
-        RW, // Rwanda
-        SB, // Solomon Islands
-        SC, // Seychelles
-        SE, // Sweden
-        SG, // Singapore
-        SH, // St Helena, Ascension, Tristan da Cunha
-        SI, // Slovenia
-        SL, // Sierra Leone
-        SX, // Sint Maarten
-        SZ, // Eswatini
-        TC, // Turks & Caicos Islands
-        TK, // Tokelau
-        TO, // Tonga
-        TT, // Trinidad & Tobago
-        TV, // Tuvalu
-        UM, // U.S. Outlying Islands
-        VC, // St. Vincent & Grenadines
-        VG, // British Virgin Islands
-        VI, // U.S. Virgin Islands
-        VU, // Vanuatu
-        WS, // Samoa
-        ZW, // Zimbabwe
-        AR, // Argentina
-        BO, // Bolivia
-        BR, // Brazil
-        CO, // Colombia
-        CR, // Costa Rica
-        CU, // Cuba
-        DO, // Dominican Republic
-        EC, // Ecuador
-        GQ, // Equatorial Guinea
-        GT, // Guatemala
-        HN, // Honduras
-        MX, // Mexico
-        NI, // Nicaragua
-        PA, // Panama
-        PE, // Peru
-        PY, // Paraguay
-        SV, // El Salvador
-        UY, // Uruguay
-        VE, // Venezuela
-        EE, // Estonia
-        AF, // Afghanistan
-        Adlm, // Adlam
-        FO, // Faroe Islands
-        BF, // Burkina Faso
-        BJ, // Benin
-        BL, // St. Barthélemy
-        CD, // Congo [DRC]
-        CF, // Central African Republic
-        CG, // Congo
-        CI, // Côte d’Ivoire
-        GA, // Gabon
-        GF, // French Guiana
-        GN, // Guinea
-        GP, // Guadeloupe
-        HT, // Haiti
-        MC, // Monaco
-        MF, // St. Martin
-        MQ, // Martinique
-        NC, // New Caledonia
-        PF, // French Polynesia
-        PM, // St. Pierre & Miquelon
-        RE, // Réunion
-        WF, // Wallis & Futuna
-        YT, // Mayotte
-        BA, // Bosnia & Herzegovina
-        HR, // Croatia
-        HU, // Hungary
-        AM, // Armenia
-        IS, // Iceland
-        SM, // San Marino
-        VA, // Vatican City
-        JP, // Japan
-        Java, // Javanese
-        GE, // Georgia
-        CV, // Cabo Verde
-        KZ, // Kazakhstan
-        KH, // Cambodia
-        KP, // North Korea
-        KR, // Korea
-        Arab, // Arabic
-        Deva, // Devanagari
-        KG, // Kyrgyzstan
-        AO, // Angola
-        LA, // Laos
-        LT, // Lithuania
-        LV, // Latvia
-        MZ, // Mozambique
-        MK, // North Macedonia
-        MN, // Mongolia
-        Mong, // Mongolian
-        Beng, // Bangla
-        BN, // Brunei
-        MM, // Myanmar
-        NO, // Norway
-        SJ, // Svalbard & Jan Mayen
-        NP, // Nepal
-        AW, // Aruba
-        BQ, // Bonaire, Sint Eustatius and Saba
-        CW, // Curaçao
-        SR, // Suriname
-        Guru, // Gurmukhi
-        PL, // Poland
-        GW, // Guinea-Bissau
-        PT, // Portugal
-        ST, // São Tomé & Príncipe
-        TL, // Timor-Leste
-        MD, // Moldova
-        RO, // Romania
-        UA, // Ukraine
-        Olck, // Ol Chiki
-        Tfng, // Tifinagh
-        LK, // Sri Lanka
-        SK, // Slovakia
-        AL, // Albania
-        XK, // Kosovo
-        AX, // Åland Islands
-        TJ, // Tajikistan
-        TH, // Thailand
-        TM, // Turkmenistan
-        TR, // Turkey
-        Vaii, // Vai
-        VN, // Vietnam
-        Hans, // Simplified Chinese
-        Hant, // Traditional Chinese
-        // NOTE: the ALL-CAPS members below duplicate the mixed-case script codes above with
-        // different underlying values. Case-insensitive parsing (HumanHelper) always resolves
-        // to the mixed-case member, which is also the canonical BCP-47 casing. The ALL-CAPS
-        // members are kept only for backwards compatibility — prefer the mixed-case ones.
-        DEVA, // Devanagari (prefer Deva)
-        ARAB, // Arabic (prefer Arab)
-        CYRL, // Cyrillic (prefer Cyrl)
-        LATN, // Latin (prefer Latn)
-        TFNG, // Tifinagh (prefer Tfng)
-        OLCK, // Ol Chiki (prefer Olck)
-        JAVA, // Javanese (prefer Java)
-        MONG, // Mongolian (prefer Mong)
-        BENG, // Bangla (prefer Beng)
-        GURU, // Gurmukhi (prefer Guru)
-        VAII, // Vai (prefer Vaii)
-        HANT, // Traditional Chinese (prefer Hant)
-        HANS, // Simplified Chinese (prefer Hans)
-        ME, // Montenegro
-        RS, // Serbia
-        UZ, // Uzbekistan
-        TW, // Taiwan
-        AZ, // Azerbaijan
-        ADLM // Adlam (prefer Adlm)
+        Default = 0,
+        DJ = 1, // Djibouti
+        ER = 2, // Eritrea
+        ET = 3, // Ethiopia
+        NA = 4, // Namibia
+        ZA = 5, // South Africa
+        CM = 6, // Cameroon
+        GH = 7, // Ghana
+        AE = 8, // United Arab Emirates
+        BH = 9, // Bahrain
+        DZ = 10, // Algeria
+        EG = 11, // Egypt
+        IL = 12, // Israel
+        IQ = 13, // Iraq
+        JO = 14, // Jordan
+        KM = 15, // Comoros
+        KW = 16, // Kuwait
+        LB = 17, // Lebanon
+        LY = 18, // Libya
+        MA = 19, // Morocco
+        MR = 20, // Mauritania
+        OM = 21, // Oman
+        PS = 22, // Palestinian Authority
+        QA = 23, // Qatar
+        SA = 24, // Saudi Arabia
+        SD = 25, // Sudan
+        SO = 26, // Somalia
+        SS = 27, // South Sudan
+        SY = 28, // Syria
+        TD = 29, // Chad
+        TN = 30, // Tunisia
+        YE = 31, // Yemen
+        CL = 32, // Chile
+        IN = 33, // India
+        TZ = 34, // Tanzania
+        ES = 35, // Spain
+        Cyrl = 36, // Cyrillic
+        Latn = 37, // Latin
+        RU = 38, // Russia
+        BY = 39, // Belarus
+        ZM = 40, // Zambia
+        BG = 41, // Bulgaria
+        NG = 42, // Nigeria
+        ML = 43, // Mali
+        BD = 44, // Bangladesh
+        CN = 45, // China
+        FR = 46, // France
+        AD = 47, // Andorra
+        IT = 48, // Italy
+        PH = 49, // Philippines
+        UG = 50, // Uganda
+        US = 51, // United States
+        IR = 52, // Iran
+        CZ = 53, // Czechia
+        GB = 54, // United Kingdom
+        DK = 55, // Denmark
+        GL = 56, // Greenland
+        KE = 57, // Kenya
+        AT = 58, // Austria
+        BE = 59, // Belgium
+        CH = 60, // Switzerland
+        DE = 61, // Germany
+        LI = 62, // Liechtenstein
+        LU = 63, // Luxembourg
+        NE = 64, // Niger
+        MV = 65, // Maldives
+        SN = 66, // Senegal
+        BT = 67, // Bhutan
+        TG = 68, // Togo
+        CY = 69, // Cyprus
+        GR = 70, // Greece
+        AG = 71, // Antigua & Barbuda
+        AI = 72, // Anguilla
+        AS = 73, // American Samoa
+        AU = 74, // Australia
+        BB = 75, // Barbados
+        BI = 76, // Burundi
+        BM = 77, // Bermuda
+        BS = 78, // Bahamas
+        BW = 79, // Botswana
+        BZ = 80, // Belize
+        CA = 81, // Canada
+        CC = 82, // Cocos [Keeling] Islands
+        CK = 83, // Cook Islands
+        CX = 84, // Christmas Island
+        DM = 85, // Dominica
+        FI = 86, // Finland
+        FJ = 87, // Fiji
+        FK = 88, // Falkland Islands
+        FM = 89, // Micronesia
+        GD = 90, // Grenada
+        GG = 91, // Guernsey
+        GI = 92, // Gibraltar
+        GM = 93, // Gambia
+        GU = 94, // Guam
+        GY = 95, // Guyana
+        HK = 96, // Hong Kong SAR
+        ID = 97, // Indonesia
+        IE = 98, // Ireland
+        IM = 99, // Isle of Man
+        IO = 100, // British Indian Ocean Territory
+        JE = 101, // Jersey
+        JM = 102, // Jamaica
+        KI = 103, // Kiribati
+        KN = 104, // St. Kitts & Nevis
+        KY = 105, // Cayman Islands
+        LC = 106, // St. Lucia
+        LR = 107, // Liberia
+        LS = 108, // Lesotho
+        MG = 109, // Madagascar
+        MH = 110, // Marshall Islands
+        MO = 111, // Macao SAR
+        MP = 112, // Northern Mariana Islands
+        MS = 113, // Montserrat
+        MT = 114, // Malta
+        MU = 115, // Mauritius
+        MW = 116, // Malawi
+        MY = 117, // Malaysia
+        NF = 118, // Norfolk Island
+        NL = 119, // Netherlands
+        NR = 120, // Nauru
+        NU = 121, // Niue
+        NZ = 122, // New Zealand
+        PG = 123, // Papua New Guinea
+        PK = 124, // Pakistan
+        PN = 125, // Pitcairn Islands
+        PR = 126, // Puerto Rico
+        PW = 127, // Palau
+        RW = 128, // Rwanda
+        SB = 129, // Solomon Islands
+        SC = 130, // Seychelles
+        SE = 131, // Sweden
+        SG = 132, // Singapore
+        SH = 133, // St Helena, Ascension, Tristan da Cunha
+        SI = 134, // Slovenia
+        SL = 135, // Sierra Leone
+        SX = 136, // Sint Maarten
+        SZ = 137, // Eswatini
+        TC = 138, // Turks & Caicos Islands
+        TK = 139, // Tokelau
+        TO = 140, // Tonga
+        TT = 141, // Trinidad & Tobago
+        TV = 142, // Tuvalu
+        UM = 143, // U.S. Outlying Islands
+        VC = 144, // St. Vincent & Grenadines
+        VG = 145, // British Virgin Islands
+        VI = 146, // U.S. Virgin Islands
+        VU = 147, // Vanuatu
+        WS = 148, // Samoa
+        ZW = 149, // Zimbabwe
+        AR = 150, // Argentina
+        BO = 151, // Bolivia
+        BR = 152, // Brazil
+        CO = 153, // Colombia
+        CR = 154, // Costa Rica
+        CU = 155, // Cuba
+        DO = 156, // Dominican Republic
+        EC = 157, // Ecuador
+        GQ = 158, // Equatorial Guinea
+        GT = 159, // Guatemala
+        HN = 160, // Honduras
+        MX = 161, // Mexico
+        NI = 162, // Nicaragua
+        PA = 163, // Panama
+        PE = 164, // Peru
+        PY = 165, // Paraguay
+        SV = 166, // El Salvador
+        UY = 167, // Uruguay
+        VE = 168, // Venezuela
+        EE = 169, // Estonia
+        AF = 170, // Afghanistan
+        Adlm = 171, // Adlam
+        FO = 172, // Faroe Islands
+        BF = 173, // Burkina Faso
+        BJ = 174, // Benin
+        BL = 175, // St. Barthélemy
+        CD = 176, // Congo [DRC]
+        CF = 177, // Central African Republic
+        CG = 178, // Congo
+        CI = 179, // Côte d’Ivoire
+        GA = 180, // Gabon
+        GF = 181, // French Guiana
+        GN = 182, // Guinea
+        GP = 183, // Guadeloupe
+        HT = 184, // Haiti
+        MC = 185, // Monaco
+        MF = 186, // St. Martin
+        MQ = 187, // Martinique
+        NC = 188, // New Caledonia
+        PF = 189, // French Polynesia
+        PM = 190, // St. Pierre & Miquelon
+        RE = 191, // Réunion
+        WF = 192, // Wallis & Futuna
+        YT = 193, // Mayotte
+        BA = 194, // Bosnia & Herzegovina
+        HR = 195, // Croatia
+        HU = 196, // Hungary
+        AM = 197, // Armenia
+        IS = 198, // Iceland
+        SM = 199, // San Marino
+        VA = 200, // Vatican City
+        JP = 201, // Japan
+        Java = 202, // Javanese
+        GE = 203, // Georgia
+        CV = 204, // Cabo Verde
+        KZ = 205, // Kazakhstan
+        KH = 206, // Cambodia
+        KP = 207, // North Korea
+        KR = 208, // Korea
+        Arab = 209, // Arabic
+        Deva = 210, // Devanagari
+        KG = 211, // Kyrgyzstan
+        AO = 212, // Angola
+        LA = 213, // Laos
+        LT = 214, // Lithuania
+        LV = 215, // Latvia
+        MZ = 216, // Mozambique
+        MK = 217, // North Macedonia
+        MN = 218, // Mongolia
+        Mong = 219, // Mongolian
+        Beng = 220, // Bangla
+        BN = 221, // Brunei
+        MM = 222, // Myanmar
+        NO = 223, // Norway
+        SJ = 224, // Svalbard & Jan Mayen
+        NP = 225, // Nepal
+        AW = 226, // Aruba
+        BQ = 227, // Bonaire, Sint Eustatius and Saba
+        CW = 228, // Curaçao
+        SR = 229, // Suriname
+        Guru = 230, // Gurmukhi
+        PL = 231, // Poland
+        GW = 232, // Guinea-Bissau
+        PT = 233, // Portugal
+        ST = 234, // São Tomé & Príncipe
+        TL = 235, // Timor-Leste
+        MD = 236, // Moldova
+        RO = 237, // Romania
+        UA = 238, // Ukraine
+        Olck = 239, // Ol Chiki
+        Tfng = 240, // Tifinagh
+        LK = 241, // Sri Lanka
+        SK = 242, // Slovakia
+        AL = 243, // Albania
+        XK = 244, // Kosovo
+        AX = 245, // Åland Islands
+        TJ = 246, // Tajikistan
+        TH = 247, // Thailand
+        TM = 248, // Turkmenistan
+        TR = 249, // Turkey
+        Vaii = 250, // Vai
+        VN = 251, // Vietnam
+        Hans = 252, // Simplified Chinese
+        Hant = 253, // Traditional Chinese
+        // Explicit numeric values are a fixed contract. Never renumber a member or reuse a
+        // retired value. Values 254-266 and 272 belonged to legacy ALL-CAPS script duplicates
+        // (DEVA, ARAB, CYRL, … ADLM) removed in 11.0; they are permanently retired. Use the
+        // mixed-case script codes (Deva, Arab, Cyrl, …) — parsing is case-insensitive.
+        ME = 267, // Montenegro
+        RS = 268, // Serbia
+        UZ = 269, // Uzbekistan
+        TW = 270, // Taiwan
+        AZ = 271, // Azerbaijan
     }
 }

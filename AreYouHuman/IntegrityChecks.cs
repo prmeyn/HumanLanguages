@@ -40,5 +40,44 @@ namespace AreYouHuman
 
             Assert.AreEqual(0, offenders.Count, $"Empty language names: {string.Join(", ", offenders.Take(20))}");
         }
+
+        [TestMethod]
+        public void NoLegacyUppercaseScriptMembersRemain()
+        {
+            string[] removed = ["DEVA", "ARAB", "CYRL", "LATN", "TFNG", "OLCK", "JAVA", "MONG", "BENG", "GURU", "VAII", "HANT", "HANS", "ADLM"];
+            var present = Enum.GetNames<LanguageLocaleVariationCode>().Intersect(removed).ToList();
+            Assert.AreEqual(0, present.Count, $"Legacy ALL-CAPS script members must stay removed: {string.Join(", ", present)}");
+        }
+
+        [TestMethod]
+        public void EnumNumericValuesAreStable()
+        {
+            // Locks the explicit-value contract: these must never change (persisted data depends on them).
+            // Values live in a dictionary so the cast below is a runtime read, not a constant-folded compare.
+            var variations = new Dictionary<LanguageLocaleVariationCode, int>
+            {
+                [LanguageLocaleVariationCode.Default] = 0,
+                [LanguageLocaleVariationCode.Cyrl] = 36,
+                [LanguageLocaleVariationCode.Latn] = 37,
+                [LanguageLocaleVariationCode.ME] = 267,
+                [LanguageLocaleVariationCode.AZ] = 271,
+            };
+            foreach (var (member, expected) in variations)
+            {
+                Assert.AreEqual(expected, (int)member, $"{member} value changed");
+            }
+
+            var languages = new Dictionary<LanguageId, int>
+            {
+                [LanguageId.aa] = 0,
+                [LanguageId.@as] = 7,
+                [LanguageId.@is] = 83,
+                [LanguageId.zu] = 239,
+            };
+            foreach (var (member, expected) in languages)
+            {
+                Assert.AreEqual(expected, (int)member, $"{member} value changed");
+            }
+        }
     }
 }

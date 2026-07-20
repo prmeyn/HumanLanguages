@@ -251,7 +251,6 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Latn, "Látín (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "Látín (Latin)" },
 				{ LanguageLocaleVariationCode.NG, "Látín (Latin), Nijeriya (Nigeria)" },
 			});
 	}

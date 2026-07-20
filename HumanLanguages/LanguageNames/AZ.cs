@@ -251,10 +251,8 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Cyrl, "Кириллица (Cyrillic)" },
-				{ LanguageLocaleVariationCode.CYRL, "Кириллица (Cyrillic)" },
 				{ LanguageLocaleVariationCode.AZ, "Azərbaycan (Azerbaijan)" },
 				{ LanguageLocaleVariationCode.Latn, "Latın əlifbası (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "Latın əlifbası (Latin)" },
 			});
 	}
 }

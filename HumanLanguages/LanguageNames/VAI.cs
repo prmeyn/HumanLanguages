@@ -251,10 +251,8 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Latn, "Latinɛ nɛ tii (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "Latinɛ nɛ tii (Latin)" },
 				{ LanguageLocaleVariationCode.LR, "Latinɛ nɛ tii, 𐠪𐠢𐠬𐠡𐠭𐠡 (Latin, Liberia)" },
 				{ LanguageLocaleVariationCode.Vaii, "𐠬𐠡𐠣𐠭𐠤𐠲𐠤𐠰 (Vai)" },
-				{ LanguageLocaleVariationCode.VAII, "𐠬𐠡𐠣𐠭𐠤𐠲𐠤𐠰 (Vai)" },
 			});
 	}
 }

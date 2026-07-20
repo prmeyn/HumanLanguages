@@ -251,7 +251,6 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Beng, "বাংলা (Bangla)" },
-				{ LanguageLocaleVariationCode.BENG, "বাংলা (Bangla)" },
 				{ LanguageLocaleVariationCode.IN, "বাংলা, ভাৰত (Bangla, India)" },
 			});
 	}

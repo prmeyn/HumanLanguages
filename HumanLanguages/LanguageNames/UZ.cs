@@ -251,13 +251,10 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Arab, "عرب تили (Arabic)" },
-				{ LanguageLocaleVariationCode.ARAB, "عرب تили (Arabic)" },
 				{ LanguageLocaleVariationCode.AF, "عرب تили, افغانستان (Arabic, Afghanistan)" },
 				{ LanguageLocaleVariationCode.Cyrl, "Кирилл йозуви (Cyrillic)" },
-				{ LanguageLocaleVariationCode.CYRL, "Кирилл йозуви (Cyrillic)" },
 				{ LanguageLocaleVariationCode.UZ, "Кирилл йозуви, Oʻzbekiston (Cyrillic, Uzbekistan)" },
 				{ LanguageLocaleVariationCode.Latn, "Lotin yozuvi (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "Lotin yozuvi (Latin)" },
 			});
 	}
 }

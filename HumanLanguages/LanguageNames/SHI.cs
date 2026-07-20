@@ -251,10 +251,8 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Latn, "ⵍⴰⵜⵉⵏ (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "ⵍⴰⵜⵉⵏ (Latin)" },
 				{ LanguageLocaleVariationCode.MA, "ⵍⴰⵜⵉⵏ,ⵍⵎⵖⵔⵉⴱ (Latin, Morocco)" },
 				{ LanguageLocaleVariationCode.Tfng, "ⵜⵉⴼⵉⵏⴰⵖ (Tifinagh)" },
-				{ LanguageLocaleVariationCode.TFNG, "ⵜⵉⴼⵉⵏⴰⵖ (Tifinagh)" },
 			});
 	}
 }

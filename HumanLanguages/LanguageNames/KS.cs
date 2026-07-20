@@ -251,10 +251,8 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Arab, "عربي (Arabic)" },
-				{ LanguageLocaleVariationCode.ARAB, "عربي (Arabic)" },
 				{ LanguageLocaleVariationCode.IN, "بھارت (India)" },
 				{ LanguageLocaleVariationCode.Deva, "देवनागरी (Devanagari)" },
-				{ LanguageLocaleVariationCode.DEVA, "देवनागरी (Devanagari)" },
 			});
 	}
 }

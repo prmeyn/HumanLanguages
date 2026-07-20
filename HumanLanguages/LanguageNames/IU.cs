@@ -252,7 +252,6 @@ namespace HumanLanguages.LanguageNames
 			{
 				{ LanguageLocaleVariationCode.CA, "ᑲᓇᑕ (Canada)" },
 				{ LanguageLocaleVariationCode.Latn, "ᓚᑎᓕᕆᔾᔪᑎᕗᖓ (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "ᓚᑎᓕᕆᔾᔪᑎᕗᖓ (Latin)" },
 			});
 	}
 }

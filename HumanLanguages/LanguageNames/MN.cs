@@ -252,7 +252,6 @@ namespace HumanLanguages.LanguageNames
 			{
 				{ LanguageLocaleVariationCode.MN, "Монгол (Mongolia)" },
 				{ LanguageLocaleVariationCode.Mong, "Монгол хэл (Mongolian)" },
-				{ LanguageLocaleVariationCode.MONG, "Монгол хэл (Mongolian)" },
 				{ LanguageLocaleVariationCode.CN, "Монгол хэл,Хятад (Mongolian, China)" },
 			});
 	}
