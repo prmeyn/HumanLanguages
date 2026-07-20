@@ -251,13 +251,11 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Cyrl, "ћирилица (Cyrillic)" },
-				{ LanguageLocaleVariationCode.CYRL, "ћирилица (Cyrillic)" },
 				{ LanguageLocaleVariationCode.BA, "ћирилица, Босна и Херцеговина (Cyrillic, Bosnia & Herzegovina)" },
 				{ LanguageLocaleVariationCode.ME, "ћирилица,  Црна Гора (Cyrillic, Montenegro)" },
 				{ LanguageLocaleVariationCode.RS, "ћирилица, Србија (Cyrillic, Serbia)" },
 				{ LanguageLocaleVariationCode.XK, "ћирилица, Косово  (Cyrillic, Kosovo)" },
 				{ LanguageLocaleVariationCode.Latn, "латиница (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "латиница (Latin)" },
 			});
 	}
 }

@@ -251,7 +251,6 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Latn, "اللاتينية (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "اللاتينية (Latin)" },
 				{ LanguageLocaleVariationCode.ID, "اللاتينية, إندونيسيا (Latin, Indonesia)" },
 			});
 	}

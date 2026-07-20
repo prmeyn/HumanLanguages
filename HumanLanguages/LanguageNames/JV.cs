@@ -252,7 +252,6 @@ namespace HumanLanguages.LanguageNames
 			{
 				{ LanguageLocaleVariationCode.ID, "ꦲꦤꦝꦺꦭꦶꦪꦤ (Indonesia)" },
 				{ LanguageLocaleVariationCode.Java, "ꦧꦱꦗꦮ (Javanese)" },
-				{ LanguageLocaleVariationCode.JAVA, "ꦧꦱꦗꦮ (Javanese)" },
 			});
 	}
 }

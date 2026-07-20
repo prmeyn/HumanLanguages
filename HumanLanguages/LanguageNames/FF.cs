@@ -251,7 +251,6 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Adlm, "Ɓatɗoɗo (Adlam)" },
-				{ LanguageLocaleVariationCode.ADLM, "Ɓatɗoɗo (Adlam)" },
 				{ LanguageLocaleVariationCode.BF, "Ɓatɗoɗo (Adlam, Burkina Faso)" },// same
 				{ LanguageLocaleVariationCode.CM, "Ɓatɗoɗo, Kamerun (Adlam, Cameroon)" },
 				{ LanguageLocaleVariationCode.GH, "Ɓatɗoɗo, Gana (Adlam, Ghana)" },
@@ -265,7 +264,6 @@ namespace HumanLanguages.LanguageNames
 				{ LanguageLocaleVariationCode.SL, "Ɓatɗoɗo, Sera Lɔɔn (Adlam, Sierra Leone)" },
 				{ LanguageLocaleVariationCode.SN, "Ɓatɗoɗo, Senegaal (Adlam, Senegal)" },
 				{ LanguageLocaleVariationCode.Latn, "Ɓa Latin (Latin)" },
-				{ LanguageLocaleVariationCode.LATN, "Ɓa Latin (Latin)" },
 			});
 	}
 }

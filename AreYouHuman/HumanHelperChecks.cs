@@ -156,11 +156,40 @@ namespace AreYouHuman
         }
 
         [TestMethod]
-        public void CheckLegacyUppercaseScriptMembersStillHaveNativeNames()
+        public void CheckUppercaseScriptCodeResolvesToCanonicalMember()
         {
-            // Assert
-            Assert.IsTrue(Languages.LanguagePropertiesDictionary[LanguageId.sr].VariationNativeNames
-                .ContainsKey(LanguageLocaleVariationCode.CYRL));
+            // After 11.0 removed the ALL-CAPS script members, any casing resolves to the mixed-case member.
+            var result = HumanHelper.CreateLanguageIsoCode("sr-CYRL");
+
+            Assert.AreEqual(new LanguageIsoCode(LanguageId.sr, LanguageLocaleVariationCode.Cyrl), result);
+            Assert.IsTrue(Languages.LanguagePropertiesDictionary[result.LanguageId].VariationNativeNames
+                .ContainsKey(result.LanguageLocaleVariationCode));
+        }
+
+        [TestMethod]
+        public void TryCreateReturnsTrueForValidInput()
+        {
+            Assert.IsTrue(HumanHelper.TryCreateLanguageIsoCode("da-DK", out var result));
+            Assert.AreEqual(new LanguageIsoCode(LanguageId.da, LanguageLocaleVariationCode.DK), result);
+
+            Assert.IsTrue(HumanHelper.TryCreateLanguageIsoCode("en", out var noLocale));
+            Assert.AreEqual(new LanguageIsoCode(LanguageId.en, LanguageLocaleVariationCode.Default), noLocale);
+        }
+
+        [TestMethod]
+        public void TryCreateReturnsFalseForInvalidInput()
+        {
+            Assert.IsFalse(HumanHelper.TryCreateLanguageIsoCode("zzz", out var badLang));
+            Assert.IsNull(badLang);
+
+            Assert.IsFalse(HumanHelper.TryCreateLanguageIsoCode("en-ZZZ", out var badLocale));
+            Assert.IsNull(badLocale);
+
+            Assert.IsFalse(HumanHelper.TryCreateLanguageIsoCode("999", out var numeric));
+            Assert.IsNull(numeric);
+
+            Assert.IsFalse(HumanHelper.TryCreateLanguageIsoCode("", out var empty));
+            Assert.IsNull(empty);
         }
     }
 }

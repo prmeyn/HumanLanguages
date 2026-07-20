@@ -251,11 +251,9 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Arab, "ⵣⴰⵖⵔⴷ (Arabic)" },
-				{ LanguageLocaleVariationCode.ARAB, "ⵣⴰⵖⵔⴷ (Arabic)" },
 				{ LanguageLocaleVariationCode.MA, "ⵣⴰⵖⵔⴷ, ⵍⵎⵖⵔⵉⴱ  (Arabic, Morocco)" },
 				{ LanguageLocaleVariationCode.DZ, "ⵍⵣⵣⴰⵢⴻⵔ (Algeria)" },
 				{ LanguageLocaleVariationCode.Tfng, "ⵜⵉⴼⵉⵏⴰⵖ (Tifinagh)" },
-				{ LanguageLocaleVariationCode.TFNG, "ⵜⵉⴼⵉⵏⴰⵖ (Tifinagh)" },
 			});
 	}
 }

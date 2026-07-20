@@ -251,13 +251,11 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Hans, "简体 (Simplified)" },
-				{ LanguageLocaleVariationCode.HANS, "简体 (Simplified)" },
 				{ LanguageLocaleVariationCode.CN, "简体，中国 (Simplified, China)" },
 				{ LanguageLocaleVariationCode.HK, "简体，香港特别行政区 (Simplified, Hong Kong SAR)" },
 				{ LanguageLocaleVariationCode.MO, "简体，澳门特别行政区 (Simplified, Macao SAR)" },
 				{ LanguageLocaleVariationCode.SG, "简体，新加坡 (Simplified, Singapore)" },
 				{ LanguageLocaleVariationCode.Hant, "繁体 (Traditional)" },
-				{ LanguageLocaleVariationCode.HANT, "繁体 (Traditional)" },
 				{ LanguageLocaleVariationCode.TW, "繁体，台湾 (Traditional, Taiwan)" },
 			});
 	}

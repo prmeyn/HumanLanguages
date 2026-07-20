@@ -251,7 +251,6 @@ namespace HumanLanguages.LanguageNames
 			new Dictionary<LanguageLocaleVariationCode, string>()
 			{
 				{ LanguageLocaleVariationCode.Olck, "ᱚᱞ ᱥᱟᱱᱟᱣ (Ol Chiki)" },
-				{ LanguageLocaleVariationCode.OLCK, "ᱚᱞ ᱥᱟᱱᱟᱣ (Ol Chiki)" },
 				{ LanguageLocaleVariationCode.IN, "ᱚᱞ ᱥᱟᱱᱟᱣ, ᱢᱟᱱᱟᱣ (Ol Chiki, India)" },
 			});
 	}
