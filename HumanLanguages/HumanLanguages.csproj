@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Description>A database of human language names in many languages, with language and locale-variation codes.</Description>
-    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/prmeyn/HumanLanguages</PackageProjectUrl>
     <RepositoryUrl>https://github.com/prmeyn/HumanLanguages</RepositoryUrl>
     <RepositoryType>git</RepositoryType>

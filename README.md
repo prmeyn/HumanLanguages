@@ -77,6 +77,6 @@ We welcome contributions! If you find a bug, have an idea for improvement, or wa
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE.
+This project is licensed under the MIT License.
 
 Happy coding! 🚀🌐📚
